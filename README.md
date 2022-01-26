@@ -21,5 +21,4 @@
 <a href="https://www.instagram.com/shanraisshan"><img src="images/icon/instagram.png"/></a>
 <a href="https://www.snapchat.com/add/shanraisshan"><img src="images/icon/snapchat.png"/></a> 
 <a href="https://www.tiktok.com/@shanraisshan"><img src="images/icon/tiktok.png"/></a>
-<a href="https://wa.me/923352621149"><img src="images/icon/whatsapp.png"/></a>
 </p>
