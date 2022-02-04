@@ -27,9 +27,3 @@
 <a href="https://www.snapchat.com/add/shanraisshan"><img src="images/icon/snapchat.png"/></a> 
 <a href="https://www.tiktok.com/@shanraisshan"><img src="images/icon/tiktok.png"/></a>
 </p>
-
-
----
-
-> On Yosemite🏞️ with Arctic Fox🦊 holding Kitkat🍫 in my hand.
-> Who Am I?
