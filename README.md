@@ -1,4 +1,9 @@
-## Shayan Rais (shanraisshan), Leading Android at <a href="https://savyour.app/shayan"><img src="images/savyour.png"/></a>
+<h3 align="center">On Yosemite🏞️ with Arctic Fox🦊 holding Kitkat🍫 in my hand.</h3>
+<h3 align="center">Who Am I?</h3>
+<h3 align="center">📱</h3>
+
+#
+<h2 align="left">Shayan Rais (shanraisshan), Leading Android at <a href="https://savyour.app/shayan"><img src="images/savyour.png"/></a></h2>
 
 ### Work 💻
 <p>
@@ -22,3 +27,9 @@
 <a href="https://www.snapchat.com/add/shanraisshan"><img src="images/icon/snapchat.png"/></a> 
 <a href="https://www.tiktok.com/@shanraisshan"><img src="images/icon/tiktok.png"/></a>
 </p>
+
+
+---
+
+> On Yosemite🏞️ with Arctic Fox🦊 holding Kitkat🍫 in my hand.
+> Who Am I?
