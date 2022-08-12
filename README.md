@@ -22,8 +22,4 @@
 <a href="https://join.skype.com/invite/a96B8Fo76KBW"><img src="images/icon/skype.png"/></a> 
 <a href="https://www.youtube.com/c/shanraisshan"><img src="images/icon/youtube.png"/></a> 
 <a href="https://twitter.com/shanraisshan"><img src="images/icon/twitter.png"/></a>
-<a href="https://www.facebook.com/shanraisshan"><img src="images/icon/facebook.png"/></a> 
-<a href="https://www.instagram.com/shanraisshan"><img src="images/icon/instagram.png"/></a>
-<a href="https://www.snapchat.com/add/shanraisshan"><img src="images/icon/snapchat.png"/></a> 
-<a href="https://www.tiktok.com/@shanraisshan"><img src="images/icon/tiktok.png"/></a>
 </p>
