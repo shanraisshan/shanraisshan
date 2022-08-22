@@ -25,5 +25,11 @@
 </p>
 
 <a href="https://www.hackerrank.com/shanraisshan">
-   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Leet code rating" />
+   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
+</a>
+<a href="https://www.udemy.com/user/shayan-rais-2/">
+   <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6" alt="udacity" />
+</a>
+<a href="https://www.coursera.org/user/c5a8530ecbe523a8d18bc6b926a83fca">
+   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera" />
 </a>
