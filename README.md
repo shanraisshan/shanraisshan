@@ -24,6 +24,6 @@
 <a href="https://twitter.com/shanraisshan"><img src="images/icon/twitter.png"/></a>
 </p>
 
-<a href="https://www.hackerrank.com/shanraisshan/hackos">
+<a href="https://www.hackerrank.com/shanraisshan">
    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Leet code rating" />
 </a>
