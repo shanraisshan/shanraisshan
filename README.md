@@ -49,3 +49,11 @@
 <a href="https://www.coursera.org/user/c5a8530ecbe523a8d18bc6b926a83fca">
    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera" />
 </a>
+
+### Recent Activity
+
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shanraisshan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shanraisshan/0" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shanraisshan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shanraisshan/1" alt="Latest medium article"> </a>
