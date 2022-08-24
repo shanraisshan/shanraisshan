@@ -17,10 +17,9 @@
   <a href="https://leetcode.com/shanraisshan/">
     <img src="https://cp-logo.vercel.app/leetcode/shanraisshan" alt="Leet code rating" />
   </a>
-  <a href="https://stackoverflow.com/users/4754141/shanraisshan">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/4754141?color=orange&label=reputation&logo=stackoverflow" alt="Stack Overflow reputation" >
-  </a>
 </p>
+
+<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="https://stackoverflow.com/users/flair/4754141.png?theme=clean" width="208" height="58" alt="shanraisshan (Stack Overflow)" title="shanraisshan (Stack Overflow)"></a>
 
 ### Work 💻
 <p>
