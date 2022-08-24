@@ -5,6 +5,23 @@
 #
 <h2 align="left">Shayan Rais (shanraisshan), Leading Android at <a href="https://savyour.app/shayan"><img src="images/savyour.png"/></a></h2>
 
+
+<p align="left">
+  
+  <a href="https://github.com/shanraisshan?tab=followers">
+    <img src="https://img.shields.io/github/followers/shanraisshan?color=green&logo=github" alt="GitHub followers" >
+  </a>
+  <a href="https://github.com/shanraisshan/">
+    <img src="https://komarev.com/ghpvc/?username=shanraisshan" alt="visitors" />
+  </a>
+  <a href="https://leetcode.com/shanraisshan/">
+    <img src="https://cp-logo.vercel.app/leetcode/shanraisshan" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/4754141/shanraisshan">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/4754141?color=orange&label=reputation&logo=stackoverflow" alt="Stack Overflow reputation" >
+  </a>
+</p>
+
 ### Work 💻
 <p>
 <a href="https://www.linkedin.com/in/shanraisshan"><img src="images/icon/linkedin.png"/></a> 
