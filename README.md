@@ -1,4 +1,4 @@
-<h3 align="center">On Yosemite🏞️ with Arctic Fox🦊 holding Kitkat🍫 in my hand.</h3>
+<h3 align="center">On Yosemite🏞️ with Dolphin🐬 holding Pie🥧 in my hand.</h3>
 <h3 align="center">Who Am I?</h3>
 <h3 align="center">📱</h3>
 
