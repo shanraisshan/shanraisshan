@@ -2,6 +2,8 @@
 <h3 align="center">Who Am I?</h3>
 <h3 align="center">📱</h3>
 
+> I create jobs for data scientist (*using mixpanel, airship, appsflyer, firebase, ga4, facebook, adjust)
+
 #
 <h2 align="left">Shayan Rais (shanraisshan), Leading Android at <a href="https://savyour.app/shayan"><img src="images/savyour.png"/></a></h2>
 
