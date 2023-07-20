@@ -3,6 +3,7 @@
 <h3 align="center">📱</h3>
 
 > I create jobs for data scientist (*using mixpanel, airship, appsflyer, firebase, ga4, facebook, adjust)
+> I make sure QA dont sit free
 
 #
 <h2 align="left">Shayan Rais (shanraisshan), Leading Android at <a href="https://savyour.app/shayan"><img src="images/savyour.png"/></a></h2>
