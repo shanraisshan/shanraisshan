@@ -2,7 +2,7 @@
 <h3 align="center">Who Am I?</h3>
 <h3 align="center">📱</h3>
 
-> I create jobs for data/performance marketing teams (*using adjust, airship, appsflyer, facebook, firebase, ga4, mixpanel)
+> I create jobs for data/performance marketing teams (*using adjust, airship, appsflyer, facebook, firebase, ga4, mixpanel, moengage)
 
 > I make sure QA dont sit free
 
