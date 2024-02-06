@@ -7,7 +7,7 @@
 > I make sure QA dont sit free
 
 #
-<h2 align="left">Shayan Rais (shanraisshan), Leading Android at <a href="https://savyour.app/shayan"><img src="images/savyour.png"/></a></h2>
+<h2 align="left">Shayan Rais (shanraisshan), Leading Apps at <a href="https://savyour.app/shayan"><img src="images/savyour.png"/></a></h2>
 
 
 <p align="left">
