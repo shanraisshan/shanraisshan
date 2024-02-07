@@ -58,6 +58,6 @@
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shanraisshan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shanraisshan/0" alt="Latest medium article">
+[Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shanraisshan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shanraisshan/1" alt="Latest medium article"> </a>
+[Differentiating Google v Huawei Code using productFlavors](https://medium.com/@shanraisshan/differentiating-google-v-huawei-code-using-productflavors-3014de6b468a)
