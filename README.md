@@ -58,6 +58,9 @@
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
-[Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
+[Android stores to target in 2024](https://medium.com/@shanraisshan/android-stores-to-target-in-2024-b2045629fb29)
 
 [Differentiating Google v Huawei Code using productFlavors](https://medium.com/@shanraisshan/differentiating-google-v-huawei-code-using-productflavors-3014de6b468a)
+
+[Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
+
