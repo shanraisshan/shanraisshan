@@ -1,5 +1,8 @@
 ## ■ Shayan Rais
 #### ■ Associate Software Architect @ [disrupt.com](disrupt.com)
+#### ■ Masters - Computer Science [FAST University]
+#### ■ Bachelor of Engineering - Computer Information Systems CIS [NED University]
+
 > AI-First Spec-Driven Development | MCP | LangSmith | RAG | Python (FastAPI) | Event-Driven | GCP (Cloud Run, Cloud Functions, Pub/Sub) | Mobile (React Native, Kotlin)
 
 <a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="https://stackoverflow.com/users/flair/4754141.png?theme=clean" width="208" height="58" alt="shanraisshan (Stack Overflow)" title="shanraisshan (Stack Overflow)"></a>
