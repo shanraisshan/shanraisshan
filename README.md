@@ -16,9 +16,6 @@
 <p>
 <a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="images/icon/stack-overflow.png"/></a> 
 <a href="https://medium.com/@shanraisshan"><img src="images/icon/medium.png"/></a>
-<a href="https://developers.google.com/profile/u/shanraisshan"><img src="images/icon/g.dev.png"/></a>
-<a href="https://www.behance.net/shanraisshan"><img src="images/icon/behance.png"/></a> 
-<a href="https://www.quora.com/profile/shanraisshan"><img src="images/icon/quora.png"/></a>
 </p>
 
 <p>
