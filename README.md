@@ -37,11 +37,19 @@
 
 ### ■ Recent Activity
 
-<p><b> &#9749; Latest Medium Blogs</b></p>
+### ■ Medium
 
-[Android stores to target in 2024](https://medium.com/@shanraisshan/android-stores-to-target-in-2024-b2045629fb29)
+- [Play sound on every Claude Code action! 🗣️🔊](https://medium.com/@shanraisshan/claude-code-just-got-a-voice-%EF%B8%8F-51008157305b)
+- [Android stores to target in 2024](https://medium.com/@shanraisshan/android-stores-to-target-in-2024-b2045629fb29)
+- [Differentiating Google v Huawei Code using productFlavors](https://medium.com/@shanraisshan/differentiating-google-v-huawei-code-using-productflavors-3014de6b468a)
+- [Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
 
-[Differentiating Google v Huawei Code using productFlavors](https://medium.com/@shanraisshan/differentiating-google-v-huawei-code-using-productflavors-3014de6b468a)
 
-[Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
+### ■ Github
+- [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★7
+- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [mcp-weather](https://github.com/shanraisshan/mcp-weather/)
+- [claude-code-mcp-client](https://github.com/shanraisshan/claude-code-mcp)
+- [multi-agent-orchestrators]()
+
 
