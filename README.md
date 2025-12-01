@@ -46,7 +46,7 @@
 
 
 ### ■ Github
-- [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★7
+- [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★10
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 - [mcp-weather](https://github.com/shanraisshan/mcp-weather/)
 - [claude-code-mcp-client](https://github.com/shanraisshan/claude-code-mcp-client)
