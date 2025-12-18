@@ -48,6 +48,10 @@
 ### ■ REDDIT
 
 - [Claude Code's Plan Mode stores your plan in System Prompt, not Context Window](https://www.reddit.com/r/ClaudeAI/comments/1ppm4vt/comment/nunq4my/) • /ClaudeAI
+- [Spec Driven Development (SDD) vs Plan Research Implement (PRI) using claude](https://www.reddit.com/r/ClaudeAI/comments/1pkvque/comment/ntxxin1/) • /ClaudeAI • 👀(64k) • comments(150)
+- [You can now switch models mid-prompt!](https://www.reddit.com/r/ClaudeAI/comments/1pjsk1w/comment/ntlecys/) • /ClaudeAI
+- [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) • /ClaudeAI • 👀(148K) • comments(500)
+- [Background agents… wasn’t it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) • /ClaudeCode
 
 
 ### ■ Github
