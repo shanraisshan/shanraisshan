@@ -37,14 +37,6 @@
 
 ### ■ Recent Activity
 
-### ■ Medium
-
-- [Play sound on every Claude Code action! 🗣️🔊](https://medium.com/@shanraisshan/claude-code-just-got-a-voice-%EF%B8%8F-51008157305b)
-- [Android stores to target in 2024](https://medium.com/@shanraisshan/android-stores-to-target-in-2024-b2045629fb29)
-- [Differentiating Google v Huawei Code using productFlavors](https://medium.com/@shanraisshan/differentiating-google-v-huawei-code-using-productflavors-3014de6b468a)
-- [Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
-
-
 ### ■ REDDIT
 
 - [Claude Code's Plan Mode stores your plan in System Prompt, not Context Window](https://www.reddit.com/r/ClaudeAI/comments/1ppm4vt/comment/nunq4my/) • /ClaudeAI
@@ -53,11 +45,18 @@
 - [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) • /ClaudeAI • 👀(148K) • comments(500)
 - [Background agents… wasn’t it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) • /ClaudeCode
 
+### ■ Medium
+
+- [Play sound on every Claude Code action! 🗣️🔊](https://medium.com/@shanraisshan/claude-code-just-got-a-voice-%EF%B8%8F-51008157305b)
+- [Android stores to target in 2024](https://medium.com/@shanraisshan/android-stores-to-target-in-2024-b2045629fb29)
+- [Differentiating Google v Huawei Code using productFlavors](https://medium.com/@shanraisshan/differentiating-google-v-huawei-code-using-productflavors-3014de6b468a)
+- [Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
+
 
 ### ■ Github
 - [Notes](https://github.com/shanraisshan/notes)
 - [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★13
-- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ★64
 - [mcp-weather](https://github.com/shanraisshan/mcp-weather/)
 - [claude-code-mcp-client](https://github.com/shanraisshan/claude-code-mcp-client)
 - [multi-agent-orchestrators]()
