@@ -45,9 +45,14 @@
 - [Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
 
 
+### ■ REDDIT
+
+- [Claude Code's Plan Mode stores your plan in System Prompt, not Context Window](https://www.reddit.com/r/ClaudeAI/comments/1ppm4vt/comment/nunq4my/) • /ClaudeAI
+
+
 ### ■ Github
 - [Notes](https://github.com/shanraisshan/notes)
-- [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★10
+- [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★13
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 - [mcp-weather](https://github.com/shanraisshan/mcp-weather/)
 - [claude-code-mcp-client](https://github.com/shanraisshan/claude-code-mcp-client)
