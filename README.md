@@ -39,6 +39,7 @@
 
 ### ■ REDDIT
 
+- [Default permission mode: Delegate Mode? what is this?](https://www.reddit.com/r/ClaudeAI/comments/1ptsply/default_permission_mode_delegate_mode_what_is_this/) • /ClaudeAI • 👀(71K) • comments(45)
 - [export ENABLE_EXPERIMENTAL_MCP_CLI=1 saves 20% context of mcp](https://www.reddit.com/r/ClaudeAI/comments/1pqvpsy/export_enable_experimental_mcp_cli1_saves_20/) • /ClaudeAI
 - [Tutorial: How to use Claude in Chrome in Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1pqkby5/tutorial_how_to_use_claude_in_chrome_in_claude/) • /ClaudeAI
 - [Claude in Chrome vs ChromeDevTools (MCP) - a simple comparison](https://www.reddit.com/r/ClaudeAI/comments/1pqg6rt/claude_in_chrome_vs_chromedevtools_mcp_a_simple/) • /ClaudeAI
