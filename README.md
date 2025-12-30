@@ -44,7 +44,7 @@
 - [Tutorial: How to use Claude in Chrome in Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1pqkby5/tutorial_how_to_use_claude_in_chrome_in_claude/) • /ClaudeAI
 - [Claude in Chrome vs ChromeDevTools (MCP) - a simple comparison](https://www.reddit.com/r/ClaudeAI/comments/1pqg6rt/claude_in_chrome_vs_chromedevtools_mcp_a_simple/) • /ClaudeAI • 👁️35K 🗣️11
 - [Claude Code's Plan Mode stores your plan in System Prompt, not Context Window](https://www.reddit.com/r/ClaudeAI/comments/1ppm4vt/comment/nunq4my/) • /ClaudeAI • 👁️35K 🗣️11
-- [Spec Driven Development (SDD) vs Research Plan Implement (RPI) using claude](https://www.reddit.com/r/ClaudeAI/comments/1pkvque/comment/ntxxin1/) • /ClaudeAI • 👁️67k 🗣️183
+- [Spec Driven Development (SDD) vs Research Plan Implement (RPI) using claude](https://www.reddit.com/r/ClaudeAI/comments/1pkvque/comment/ntxxin1/) • /ClaudeAI • 👁️67k 🗣️35
 - [You can now switch models mid-prompt!](https://www.reddit.com/r/ClaudeAI/comments/1pjsk1w/comment/ntlecys/) • /ClaudeAI
 - [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) • /ClaudeAI • 👁️146K 🗣️180
 - [Background agents… wasn’t it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) • /ClaudeCode • 👁️44K 🗣️28
