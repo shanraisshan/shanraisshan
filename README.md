@@ -39,15 +39,15 @@
 
 ### ■ REDDIT
 
-- [Default permission mode: Delegate Mode? what is this?](https://www.reddit.com/r/ClaudeAI/comments/1ptsply/default_permission_mode_delegate_mode_what_is_this/) • /ClaudeAI • 👀(71K) • comments(45)
+- [Default permission mode: Delegate Mode? what is this?](https://www.reddit.com/r/ClaudeAI/comments/1ptsply/default_permission_mode_delegate_mode_what_is_this/) • /ClaudeAI • 👀(73K) • comments(45)
 - [export ENABLE_EXPERIMENTAL_MCP_CLI=1 saves 20% context of mcp](https://www.reddit.com/r/ClaudeAI/comments/1pqvpsy/export_enable_experimental_mcp_cli1_saves_20/) • /ClaudeAI
 - [Tutorial: How to use Claude in Chrome in Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1pqkby5/tutorial_how_to_use_claude_in_chrome_in_claude/) • /ClaudeAI
-- [Claude in Chrome vs ChromeDevTools (MCP) - a simple comparison](https://www.reddit.com/r/ClaudeAI/comments/1pqg6rt/claude_in_chrome_vs_chromedevtools_mcp_a_simple/) • /ClaudeAI
-- [Claude Code's Plan Mode stores your plan in System Prompt, not Context Window](https://www.reddit.com/r/ClaudeAI/comments/1ppm4vt/comment/nunq4my/) • /ClaudeAI
-- [Spec Driven Development (SDD) vs Research Plan Implement (RPI) using claude](https://www.reddit.com/r/ClaudeAI/comments/1pkvque/comment/ntxxin1/) • /ClaudeAI • 👀(64k) • comments(150)
+- [Claude in Chrome vs ChromeDevTools (MCP) - a simple comparison](https://www.reddit.com/r/ClaudeAI/comments/1pqg6rt/claude_in_chrome_vs_chromedevtools_mcp_a_simple/) • /ClaudeAI • 👀(35K) • comments(11)
+- [Claude Code's Plan Mode stores your plan in System Prompt, not Context Window](https://www.reddit.com/r/ClaudeAI/comments/1ppm4vt/comment/nunq4my/) • /ClaudeAI • 👀(35K) • comments(11)
+- [Spec Driven Development (SDD) vs Research Plan Implement (RPI) using claude](https://www.reddit.com/r/ClaudeAI/comments/1pkvque/comment/ntxxin1/) • /ClaudeAI • 👀(67k) • comments(183)
 - [You can now switch models mid-prompt!](https://www.reddit.com/r/ClaudeAI/comments/1pjsk1w/comment/ntlecys/) • /ClaudeAI
-- [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) • /ClaudeAI • 👀(148K) • comments(500)
-- [Background agents… wasn’t it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) • /ClaudeCode
+- [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) • /ClaudeAI • 👀(146K) • comments(180)
+- [Background agents… wasn’t it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) • /ClaudeCode • 👀(44K) • comments(28)
 
 ### ■ Medium
 
