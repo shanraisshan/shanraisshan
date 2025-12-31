@@ -66,4 +66,9 @@
 - [multi-agent-orchestrators]()
 
 
+### ■ Github Issues
+- [Add hook for user input/question events (UserInputRequired)](https://github.com/anthropics/claude-code/issues/10168)
+- [Tip 0: status line showing wrong context usage](https://github.com/ykdojo/claude-code-tips/issues/3)
+
+
 
