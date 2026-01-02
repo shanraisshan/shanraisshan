@@ -1,4 +1,7 @@
 ## ■ Shayan Rais
+
+_🤖 i use claude code in light mode_
+
 #### ■ Associate Software Architect @ [disrupt.com](disrupt.com)
 #### ■ Masters - Computer Science [FAST University]
 #### ■ Bachelor of Engineering - Computer Information Systems CIS [NED University]
@@ -62,7 +65,7 @@
 - [Notes](https://github.com/shanraisshan/notes)
 - [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★17
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ★83
-- [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion)
+- [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) ★1
 - [mcp-weather](https://github.com/shanraisshan/mcp-weather/)
 
 
