@@ -70,6 +70,7 @@ _🤖 i use claude code in light mode_
 
 
 ### ■ Github Issues
+- [Context usage is showing wrong numbers](https://github.com/robinebers/claude-code-statusline/issues/2)
 - [Add hook for user input/question events (UserInputRequired)](https://github.com/anthropics/claude-code/issues/10168)
 - [Tip 0: status line showing wrong context usage](https://github.com/ykdojo/claude-code-tips/issues/3)
 
