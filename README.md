@@ -42,7 +42,7 @@ _🤖 i use claude code in light mode_
 
 ### ■ REDDIT
 
-- [How come Claude Code is ranked 19th on the Terminal-Bench leaderboard?](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) • /ClaudeAI • 👁️27K 🗣️19
+- [How come Claude Code is ranked 19th on the Terminal-Bench leaderboard?](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) • /ClaudeAI • 👁️133K 🗣️44
 - [Error in compacting for long running (2-3hrs) commands in 'bypass permissions on' mode](https://www.reddit.com/r/ClaudeAI/comments/1q178i7/error_in_compacting_for_long_running_23hrs/) • /ClaudeAI
 - [Default permission mode: Delegate Mode? what is this?](https://www.reddit.com/r/ClaudeAI/comments/1ptsply/default_permission_mode_delegate_mode_what_is_this/) • /ClaudeAI • 👁️73K 🗣️45
 - [export ENABLE_EXPERIMENTAL_MCP_CLI=1 saves 20% context of mcp](https://www.reddit.com/r/ClaudeAI/comments/1pqvpsy/export_enable_experimental_mcp_cli1_saves_20/) • /ClaudeAI
