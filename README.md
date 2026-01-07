@@ -42,7 +42,7 @@ _🤖 i use claude code in light mode_
 
 ### ■ REDDIT
 
-- [How come Claude Code is ranked 19th on the Terminal-Bench leaderboard?](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) • /ClaudeAI • 👁️133K 🗣️44
+- [How come Claude Code is ranked 19th on the Terminal-Bench leaderboard?](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) • /ClaudeAI • 👁️143K 🗣️52
 - [Error in compacting for long running (2-3hrs) commands in 'bypass permissions on' mode](https://www.reddit.com/r/ClaudeAI/comments/1q178i7/error_in_compacting_for_long_running_23hrs/) • /ClaudeAI
 - [Default permission mode: Delegate Mode? what is this?](https://www.reddit.com/r/ClaudeAI/comments/1ptsply/default_permission_mode_delegate_mode_what_is_this/) • /ClaudeAI • 👁️73K 🗣️45
 - [export ENABLE_EXPERIMENTAL_MCP_CLI=1 saves 20% context of mcp](https://www.reddit.com/r/ClaudeAI/comments/1pqvpsy/export_enable_experimental_mcp_cli1_saves_20/) • /ClaudeAI
@@ -65,7 +65,7 @@ _🤖 i use claude code in light mode_
 ### ■ Github
 - [Notes](https://github.com/shanraisshan/notes)
 - [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★17
-- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ★83
+- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ★88
 - [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) ★1
 - [mcp-weather](https://github.com/shanraisshan/mcp-weather/)
 
