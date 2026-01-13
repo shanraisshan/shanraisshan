@@ -36,6 +36,7 @@ _🤖 i use claude code in light mode_
 
 ### ■ REDDIT
 
+- [Claude status line can now show actual context after 2.1.6 update](https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/) • /ClaudeAI
 - [Merged /commands and skills in 2.1.3 update](https://www.reddit.com/r/ClaudeAI/comments/1q92wwv/merged_commands_and_skills_in_213_update/) • /ClaudeAI
 - [Cursor launched dynamic mcp tool discovery while CC has this in BETA](https://www.reddit.com/r/cursor/comments/1q6b0ca/cursor_launched_dynamic_mcp_tool_discovery_while/) • /cursor • 👁️6K 🗣️3
 - [How come Claude Code is ranked 19th on the Terminal-Bench leaderboard?](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) • /ClaudeAI • 👁️143K 🗣️52
@@ -50,26 +51,24 @@ _🤖 i use claude code in light mode_
 - [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) • /ClaudeAI • 👁️146K 🗣️180
 - [Background agents… wasn’t it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) • /ClaudeCode • 👁️44K 🗣️28
 
-### ■ Medium
-
-- [Play sound on every Claude Code action! 🗣️🔊](https://medium.com/@shanraisshan/claude-code-just-got-a-voice-%EF%B8%8F-51008157305b)
-- [Android stores to target in 2024](https://medium.com/@shanraisshan/android-stores-to-target-in-2024-b2045629fb29)
-- [Differentiating Google v Huawei Code using productFlavors](https://medium.com/@shanraisshan/differentiating-google-v-huawei-code-using-productflavors-3014de6b468a)
-- [Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
-
-
 ### ■ Github
 - [Notes](https://github.com/shanraisshan/notes)
 - [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★17
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ★88
 - [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) ★1
+- [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line)
 - [mcp-weather](https://github.com/shanraisshan/mcp-weather/)
-
 
 ### ■ Github Issues
 - [Context usage is showing wrong numbers](https://github.com/robinebers/claude-code-statusline/issues/2)
 - [Add hook for user input/question events (UserInputRequired)](https://github.com/anthropics/claude-code/issues/10168)
 - [Tip 0: status line showing wrong context usage](https://github.com/ykdojo/claude-code-tips/issues/3)
 
+### ■ Medium
+
+- [Play sound on every Claude Code action! 🗣️🔊](https://medium.com/@shanraisshan/claude-code-just-got-a-voice-%EF%B8%8F-51008157305b)
+- [Android stores to target in 2024](https://medium.com/@shanraisshan/android-stores-to-target-in-2024-b2045629fb29)
+- [Differentiating Google v Huawei Code using productFlavors](https://medium.com/@shanraisshan/differentiating-google-v-huawei-code-using-productflavors-3014de6b468a)
+- [Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35)
 
 
