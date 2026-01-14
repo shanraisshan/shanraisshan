@@ -36,8 +36,8 @@ _🤖 i use claude code in light mode_
 
 ### ■ REDDIT
 
-- [Merged /commands and skills in 2.1.3 update](https://www.reddit.com/r/ClaudeAI/comments/1q92wwv/merged_commands_and_skills_in_213_update/) • /ClaudeAI
-- [Cursor launched dynamic mcp tool discovery while CC has this in BETA](https://www.reddit.com/r/cursor/comments/1q6b0ca/cursor_launched_dynamic_mcp_tool_discovery_while/) • /cursor • 👁️6K 🗣️3
+- [Merged /commands and skills in 2.1.3 update](https://www.reddit.com/r/ClaudeAI/comments/1q92wwv/merged_commands_and_skills_in_213_update/) • /ClaudeAI • 👁️15K 🗣️5
+- [Cursor launched dynamic mcp tool discovery while CC has this in BETA](https://www.reddit.com/r/cursor/comments/1q6b0ca/cursor_launched_dynamic_mcp_tool_discovery_while/) • /cursor • 👁️6K 🗣️4
 - [How come Claude Code is ranked 19th on the Terminal-Bench leaderboard?](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) • /ClaudeAI • 👁️143K 🗣️52
 - [Error in compacting for long running (2-3hrs) commands in 'bypass permissions on' mode](https://www.reddit.com/r/ClaudeAI/comments/1q178i7/error_in_compacting_for_long_running_23hrs/) • /ClaudeAI
 - [Default permission mode: Delegate Mode? what is this?](https://www.reddit.com/r/ClaudeAI/comments/1ptsply/default_permission_mode_delegate_mode_what_is_this/) • /ClaudeAI • 👁️73K 🗣️45
