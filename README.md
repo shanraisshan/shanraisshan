@@ -48,7 +48,7 @@ _🤖 i use claude code in light mode_
 - [Spec Driven Development (SDD) vs Research Plan Implement (RPI) using claude](https://www.reddit.com/r/ClaudeAI/comments/1pkvque/comment/ntxxin1/) • /ClaudeAI • 👁️67k 🗣️35
 - [You can now switch models mid-prompt!](https://www.reddit.com/r/ClaudeAI/comments/1pjsk1w/comment/ntlecys/) • /ClaudeAI
 - [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) • /ClaudeAI • 👁️146K 🗣️180
-- - [Claude status line can now show actual context after 2.1.6 update](https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/) • /ClaudeAI • 👁️45K 🗣️30
+- [Claude status line can now show actual context after 2.1.6 update](https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/) • /ClaudeAI • 👁️45K 🗣️30
 - [Background agents… wasn’t it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) • /ClaudeCode • 👁️44K 🗣️28
 
 ### ■ Github
