@@ -36,7 +36,9 @@ _🤖 i use claude code in light mode_
 
 ### ■ REDDIT
 
+- [Updated my Claude Code Voice Hooks to use the new async feature](https://www.reddit.com/r/ClaudeAI/comments/1qn8tjz/updated_my_claude_code_voice_hooks_to_use_the_new/) • /ClaudeAI
 - [Claude Code voice hooks now support latest Setup hook after 2.1.10 update](https://www.reddit.com/r/ClaudeAI/comments/1qgx550/claude_code_voice_hooks_now_support_latest_setup/) • /ClaudeAI
+- [Does bribing models still work in 2026? 💰🤖](https://www.reddit.com/r/vibecoding/comments/1qe7qc7/comment/nzvf5ke/) • /vibecoding
 - [Claude status line can now show actual context after 2.1.6 update](https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/) • /ClaudeAI • 👁️45K 🗣️30
 - [Merged /commands and skills in 2.1.3 update](https://www.reddit.com/r/ClaudeAI/comments/1q92wwv/merged_commands_and_skills_in_213_update/) • /ClaudeAI • 👁️15K 🗣️5
 - [Cursor launched dynamic mcp tool discovery while CC has this in BETA](https://www.reddit.com/r/cursor/comments/1q6b0ca/cursor_launched_dynamic_mcp_tool_discovery_while/) • /cursor • 👁️6K 🗣️4
