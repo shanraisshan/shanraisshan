@@ -36,6 +36,7 @@ _🤖 i use claude code in light mode_
 
 ### ■ REDDIT
 
+- [CLAUDE.md says 'MUST use agent' - Claude ignores it 80% of the time.](https://www.reddit.com/r/ClaudeCode/comments/1qn9pb9/claudemd_says_must_use_agent_claude_ignores_it_80/) • /ClaudeAI • 👁️54K 🗣️41
 - [Updated my Claude Code Voice Hooks to use the new async feature](https://www.reddit.com/r/ClaudeAI/comments/1qn8tjz/updated_my_claude_code_voice_hooks_to_use_the_new/) • /ClaudeAI
 - [Claude Code voice hooks now support latest Setup hook after 2.1.10 update](https://www.reddit.com/r/ClaudeAI/comments/1qgx550/claude_code_voice_hooks_now_support_latest_setup/) • /ClaudeAI
 - [Does bribing models still work in 2026? 💰🤖](https://www.reddit.com/r/vibecoding/comments/1qe7qc7/comment/nzvf5ke/) • /vibecoding
