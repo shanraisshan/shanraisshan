@@ -57,10 +57,10 @@ _🤖 i use claude code in light mode_
 
 ### ■ Github
 - [Notes](https://github.com/shanraisshan/notes)
-- [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★18
-- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ★95
+- [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★20
+- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ★96
 - [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) ★1
-- [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) ★8
+- [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) ★10
 - [mcp-weather](https://github.com/shanraisshan/mcp-weather/)
 
 ### ■ Github Issues
