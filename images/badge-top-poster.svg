@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="85" viewBox="0 0 320 85">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gold-ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="teal-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#5eead4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2dd4bf;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="legendary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f97316;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect x="0" y="0" width="320" height="85" rx="12" fill="url(#card-bg)"/>
+  <rect x="1" y="1" width="318" height="83" rx="11" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+
+  <!-- Badge circle -->
+  <circle cx="50" cy="42" r="28" fill="url(#gold-ring)"/>
+  <circle cx="50" cy="42" r="23" fill="url(#teal-bg)"/>
+
+  <!-- Crown -->
+  <path d="M42 30l3 5h-1.5l.5 4h11l.5-4H54l3-5-4 3-3-4-3 4-4-3z" fill="#f59e0b"/>
+
+  <!-- Trophy/Crystal shape -->
+  <path d="M44 40l6-4 6 4-2 10h-8z" fill="#7dd3fc" opacity="0.9"/>
+  <path d="M50 36l4 2.5-1.5 8h-5l-1.5-8z" fill="#bae6fd"/>
+
+  <!-- Sunglasses -->
+  <rect x="42" y="41" width="7" height="4" rx="1" fill="#1e293b"/>
+  <rect x="51" y="41" width="7" height="4" rx="1" fill="#1e293b"/>
+  <rect x="49" y="42" width="2" height="2" fill="#1e293b"/>
+
+  <!-- Text content -->
+  <text x="90" y="28" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="700" fill="white">Top 1% Poster</text>
+
+  <text x="90" y="46" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="rgba(255,255,255,0.7)">r/ClaudeAI • r/ClaudeCode</text>
+
+  <!-- Legendary bar -->
+  <rect x="90" y="58" width="50" height="4" rx="2" fill="url(#legendary)"/>
+  <text x="148" y="63" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#f59e0b">Legendary</text>
+</svg>

@@ -1,4 +1,4 @@
-## ■ Shayan Rais
+<img src="images/profile.png" width="38" height="38"/> <img src="images/name.svg" height="32"/>
 
 <img src="images/icon/briefcase.svg" height="18"/> **Associate Software Architect** @ [disrupt.com](https://disrupt.com)
 
@@ -21,6 +21,10 @@ _i use claude code in light mode_ <img src="images/mascot.svg" height="30" />
 <a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="images/icon/stack-overflow.png" height="28"/></a>&nbsp;&nbsp;
 <a href="https://medium.com/@shanraisshan"><img src="images/icon/medium.png" height="28"/></a>
 </p>
+
+<br>
+
+<a href="https://www.reddit.com/user/shanraisshan/achievements/monthly-top-1-poster"><img src="images/badge-top-poster.svg" alt="Top 1% Poster on r/ClaudeAI and r/ClaudeCode"/></a>
 
 ---
 
