@@ -2,7 +2,7 @@
 
 <img src="images/icon/briefcase.svg" height="18"/> **Associate Software Architect** @ [disrupt.com](https://disrupt.com)
 
-_i use claude code in light mode_ <img src="images/mascot.svg" height="30" />
+<img src="images/terminal.svg" alt="i use claude code in light mode"/> <img src="images/mascot.svg" height="40" />
 
 <img src="images/tagline.svg" alt="AI-First Spec-Driven Development | Claude Code - Agentic AI Developer | MCP | Python | GCP | React Native | Kotlin" />
 

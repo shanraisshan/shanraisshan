@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="50" viewBox="0 0 340 50">
+  <style>
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 270px }
+    }
+    @keyframes blink {
+      0%, 50% { opacity: 1 }
+      51%, 100% { opacity: 0 }
+    }
+    .terminal-text {
+      animation: typing 3s steps(30) infinite;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+    .cursor {
+      animation: blink 1s infinite;
+    }
+  </style>
+
+  <!-- Terminal background (light mode) -->
+  <rect x="0" y="0" width="340" height="50" rx="8" fill="#f5f5f5"/>
+  <rect x="0" y="0" width="340" height="50" rx="8" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- Terminal header dots -->
+  <circle cx="16" cy="12" r="5" fill="#ff5f56"/>
+  <circle cx="32" cy="12" r="5" fill="#ffbd2e"/>
+  <circle cx="48" cy="12" r="5" fill="#27ca40"/>
+
+  <!-- Terminal content -->
+  <g transform="translate(14, 38)">
+    <!-- Prompt -->
+    <text font-family="'SF Mono', 'Fira Code', 'Consolas', monospace" font-size="13" fill="#8b5cf6">$</text>
+
+    <!-- Typing text with clip path -->
+    <clipPath id="textClip">
+      <rect x="0" y="-15" class="terminal-text" height="20"/>
+    </clipPath>
+
+    <text x="16" font-family="'SF Mono', 'Fira Code', 'Consolas', monospace" font-size="13" fill="#374151" clip-path="url(#textClip)">i use claude code in light mode</text>
+
+    <!-- Blinking cursor -->
+    <rect x="290" y="-12" width="8" height="15" fill="#8b5cf6" class="cursor"/>
+  </g>
+</svg>
