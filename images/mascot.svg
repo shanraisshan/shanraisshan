@@ -1,0 +1,35 @@
+<svg width="64" height="72" viewBox="0 0 64 72" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pixel art mascot - jumping with sunglasses -->
+
+  <!-- Main body (peachy/salmon color) -->
+  <rect x="8" y="8" width="48" height="32" fill="#D99A86"/>
+
+  <!-- Sunglasses frame -->
+  <rect x="4" y="16" width="56" height="4" fill="#222"/>
+
+  <!-- Left lens -->
+  <rect x="12" y="16" width="16" height="12" fill="#222"/>
+  <rect x="14" y="18" width="8" height="6" fill="#444"/>
+
+  <!-- Right lens -->
+  <rect x="36" y="16" width="16" height="12" fill="#222"/>
+  <rect x="38" y="18" width="8" height="6" fill="#444"/>
+
+  <!-- Bridge between lenses -->
+  <rect x="28" y="18" width="8" height="4" fill="#222"/>
+
+  <!-- Legs/tentacles (jumping pose - spread out) -->
+  <rect x="4" y="44" width="8" height="12" fill="#D99A86" transform="rotate(-20 8 50)"/>
+  <rect x="16" y="40" width="8" height="16" fill="#D99A86"/>
+  <rect x="28" y="40" width="8" height="20" fill="#D99A86"/>
+  <rect x="40" y="40" width="8" height="16" fill="#D99A86"/>
+  <rect x="52" y="44" width="8" height="12" fill="#D99A86" transform="rotate(20 56 50)"/>
+
+  <!-- Jump lines/motion effect -->
+  <rect x="20" y="66" width="4" height="4" fill="#aaa"/>
+  <rect x="30" y="68" width="4" height="4" fill="#aaa"/>
+  <rect x="40" y="66" width="4" height="4" fill="#aaa"/>
+
+  <!-- Happy mouth -->
+  <rect x="24" y="32" width="16" height="4" fill="#886"/>
+</svg>
