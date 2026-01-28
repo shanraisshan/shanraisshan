@@ -8,28 +8,13 @@ _i use claude code in light mode_ <img src="images/mascot.svg" height="30" />
 
 > AI-First Spec-Driven Development | Claude Code - Agentic AI Developer | MCP | Python (FastAPI) | GCP (Cloud Run, Cloud Functions, Pub/Sub) | Mobile (React Native, Kotlin)
 
-<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="https://stackoverflow.com/users/flair/4754141.png?theme=clean" width="208" height="58" alt="shanraisshan (Stack Overflow)" title="shanraisshan (Stack Overflow)"></a>
-
 <p>
-<a href="https://www.linkedin.com/in/shanraisshan"><img src="images/icon/linkedin.png"/></a> 
-<a href="https://github.com/shanraisshan"><img src="images/icon/github.png"/></a>
-<a href="https://www.reddit.com/user/shanraisshan"><img src="images/icon/reddit.png"/></a>
-<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="images/icon/stack-overflow.png"/></a> 
-<a href="https://medium.com/@shanraisshan"><img src="images/icon/medium.png"/></a>
-<a href="https://www.youtube.com/c/shanraisshan"><img src="images/icon/youtube.png"/></a> 
-<a href="https://twitter.com/shanraisshan"><img src="images/icon/twitter.png"/></a>
-</p>
-
-<p>
-<a href="https://www.hackerrank.com/shanraisshan">
-   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
-</a>
-<a href="https://www.udemy.com/user/shayan-rais-2/">
-   <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6" alt="udacity" />
-</a>
-<a href="https://www.coursera.org/user/c5a8530ecbe523a8d18bc6b926a83fca">
-   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera" />
-</a>
+<a href="https://www.linkedin.com/in/shanraisshan"><img src="images/icon/linkedin.png" height="24"/></a>
+<a href="https://www.reddit.com/user/shanraisshan"><img src="images/icon/reddit.png" height="24"/></a>
+<a href="https://x.com/shanraisshan"><img src="images/icon/x.svg" height="24"/></a>
+<a href="https://www.youtube.com/c/shanraisshan"><img src="images/icon/youtube.png" height="24"/></a>
+<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="images/icon/stack-overflow.png" height="24"/></a>
+<a href="https://medium.com/@shanraisshan"><img src="images/icon/medium.png" height="24"/></a>
 </p>
 
 ### ■ Recent Activity
