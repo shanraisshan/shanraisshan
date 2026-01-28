@@ -58,7 +58,7 @@
 
 | Repository | ⭐ |
 |:--|--:|
-| [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 106 |
+| [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 131 |
 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | 21 |
 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | 1 |
 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | 11 |
@@ -72,14 +72,4 @@
 | [Context usage is showing wrong numbers](https://github.com/robinebers/claude-code-statusline/issues/2) |
 | [Add hook for user input/question events (UserInputRequired)](https://github.com/anthropics/claude-code/issues/10168) |
 | [Tip 0: status line showing wrong context usage](https://github.com/ykdojo/claude-code-tips/issues/3) |
-
-### <img src="images/icon/medium.png" height="20"/> Medium
-
-| Article |
-|:--|
-| [Play sound on every Claude Code action! 🗣️🔊](https://medium.com/@shanraisshan/claude-code-just-got-a-voice-%EF%B8%8F-51008157305b) |
-| [Android stores to target in 2024](https://medium.com/@shanraisshan/android-stores-to-target-in-2024-b2045629fb29) |
-| [Differentiating Google v Huawei Code using productFlavors](https://medium.com/@shanraisshan/differentiating-google-v-huawei-code-using-productflavors-3014de6b468a) |
-| [Refactoring Android App — Package by feature](https://medium.com/@shanraisshan/refactoring-android-app-package-by-feature-af0308ddec35) |
-
 
