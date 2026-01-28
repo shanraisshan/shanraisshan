@@ -1,12 +1,12 @@
 ## ■ Shayan Rais
 
-_i use claude code in light mode_ <img src="images/mascot.svg" height="30" /> 
+_i use claude code in light mode_ <img src="images/mascot.svg" height="30" />
 
-#### ■ Associate Software Architect @ [disrupt.com](disrupt.com)
+<img src="images/tagline.svg" alt="AI-First Spec-Driven Development | Claude Code - Agentic AI Developer | MCP | Python | GCP | React Native | Kotlin" />
+
+#### ■ Associate Software Architect @ [disrupt.com](https://disrupt.com)
 #### ■ Masters - Computer Science [FAST University]
 #### ■ Bachelor of Engineering - Computer Information Systems CIS [NED University]
-
-> AI-First Spec-Driven Development | Claude Code - Agentic AI Developer | MCP | Python (FastAPI) | GCP (Cloud Run, Cloud Functions, Pub/Sub) | Mobile (React Native, Kotlin)
 
 <p>
 <a href="https://www.linkedin.com/in/shanraisshan"><img src="images/icon/linkedin.png" height="24"/></a>
@@ -19,7 +19,7 @@ _i use claude code in light mode_ <img src="images/mascot.svg" height="30" />
 
 ### ■ Recent Activity
 
-### ■ REDDIT
+### <img src="images/icon/reddit.png" height="20"/> REDDIT
 
 - [Claude.md for larger monorepos - Boris Cherny on X](https://www.reddit.com/r/ClaudeAI/comments/1qp42hp/claudemd_for_larger_monorepos_boris_cherny_on_x/) • /ClaudeAI
 - [CLAUDE.md says 'MUST use agent' - Claude ignores it 80% of the time.](https://www.reddit.com/r/ClaudeCode/comments/1qn9pb9/claudemd_says_must_use_agent_claude_ignores_it_80/) • /ClaudeCode • 👁️121K 🗣️97
@@ -41,7 +41,7 @@ _i use claude code in light mode_ <img src="images/mascot.svg" height="30" />
 - [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) • /ClaudeAI • 👁️146K 🗣️180
 - [Background agents… wasn’t it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) • /ClaudeCode • 👁️44K 🗣️28
 
-### ■ Github
+### <img src="images/icon/github.svg" height="20"/> Github
 - [Notes](https://github.com/shanraisshan/notes)
 - [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) ★20
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ★96
@@ -49,12 +49,12 @@ _i use claude code in light mode_ <img src="images/mascot.svg" height="30" />
 - [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) ★10
 - [mcp-weather](https://github.com/shanraisshan/mcp-weather/)
 
-### ■ Github Issues
+### <img src="images/icon/github.svg" height="20"/> Github Issues
 - [Context usage is showing wrong numbers](https://github.com/robinebers/claude-code-statusline/issues/2)
 - [Add hook for user input/question events (UserInputRequired)](https://github.com/anthropics/claude-code/issues/10168)
 - [Tip 0: status line showing wrong context usage](https://github.com/ykdojo/claude-code-tips/issues/3)
 
-### ■ Medium
+### <img src="images/icon/medium.png" height="20"/> Medium
 
 - [Play sound on every Claude Code action! 🗣️🔊](https://medium.com/@shanraisshan/claude-code-just-got-a-voice-%EF%B8%8F-51008157305b)
 - [Android stores to target in 2024](https://medium.com/@shanraisshan/android-stores-to-target-in-2024-b2045629fb29)
