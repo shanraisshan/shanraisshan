@@ -1,23 +1,30 @@
 ## ■ Shayan Rais
 
+<img src="images/icon/briefcase.svg" height="18"/> **Associate Software Architect** @ [disrupt.com](https://disrupt.com)
+
 _i use claude code in light mode_ <img src="images/mascot.svg" height="30" />
 
 <img src="images/tagline.svg" alt="AI-First Spec-Driven Development | Claude Code - Agentic AI Developer | MCP | Python | GCP | React Native | Kotlin" />
 
-#### ■ Associate Software Architect @ [disrupt.com](https://disrupt.com)
-#### ■ Masters - Computer Science [FAST University]
-#### ■ Bachelor of Engineering - Computer Information Systems CIS [NED University]
+| | | |
+|:--|:--|:--|
+| <img src="images/icon/graduation.svg" height="16"/> | **MS** Computer Science | NUCES FAST University |
+| <img src="images/icon/graduation.svg" height="16"/> | **BE** Computer Information Systems | NED University |
+
+<br>
 
 <p>
-<a href="https://www.linkedin.com/in/shanraisshan"><img src="images/icon/linkedin.png" height="24"/></a>
-<a href="https://www.reddit.com/user/shanraisshan"><img src="images/icon/reddit.png" height="24"/></a>
-<a href="https://x.com/shanraisshan"><img src="images/icon/x.svg" height="24"/></a>
-<a href="https://www.youtube.com/c/shanraisshan"><img src="images/icon/youtube.png" height="24"/></a>
-<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="images/icon/stack-overflow.png" height="24"/></a>
-<a href="https://medium.com/@shanraisshan"><img src="images/icon/medium.png" height="24"/></a>
+<a href="https://www.linkedin.com/in/shanraisshan"><img src="images/icon/linkedin.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/shanraisshan"><img src="images/icon/reddit.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://x.com/shanraisshan"><img src="images/icon/x.svg" height="28"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/shanraisshan"><img src="images/icon/youtube.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="images/icon/stack-overflow.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://medium.com/@shanraisshan"><img src="images/icon/medium.png" height="28"/></a>
 </p>
 
-### ■ Recent Activity
+---
+
+## <img src="images/icon/activity.svg" height="24"/> Recent Activity
 
 ### <img src="images/icon/reddit.png" height="20"/> REDDIT
 
