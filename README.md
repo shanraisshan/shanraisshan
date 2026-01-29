@@ -34,6 +34,7 @@
 
 | Post | Subreddit | 👁️ | 🗣️ |
 |:--|:--|--:|--:|
+| [Custom Spinner Verbs now live in v2.1.23 + Hidden Settings Reference](https://www.reddit.com/r/ClaudeAI/comments/1qq2b3i/custom_spinner_verbs_now_live_in_v2123_hidden/) | /ClaudeAI | -| -|
 | [Claude.md for larger monorepos - Boris Cherny on X](https://www.reddit.com/r/ClaudeAI/comments/1qp42hp/claudemd_for_larger_monorepos_boris_cherny_on_x/) | /ClaudeAI | 31K| 10|
 | [CLAUDE.md says 'MUST use agent' - Claude ignores it 80% of the time.](https://www.reddit.com/r/ClaudeCode/comments/1qn9pb9/claudemd_says_must_use_agent_claude_ignores_it_80/) | /ClaudeCode | 124K | 100 |
 | [Updated my Claude Code Voice Hooks to use the new async feature](https://www.reddit.com/r/ClaudeAI/comments/1qn8tjz/updated_my_claude_code_voice_hooks_to_use_the_new/) | /ClaudeAI | 13K | 7 |
