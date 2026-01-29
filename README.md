@@ -59,7 +59,7 @@
 
 | S# | Repository | ⭐ |
 |--:|:--|--:|
-| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 131 |
+| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 234 |
 | 2 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | 21 |
 | 3 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | 1 |
 | 4 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | 11 |
