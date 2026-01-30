@@ -34,26 +34,27 @@
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 1 | [Custom Spinner Verbs now live in v2.1.23 + Hidden Settings Reference](https://www.reddit.com/r/ClaudeAI/comments/1qq2b3i/custom_spinner_verbs_now_live_in_v2123_hidden/) | /ClaudeAI | -| -|
-| 2 | [Claude.md for larger monorepos - Boris Cherny on X](https://www.reddit.com/r/ClaudeAI/comments/1qp42hp/claudemd_for_larger_monorepos_boris_cherny_on_x/) | /ClaudeAI | 31K| 10|
-| 3 | [CLAUDE.md says 'MUST use agent' - Claude ignores it 80% of the time.](https://www.reddit.com/r/ClaudeCode/comments/1qn9pb9/claudemd_says_must_use_agent_claude_ignores_it_80/) | /ClaudeCode | 124K | 100 |
-| 4 | [Updated my Claude Code Voice Hooks to use the new async feature](https://www.reddit.com/r/ClaudeAI/comments/1qn8tjz/updated_my_claude_code_voice_hooks_to_use_the_new/) | /ClaudeAI | 13K | 7 |
-| 5 | [Claude Code voice hooks now support latest Setup hook after 2.1.10 update](https://www.reddit.com/r/ClaudeAI/comments/1qgx550/claude_code_voice_hooks_now_support_latest_setup/) | /ClaudeAI | -| -|
-| 6 | [Does bribing models still work in 2026? 💰🤖](https://www.reddit.com/r/vibecoding/comments/1qe7qc7/comment/nzvf5ke/) | /vibecoding | -|- |
-| 7 | [Claude status line can now show actual context after 2.1.6 update](https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/) | /ClaudeAI | 54K | 33 |
-| 8 | [Merged /commands and skills in 2.1.3 update](https://www.reddit.com/r/ClaudeAI/comments/1q92wwv/merged_commands_and_skills_in_213_update/) | /ClaudeAI | 17K | 5 |
-| 9 | [Cursor launched dynamic mcp tool discovery while CC has this in BETA](https://www.reddit.com/r/cursor/comments/1q6b0ca/cursor_launched_dynamic_mcp_tool_discovery_while/) | /cursor | 6K | 4 |
-| 10 | [How come Claude Code is ranked 19th on the Terminal-Bench leaderboard?](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) | /ClaudeAI | 154K | 51 |
-| 11 | [Error in compacting for long running (2-3hrs) commands in 'bypass permissions on' mode](https://www.reddit.com/r/ClaudeAI/comments/1q178i7/error_in_compacting_for_long_running_23hrs/) | /ClaudeAI | -| -|
-| 12 | [Default permission mode: Delegate Mode? what is this?](https://www.reddit.com/r/ClaudeAI/comments/1ptsply/default_permission_mode_delegate_mode_what_is_this/) | /ClaudeAI | 75K | 47 |
-| 13 | [export ENABLE_EXPERIMENTAL_MCP_CLI=1 saves 20% context of mcp](https://www.reddit.com/r/ClaudeAI/comments/1pqvpsy/export_enable_experimental_mcp_cli1_saves_20/) | /ClaudeAI |23K |8 |
-| 14 | [Tutorial: How to use Claude in Chrome in Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1pqkby5/tutorial_how_to_use_claude_in_chrome_in_claude/) | /ClaudeAI |62K |2 |
-| 15 | [Claude in Chrome vs ChromeDevTools (MCP) - a simple comparison](https://www.reddit.com/r/ClaudeAI/comments/1pqg6rt/claude_in_chrome_vs_chromedevtools_mcp_a_simple/) | /ClaudeAI | 42K | 11 |
-| 16 | [Claude Code's Plan Mode stores your plan in System Prompt, not Context Window](https://www.reddit.com/r/ClaudeAI/comments/1ppm4vt/comment/nunq4my/) | /ClaudeAI | 55K | 11 |
-| 17 | [Spec Driven Development (SDD) vs Research Plan Implement (RPI) using claude](https://www.reddit.com/r/ClaudeAI/comments/1pkvque/comment/ntxxin1/) | /ClaudeAI | 72K | 35 |
-| 18 | [You can now switch models mid-prompt!](https://www.reddit.com/r/ClaudeAI/comments/1pjsk1w/comment/ntlecys/) | /ClaudeAI | 6K|9|
-| 19 | [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) | /ClaudeAI | 161K | 80 |
-| 20 | [Background agents… wasn't it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) | /ClaudeCode | 48K | 28 |
+| 21 | [Skills best practice in larger mono repos](https://www.reddit.com/r/ClaudeAI/comments/1qr7eyb/skills_best_practice_in_larger_mono_repos/) | /ClaudeAI | -| -|
+| 20 | [Custom Spinner Verbs now live in v2.1.23 + Hidden Settings Reference](https://www.reddit.com/r/ClaudeAI/comments/1qq2b3i/custom_spinner_verbs_now_live_in_v2123_hidden/) | /ClaudeAI | -| -|
+| 19 | [Claude.md for larger monorepos - Boris Cherny on X](https://www.reddit.com/r/ClaudeAI/comments/1qp42hp/claudemd_for_larger_monorepos_boris_cherny_on_x/) | /ClaudeAI | 31K| 10|
+| 18 | [CLAUDE.md says 'MUST use agent' - Claude ignores it 80% of the time.](https://www.reddit.com/r/ClaudeCode/comments/1qn9pb9/claudemd_says_must_use_agent_claude_ignores_it_80/) | /ClaudeCode | 124K | 100 |
+| 17 | [Updated my Claude Code Voice Hooks to use the new async feature](https://www.reddit.com/r/ClaudeAI/comments/1qn8tjz/updated_my_claude_code_voice_hooks_to_use_the_new/) | /ClaudeAI | 13K | 7 |
+| 16 | [Claude Code voice hooks now support latest Setup hook after 2.1.10 update](https://www.reddit.com/r/ClaudeAI/comments/1qgx550/claude_code_voice_hooks_now_support_latest_setup/) | /ClaudeAI | -| -|
+| 15 | [Does bribing models still work in 2026? 💰🤖](https://www.reddit.com/r/vibecoding/comments/1qe7qc7/comment/nzvf5ke/) | /vibecoding | -|- |
+| 14 | [Claude status line can now show actual context after 2.1.6 update](https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/) | /ClaudeAI | 54K | 33 |
+| 13 | [Merged /commands and skills in 2.1.3 update](https://www.reddit.com/r/ClaudeAI/comments/1q92wwv/merged_commands_and_skills_in_213_update/) | /ClaudeAI | 17K | 5 |
+| 12 | [Cursor launched dynamic mcp tool discovery while CC has this in BETA](https://www.reddit.com/r/cursor/comments/1q6b0ca/cursor_launched_dynamic_mcp_tool_discovery_while/) | /cursor | 6K | 4 |
+| 11 | [How come Claude Code is ranked 19th on the Terminal-Bench leaderboard?](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) | /ClaudeAI | 154K | 51 |
+| 10 | [Error in compacting for long running (2-3hrs) commands in 'bypass permissions on' mode](https://www.reddit.com/r/ClaudeAI/comments/1q178i7/error_in_compacting_for_long_running_23hrs/) | /ClaudeAI | -| -|
+| 09 | [Default permission mode: Delegate Mode? what is this?](https://www.reddit.com/r/ClaudeAI/comments/1ptsply/default_permission_mode_delegate_mode_what_is_this/) | /ClaudeAI | 75K | 47 |
+| 08 | [export ENABLE_EXPERIMENTAL_MCP_CLI=1 saves 20% context of mcp](https://www.reddit.com/r/ClaudeAI/comments/1pqvpsy/export_enable_experimental_mcp_cli1_saves_20/) | /ClaudeAI |23K |8 |
+| 07 | [Tutorial: How to use Claude in Chrome in Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1pqkby5/tutorial_how_to_use_claude_in_chrome_in_claude/) | /ClaudeAI |62K |2 |
+| 06 | [Claude in Chrome vs ChromeDevTools (MCP) - a simple comparison](https://www.reddit.com/r/ClaudeAI/comments/1pqg6rt/claude_in_chrome_vs_chromedevtools_mcp_a_simple/) | /ClaudeAI | 42K | 11 |
+| 05 | [Claude Code's Plan Mode stores your plan in System Prompt, not Context Window](https://www.reddit.com/r/ClaudeAI/comments/1ppm4vt/comment/nunq4my/) | /ClaudeAI | 55K | 11 |
+| 04 | [Spec Driven Development (SDD) vs Research Plan Implement (RPI) using claude](https://www.reddit.com/r/ClaudeAI/comments/1pkvque/comment/ntxxin1/) | /ClaudeAI | 72K | 35 |
+| 03 | [You can now switch models mid-prompt!](https://www.reddit.com/r/ClaudeAI/comments/1pjsk1w/comment/ntlecys/) | /ClaudeAI | 6K|9|
+| 02 | [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) | /ClaudeAI | 161K | 80 |
+| 01 | [Background agents… wasn't it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) | /ClaudeCode | 48K | 28 |
 
 ### <img src="images/icon/github.svg" height="20"/> Github (6)
 
