@@ -30,7 +30,7 @@
 
 ## <img src="images/icon/activity.svg" height="24"/> Recent Activity
 
-### <img src="images/icon/reddit.png" height="20"/> REDDIT (20)
+### <img src="images/icon/reddit.png" height="20"/> REDDIT (23)
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
@@ -58,7 +58,7 @@
 | 02 | [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) | /ClaudeAI | 161K | 80 |
 | 01 | [Background agents… wasn't it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) | /ClaudeCode | 48K | 28 |
 
-### <img src="images/icon/github.svg" height="20"/> Github (6)
+### <img src="images/icon/github.svg" height="20"/> Github (28)
 
 | S# | Repository | ⭐ |
 |--:|:--|--:|
@@ -66,8 +66,9 @@
 | 2 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | 21 |
 | 3 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | 1 |
 | 4 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | 11 |
-| 5 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | 0|
-| 6 | [Notes](https://github.com/shanraisshan/notes) |4 |
+| 5 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) |0 |
+| 6 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | 0|
+| 7 | [Notes](https://github.com/shanraisshan/notes) |4 |
 
 ### <img src="images/icon/github.svg" height="20"/> Github Issues (3)
 
