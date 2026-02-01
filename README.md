@@ -34,6 +34,7 @@
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
+| 23 | [Claude uses agentic search](https://www.reddit.com/r/ClaudeAI/comments/1qsqoq0/claude_uses_agentic_search/) | /ClaudeAI | 10K| 10|
 | 22 | [How can I run /compact automatically?](https://www.reddit.com/r/ClaudeAI/comments/1qsnrlb/how_can_i_run_compact_automatically/) | /ClaudeAI | -| -|
 | 21 | [Skills best practice in larger mono repos](https://www.reddit.com/r/ClaudeAI/comments/1qr7eyb/skills_best_practice_in_larger_mono_repos/) | /ClaudeAI | -| -|
 | 20 | [Custom Spinner Verbs now live in v2.1.23 + Hidden Settings Reference](https://www.reddit.com/r/ClaudeAI/comments/1qq2b3i/custom_spinner_verbs_now_live_in_v2123_hidden/) | /ClaudeAI | -| -|
