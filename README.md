@@ -66,12 +66,12 @@
 
 | S# | Repository | ⭐ |
 |--:|:--|--:|
-| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 259 |
+| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 272 |
 | 2 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | 21 |
-| 3 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini)| 0 | 11 |
+| 3 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini)| 0 |
 | 4 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | 11 |
 | 5 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | 1 |
-| 6 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) |0 |
+| 6 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) |5 |
 | 7 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | 0|
 | 7 | [Notes](https://github.com/shanraisshan/notes) |4 |
 
