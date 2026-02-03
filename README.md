@@ -1,36 +1,38 @@
-<img src="images/profile.png" width="38" height="38"/> <img src="images/name.svg" height="32"/>
+<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>
 
-<img src="images/icon/briefcase.svg" height="18"/> **Associate Software Architect** @ [disrupt.com](https://disrupt.com)
+<img src="!/icon/briefcase.svg" height="18"/> **Associate Software Architect** @ [disrupt.com](https://disrupt.com)
 
-<img src="images/terminal.svg" alt="i use claude code in light mode"/> <img src="images/mascot.svg" height="40" />
+<img src="!/terminal.svg" alt="i use claude code in light mode"/>
 
-<img src="images/tagline.svg" alt="AI-First Spec-Driven Development | Claude Code - Agentic AI Developer | MCP | Python | GCP | React Native | Kotlin" />
+<img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Claude Code - Agentic AI Developer | MCP | Python | GCP | React Native | Kotlin" />
+
+<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" /></a>
 
 | | | |
 |:--|:--|:--|
-| <img src="images/icon/graduation.svg" height="16"/> | **MS** Computer Science | NUCES FAST University |
-| <img src="images/icon/graduation.svg" height="16"/> | **BE** Computer Information Systems | NED University |
+| <img src="!/icon/graduation.svg" height="16"/> | **MS** Computer Science | NUCES FAST University |
+| <img src="!/icon/graduation.svg" height="16"/> | **BE** Computer Information Systems | NED University |
 
 <br>
 
 <p>
-<a href="https://www.linkedin.com/in/shanraisshan"><img src="images/icon/linkedin.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/shanraisshan"><img src="images/icon/reddit.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://x.com/shanraisshan"><img src="images/icon/x.svg" height="28"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/shanraisshan"><img src="images/icon/youtube.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="images/icon/stack-overflow.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://medium.com/@shanraisshan"><img src="images/icon/medium.png" height="28"/></a>
+<a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/shanraisshan"><img src="!/icon/reddit.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://x.com/shanraisshan"><img src="!/icon/x.svg" height="28"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/shanraisshan"><img src="!/icon/youtube.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="!/icon/stack-overflow.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://medium.com/@shanraisshan"><img src="!/icon/medium.png" height="28"/></a>
 </p>
 
 <br>
 
-<a href="https://www.reddit.com/user/shanraisshan/achievements/monthly-top-1-poster"><img src="images/badge-top-poster.svg" alt="Top 1% Poster on r/ClaudeAI and r/ClaudeCode"/></a>
+<a href="https://www.reddit.com/user/shanraisshan/achievements/monthly-top-1-poster"><img src="!/badge-top-poster.svg" alt="Top 1% Poster on r/ClaudeAI and r/ClaudeCode"/></a>
 
 ---
 
-## <img src="images/icon/activity.svg" height="24"/> Recent Activity
+## <img src="!/icon/activity.svg" height="24"/> Recent Activity
 
-### <img src="images/icon/reddit.png" height="20"/> REDDIT (23)
+### <img src="!/icon/reddit.png" height="20"/> REDDIT (25)
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
@@ -60,7 +62,7 @@
 | 02 | [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) | /ClaudeAI | 🚀 161K | 80 |
 | 01 | [Background agents… wasn't it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) | /ClaudeCode | 48K | 28 |
 
-### <img src="images/icon/github.svg" height="20"/> Github (28)
+### <img src="!/icon/github.svg" height="20"/> Github (28)
 
 | S# | Repository | ⭐ |
 |--:|:--|--:|
@@ -72,7 +74,7 @@
 | 6 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | 0|
 | 7 | [Notes](https://github.com/shanraisshan/notes) |4 |
 
-### <img src="images/icon/github.svg" height="20"/> Github Issues (3)
+### <img src="!/icon/github.svg" height="20"/> Github Issues (3)
 
 | S# | Issue |
 |--:|:--|

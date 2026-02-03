@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="80" viewBox="0 0 520 80">
+  <defs>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgba(255,255,255,0); stop-opacity:0">
+        <animate attributeName="offset" values="-1;2" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:rgba(255,255,255,0.3); stop-opacity:0.3">
+        <animate attributeName="offset" values="-0.5;2.5" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0); stop-opacity:0">
+        <animate attributeName="offset" values="0;3" dur="2s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <style>
+    .label { font-family: 'Roboto', 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 500; fill: white; }
+    .label-sm { font-family: 'Roboto', 'Segoe UI', Arial, sans-serif; font-size: 10px; font-weight: 500; fill: white; }
+    .pill { fill: #616161; }
+    .pill-light { fill: #757575; }
+    .pill-dark { fill: #424242; }
+    .shimmer-overlay { fill: url(#shimmer); }
+  </style>
+
+  <!-- Row 1 -->
+  <g transform="translate(0, 5)">
+    <!-- AI-First Spec-Driven Development -->
+    <g>
+      <rect x="0" y="0" width="200" height="28" rx="14" class="pill-dark"/>
+      <rect x="0" y="0" width="200" height="28" rx="14" class="shimmer-overlay"/>
+      <text x="100" y="18" class="label" text-anchor="middle">AI-First Spec-Driven Development</text>
+    </g>
+
+    <!-- Claude Code - Agentic AI Dev -->
+    <g>
+      <rect x="210" y="0" width="190" height="28" rx="14" class="pill"/>
+      <rect x="210" y="0" width="190" height="28" rx="14" class="shimmer-overlay"/>
+      <text x="305" y="18" class="label" text-anchor="middle">Claude Code - Agentic AI Dev</text>
+    </g>
+
+    <!-- MCP -->
+    <g>
+      <rect x="410" y="0" width="55" height="28" rx="14" class="pill-light"/>
+      <rect x="410" y="0" width="55" height="28" rx="14" class="shimmer-overlay"/>
+      <text x="437" y="18" class="label" text-anchor="middle">MCP</text>
+    </g>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(0, 42)">
+    <!-- Python/FastAPI -->
+    <g>
+      <rect x="0" y="0" width="110" height="26" rx="13" class="pill-light"/>
+      <rect x="0" y="0" width="110" height="26" rx="13" class="shimmer-overlay"/>
+      <text x="55" y="17" class="label-sm" text-anchor="middle">Python/FastAPI</text>
+    </g>
+
+    <!-- GCP (Cloud Run, Pub/Sub) -->
+    <g>
+      <rect x="120" y="0" width="175" height="26" rx="13" class="pill-dark"/>
+      <rect x="120" y="0" width="175" height="26" rx="13" class="shimmer-overlay"/>
+      <text x="207" y="17" class="label-sm" text-anchor="middle">GCP (Cloud Run, Pub/Sub)</text>
+    </g>
+
+    <!-- Mobile (React Native, Kotlin) -->
+    <g>
+      <rect x="305" y="0" width="180" height="26" rx="13" class="pill"/>
+      <rect x="305" y="0" width="180" height="26" rx="13" class="shimmer-overlay"/>
+      <text x="395" y="17" class="label-sm" text-anchor="middle">Mobile (React Native, Kotlin)</text>
+    </g>
+  </g>
+</svg>
