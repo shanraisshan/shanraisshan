@@ -6,7 +6,7 @@
 
 <img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Claude Code - Agentic AI Developer | MCP | Python | GCP | React Native | Kotlin" />
 
-<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="82" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&logo=github&logoColor=white&label=claude-code-best-practice&labelColor=24292f&color=f6f8fa" alt="Stars" height="46" /></a>
+<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="82" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /></a>
 
 | | | |
 |:--|:--|:--|
