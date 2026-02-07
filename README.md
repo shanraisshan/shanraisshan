@@ -32,10 +32,18 @@
 
 ## <img src="!/icon/activity.svg" height="24"/> Recent Activity
 
-### <img src="!/icon/reddit.png" height="20"/> REDDIT (25)
+### <img src="!/icon/reddit.png" height="20"/> REDDIT (33)
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
+| 33 | [Claude added 2 more hooks with v2.1.33 Opus4.6 - This space isn't moving in weeks anymore, it's moving in days.](https://www.reddit.com/r/ClaudeAI/comments/1qxcjji/claude_added_2_more_hooks_with_v2133_opus46_this/) | /ClaudeAI [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qxcojn/claude_added_2_more_hooks_with_v2133_opus46_this/) | -| -|
+| 32 | [tmux + agent swarms + opus 4.6 🔥](https://www.reddit.com/r/ClaudeAI/comments/1qxb8ql/tmux_agent_swarms_opus_46/) | /ClaudeAI | -| -|
+| 31 | [You can set effort for Opus 4.6 ↔ using /model](https://www.reddit.com/r/ClaudeAI/comments/1qxa0wz/you_can_set_effort_for_opus_46_using_model/) | /ClaudeAI [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qxamnz/you_can_set_effort_for_opus_46_using_model/) | -| -|
+| 30 | [Claude Code HOOKS explained in 5 minutes](https://www.reddit.com/r/ClaudeAI/comments/1qwju77/claude_code_hooks_explained_in_5_minutes/) | /ClaudeAI [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qwk0me/claude_code_hooks_explained_in_5_minutes/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1qwkgca/claude_code_hooks_explained_in_5_minutes/) | -| -|
+| 29 | [Claude is actually good in svg generation.](https://www.reddit.com/r/ClaudeAI/comments/1qvx503/claude_is_actually_good_in_svg_generation/) | /ClaudeAI [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qvx8i3/claude_is_actually_good_in_svg_generation/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1qwcay6/claude_is_actually_good_in_svg_generation/) [/accelerate](https://www.reddit.com/r/accelerate/comments/1qwccw6/claude_is_actually_good_in_svg_generation/) | -| -|
+| 28 | [Hooks system for Codex CLI? Looking for alternatives to the limited notify config](https://www.reddit.com/r/ClaudeCode/comments/1qvnzg1/hooks_system_for_codex_cli_looking_for/) | /ClaudeCode [/codex](https://www.reddit.com/r/codex/comments/1qvnxor/hooks_system_for_codex_cli_looking_for/) [/OpenAI](https://www.reddit.com/r/OpenAI/comments/1qvnwwg/hooks_system_for_codex_cli_looking_for/) | -| -|
+| 27 | [Claude.md vs SKILLS.md - Vercel experiment](https://www.reddit.com/r/ClaudeAI/comments/1qvhgqc/claudemd_vs_skillsmd_vercel_experiment/) | /ClaudeAI [/cursor](https://www.reddit.com/r/cursor/comments/1qvhpw5/agentsclaudemd_vs_skills_research_by_vercel/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qvhm9k/claudemd_vs_skillsmd_vercel_experiment/) [/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1qvhox7/agentsmd_outperforms_skills_in_our_agent_evals/) | -| -|
+| 26 | [Same question, different answers? Here's why Claude CLI vs Agent SDK outputs may vary](https://www.reddit.com/r/ClaudeAI/comments/1quuhp0/same_question_different_answers_heres_why_claude/) | /ClaudeAI | -| -|
 | 25 | [Claude CLI vs Claude Agent SDK - Discussion](https://www.reddit.com/r/ClaudeAI/comments/1quz6vk/claude_cli_vs_claude_agent_sdk_discussion/) | /ClaudeAI | -| -|
 | 24 | [Built a Ralph Wiggum Infinite Loop for novel research - after 103 questions, the winner is...](https://www.reddit.com/r/ClaudeAI/comments/1qtnzzp/built_a_ralph_wiggum_infinite_loop_for_novel/#lightbox) | /ClaudeAI [/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/comments/1qtrkco/built_a_ralph_wiggum_infinite_loop_for_novel/) [/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1qtrivj/built_a_ralph_wiggum_infinite_loop_for_novel/)| 39K| 30|
 | 23 | [Claude uses agentic search](https://www.reddit.com/r/ClaudeAI/comments/1qsqoq0/claude_uses_agentic_search/) | /ClaudeAI | 🚀 120K| 90|
