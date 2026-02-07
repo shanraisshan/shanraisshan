@@ -65,15 +65,15 @@
 ### <img src="!/icon/github.svg" height="20"/> Github (30)
 
 | S# | Repository | ⭐ |
-|--:|:--|--:|
-| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 272 |
-| 2 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | 21 |
-| 3 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini)| 0 |
-| 4 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | 11 |
-| 5 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | 1 |
-| 6 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) |5 |
-| 7 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | 0|
-| 7 | [Notes](https://github.com/shanraisshan/notes) |4 |
+|--:|:--|:--|
+| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%AD%90) |
+| 2 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-voice-hooks?style=flat&label=%E2%AD%90) |
+| 3 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-codex-cursor-gemini?style=flat&label=%E2%AD%90) |
+| 4 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-status-line?style=flat&label=%E2%AD%90) |
+| 5 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-multi-agent-orchestrartion?style=flat&label=%E2%AD%90) |
+| 6 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) | ![Stars](https://img.shields.io/github/stars/shanraisshan/novel-llm-26?style=flat&label=%E2%AD%90) |
+| 7 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%AD%90) |
+| 8 | [Notes](https://github.com/shanraisshan/notes) | ![Stars](https://img.shields.io/github/stars/shanraisshan/notes?style=flat&label=%E2%AD%90) |
 
 ### <img src="!/icon/github.svg" height="20"/> Github Issues (3)
 
