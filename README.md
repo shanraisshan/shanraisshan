@@ -56,11 +56,12 @@
 | 7 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%98%85&labelColor=white&color=white) |
 | 8 | [Notes](https://github.com/shanraisshan/notes) | ![Stars](https://img.shields.io/github/stars/shanraisshan/notes?style=flat&label=%E2%98%85&labelColor=white&color=white) |
 
-### <img src="!/icon/github.svg" height="20"/> Github Issues (3)
+### <img src="!/icon/youtube.png" height="20"/> Videos (4)
 
-| S# | Issue |
-|--:|:--|
-| 1 | [Context usage is showing wrong numbers](https://github.com/robinebers/claude-code-statusline/issues/2) |
-| 2 | [Add hook for user input/question events (UserInputRequired)](https://github.com/anthropics/claude-code/issues/10168) |
-| 3 | [Tip 0: status line showing wrong context usage](https://github.com/ykdojo/claude-code-tips/issues/3) |
+<p>
+<a href="https://youtu.be/6_y3AtkgjqA"><img src="!/youtube-thumbs/youtube-video-1.png" width="24%"/></a>
+<a href="https://www.youtube.com/watch?v=OF3yn4bpre8"><img src="!/youtube-thumbs/youtube-video-2.png" width="24%"/></a>
+<a href="https://www.youtube.com/watch?v=JFPJtMNV8Qw"><img src="!/youtube-thumbs/youtube-video-3.png" width="24%"/></a>
+<a href="https://www.youtube.com/watch?v=vgfdSUbz_b0"><img src="!/youtube-thumbs/youtube-video-4.png" width="24%"/></a>
+</p>
 
