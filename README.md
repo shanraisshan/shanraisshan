@@ -32,56 +32,29 @@
 
 ## <img src="!/icon/activity.svg" height="24"/> Recent Activity
 
-### <img src="!/icon/reddit.png" height="20"/> REDDIT (33)
+### <img src="!/icon/reddit.png" height="20"/> REDDIT (38)
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 33 | [Claude added 2 more hooks with v2.1.33 Opus4.6 - This space isn't moving in weeks anymore, it's moving in days.](https://www.reddit.com/r/ClaudeAI/comments/1qxcjji/claude_added_2_more_hooks_with_v2133_opus46_this/) | /ClaudeAI [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qxcojn/claude_added_2_more_hooks_with_v2133_opus46_this/) | -| -|
-| 32 | [tmux + agent swarms + opus 4.6 🔥](https://www.reddit.com/r/ClaudeAI/comments/1qxb8ql/tmux_agent_swarms_opus_46/) | /ClaudeAI | -| -|
-| 31 | [You can set effort for Opus 4.6 ↔ using /model](https://www.reddit.com/r/ClaudeAI/comments/1qxa0wz/you_can_set_effort_for_opus_46_using_model/) | /ClaudeAI [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qxamnz/you_can_set_effort_for_opus_46_using_model/) | -| -|
-| 30 | [Claude Code HOOKS explained in 5 minutes](https://www.reddit.com/r/ClaudeAI/comments/1qwju77/claude_code_hooks_explained_in_5_minutes/) | /ClaudeAI [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qwk0me/claude_code_hooks_explained_in_5_minutes/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1qwkgca/claude_code_hooks_explained_in_5_minutes/) | -| -|
-| 29 | [Claude is actually good in svg generation.](https://www.reddit.com/r/ClaudeAI/comments/1qvx503/claude_is_actually_good_in_svg_generation/) | /ClaudeAI [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qvx8i3/claude_is_actually_good_in_svg_generation/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1qwcay6/claude_is_actually_good_in_svg_generation/) [/accelerate](https://www.reddit.com/r/accelerate/comments/1qwccw6/claude_is_actually_good_in_svg_generation/) | -| -|
-| 28 | [Hooks system for Codex CLI? Looking for alternatives to the limited notify config](https://www.reddit.com/r/ClaudeCode/comments/1qvnzg1/hooks_system_for_codex_cli_looking_for/) | /ClaudeCode [/codex](https://www.reddit.com/r/codex/comments/1qvnxor/hooks_system_for_codex_cli_looking_for/) [/OpenAI](https://www.reddit.com/r/OpenAI/comments/1qvnwwg/hooks_system_for_codex_cli_looking_for/) | -| -|
-| 27 | [Claude.md vs SKILLS.md - Vercel experiment](https://www.reddit.com/r/ClaudeAI/comments/1qvhgqc/claudemd_vs_skillsmd_vercel_experiment/) | /ClaudeAI [/cursor](https://www.reddit.com/r/cursor/comments/1qvhpw5/agentsclaudemd_vs_skills_research_by_vercel/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qvhm9k/claudemd_vs_skillsmd_vercel_experiment/) [/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1qvhox7/agentsmd_outperforms_skills_in_our_agent_evals/) | -| -|
-| 26 | [Same question, different answers? Here's why Claude CLI vs Agent SDK outputs may vary](https://www.reddit.com/r/ClaudeAI/comments/1quuhp0/same_question_different_answers_heres_why_claude/) | /ClaudeAI | -| -|
-| 25 | [Claude CLI vs Claude Agent SDK - Discussion](https://www.reddit.com/r/ClaudeAI/comments/1quz6vk/claude_cli_vs_claude_agent_sdk_discussion/) | /ClaudeAI | -| -|
-| 24 | [Built a Ralph Wiggum Infinite Loop for novel research - after 103 questions, the winner is...](https://www.reddit.com/r/ClaudeAI/comments/1qtnzzp/built_a_ralph_wiggum_infinite_loop_for_novel/#lightbox) | /ClaudeAI [/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/comments/1qtrkco/built_a_ralph_wiggum_infinite_loop_for_novel/) [/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1qtrivj/built_a_ralph_wiggum_infinite_loop_for_novel/)| 39K| 30|
-| 23 | [Claude uses agentic search](https://www.reddit.com/r/ClaudeAI/comments/1qsqoq0/claude_uses_agentic_search/) | /ClaudeAI | 🚀 120K| 90|
-| 22 | [How can I run /compact automatically?](https://www.reddit.com/r/ClaudeAI/comments/1qsnrlb/how_can_i_run_compact_automatically/) | /ClaudeAI | -| -|
-| 21 | [Skills best practice in larger mono repos](https://www.reddit.com/r/ClaudeAI/comments/1qr7eyb/skills_best_practice_in_larger_mono_repos/) | /ClaudeAI | -| -|
-| 20 | [Custom Spinner Verbs now live in v2.1.23 + Hidden Settings Reference](https://www.reddit.com/r/ClaudeAI/comments/1qq2b3i/custom_spinner_verbs_now_live_in_v2123_hidden/) | /ClaudeAI | -| -|
-| 19 | [Claude.md for larger monorepos - Boris Cherny on X](https://www.reddit.com/r/ClaudeAI/comments/1qp42hp/claudemd_for_larger_monorepos_boris_cherny_on_x/) | /ClaudeAI | 31K| 10|
-| 18 | [CLAUDE.md says 'MUST use agent' - Claude ignores it 80% of the time.](https://www.reddit.com/r/ClaudeCode/comments/1qn9pb9/claudemd_says_must_use_agent_claude_ignores_it_80/) | /ClaudeCode | 🚀 124K | 100 |
-| 17 | [Updated my Claude Code Voice Hooks to use the new async feature](https://www.reddit.com/r/ClaudeAI/comments/1qn8tjz/updated_my_claude_code_voice_hooks_to_use_the_new/) | /ClaudeAI | 13K | 7 |
-| 16 | [Claude Code voice hooks now support latest Setup hook after 2.1.10 update](https://www.reddit.com/r/ClaudeAI/comments/1qgx550/claude_code_voice_hooks_now_support_latest_setup/) | /ClaudeAI | -| -|
-| 15 | [Does bribing models still work in 2026? 💰🤖](https://www.reddit.com/r/vibecoding/comments/1qe7qc7/comment/nzvf5ke/) | /vibecoding | -|- |
-| 14 | [Claude status line can now show actual context after 2.1.6 update](https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/) | /ClaudeAI | 54K | 33 |
-| 13 | [Merged /commands and skills in 2.1.3 update](https://www.reddit.com/r/ClaudeAI/comments/1q92wwv/merged_commands_and_skills_in_213_update/) | /ClaudeAI | 17K | 5 |
-| 12 | [Cursor launched dynamic mcp tool discovery while CC has this in BETA](https://www.reddit.com/r/cursor/comments/1q6b0ca/cursor_launched_dynamic_mcp_tool_discovery_while/) | /cursor | 6K | 4 |
-| 11 | [How come Claude Code is ranked 19th on the Terminal-Bench leaderboard?](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) | /ClaudeAI | 🚀 154K | 51 |
-| 10 | [Error in compacting for long running (2-3hrs) commands in 'bypass permissions on' mode](https://www.reddit.com/r/ClaudeAI/comments/1q178i7/error_in_compacting_for_long_running_23hrs/) | /ClaudeAI | -| -|
-| 09 | [Default permission mode: Delegate Mode? what is this?](https://www.reddit.com/r/ClaudeAI/comments/1ptsply/default_permission_mode_delegate_mode_what_is_this/) | /ClaudeAI | 75K | 47 |
-| 08 | [export ENABLE_EXPERIMENTAL_MCP_CLI=1 saves 20% context of mcp](https://www.reddit.com/r/ClaudeAI/comments/1pqvpsy/export_enable_experimental_mcp_cli1_saves_20/) | /ClaudeAI |23K |8 |
-| 07 | [Tutorial: How to use Claude in Chrome in Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1pqkby5/tutorial_how_to_use_claude_in_chrome_in_claude/) | /ClaudeAI |62K |2 |
-| 06 | [Claude in Chrome vs ChromeDevTools (MCP) - a simple comparison](https://www.reddit.com/r/ClaudeAI/comments/1pqg6rt/claude_in_chrome_vs_chromedevtools_mcp_a_simple/) | /ClaudeAI | 42K | 11 |
-| 05 | [Claude Code's Plan Mode stores your plan in System Prompt, not Context Window](https://www.reddit.com/r/ClaudeAI/comments/1ppm4vt/comment/nunq4my/) | /ClaudeAI | 55K | 11 |
-| 04 | [Spec Driven Development (SDD) vs Research Plan Implement (RPI) using claude](https://www.reddit.com/r/ClaudeAI/comments/1pkvque/comment/ntxxin1/) | /ClaudeAI | 72K | 35 |
-| 03 | [You can now switch models mid-prompt!](https://www.reddit.com/r/ClaudeAI/comments/1pjsk1w/comment/ntlecys/) | /ClaudeAI | 6K|9|
-| 02 | [Claude Rules (./claude/rules/) are here](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) | /ClaudeAI | 🚀 161K | 80 |
-| 01 | [Background agents… wasn't it already doing that?](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70/) | /ClaudeCode | 48K | 28 |
+| 38 | Claude introduced 2 more memories (Agents + Auto) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r12u5k/claude_introduced_2_more_memories_agents_auto/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r12ki6/claude_introduced_2_more_memories_agents_auto/) | -| -|
+| 37 | Claude Agent Memory - Report | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r0zpq2/claude_agent_memory_report/) | -| -|
+| 36 | .claude/agent-memory/weather/MEMORY.md is not generating | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r0zne0/claudeagentmemoryweathermemorymd_is_not_generating/) | -| -|
+| 35 | Do not use haiku for explore agent for larger codebases | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r0alsl/do_not_use_haiku_for_explore_agent_for_larger/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r0asgl/do_not_use_haiku_for_explore_agent_for_larger/) | -| -|
+
+<p align="center"><a href="reports/reddit.md"><b>See Complete List &rarr;</b></a></p>
 
 ### <img src="!/icon/github.svg" height="20"/> Github (30)
 
 | S# | Repository | ⭐ |
 |--:|:--|:--|
-| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%AD%90) |
-| 2 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-voice-hooks?style=flat&label=%E2%AD%90) |
-| 3 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-codex-cursor-gemini?style=flat&label=%E2%AD%90) |
-| 4 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-status-line?style=flat&label=%E2%AD%90) |
-| 5 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-multi-agent-orchestrartion?style=flat&label=%E2%AD%90) |
-| 6 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) | ![Stars](https://img.shields.io/github/stars/shanraisshan/novel-llm-26?style=flat&label=%E2%AD%90) |
-| 7 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%AD%90) |
-| 8 | [Notes](https://github.com/shanraisshan/notes) | ![Stars](https://img.shields.io/github/stars/shanraisshan/notes?style=flat&label=%E2%AD%90) |
+| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=white) |
+| 2 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-voice-hooks?style=flat&label=%E2%98%85&labelColor=white&color=white) |
+| 3 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-codex-cursor-gemini?style=flat&label=%E2%98%85&labelColor=white&color=white) |
+| 4 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-status-line?style=flat&label=%E2%98%85&labelColor=white&color=white) |
+| 5 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-multi-agent-orchestrartion?style=flat&label=%E2%98%85&labelColor=white&color=white) |
+| 6 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) | ![Stars](https://img.shields.io/github/stars/shanraisshan/novel-llm-26?style=flat&label=%E2%98%85&labelColor=white&color=white) |
+| 7 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%98%85&labelColor=white&color=white) |
+| 8 | [Notes](https://github.com/shanraisshan/notes) | ![Stars](https://img.shields.io/github/stars/shanraisshan/notes?style=flat&label=%E2%98%85&labelColor=white&color=white) |
 
 ### <img src="!/icon/github.svg" height="20"/> Github Issues (3)
 
