@@ -34,12 +34,21 @@
 
 ### <img src="!/icon/reddit.png" height="20"/> REDDIT (38)
 
+**Latest**
+
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 38 | Claude introduced 2 more memories (Agents + Auto) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r12u5k/claude_introduced_2_more_memories_agents_auto/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r12ki6/claude_introduced_2_more_memories_agents_auto/) | -| -|
-| 37 | Claude Agent Memory - Report | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r0zpq2/claude_agent_memory_report/) | -| -|
-| 36 | .claude/agent-memory/weather/MEMORY.md is not generating | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r0zne0/claudeagentmemoryweathermemorymd_is_not_generating/) | -| -|
-| 35 | Do not use haiku for explore agent for larger codebases | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r0alsl/do_not_use_haiku_for_explore_agent_for_larger/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r0asgl/do_not_use_haiku_for_explore_agent_for_larger/) | -| -|
+| 41 | 12 claude code tips from creator of claude code in feb 2026 | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r2m8ma/12_claude_code_tips_from_creator_of_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r2mgl2/12_claude_code_tips_from_creator_of_claude_code/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1r2mhbn/12_claude_code_tips_from_creator_of_claude_code/) [/claude](https://www.reddit.com/r/claude/comments/1r2mjgl/12_claude_code_tips_from_creator_of_claude_code/) | 1.5K\|316\|102\|58 | 1\|0\|1\|0 |
+| 40 | Excalidraw mcp is kinda cool | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r20yha/excalidraw_mcp_is_kinda_cool/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1r2310b/excalidraw_mcp_is_kinda_cool/) [/mcp](https://www.reddit.com/r/mcp/comments/1r2mqcn/excalidraw_mcp_is_kinda_cool/) | 6.8K\|283\|80 | 1\|0\|0 |
+| 39 | Harness vs Scaffolding - Claude Code | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r1q379/harness_vs_scaffolding_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r1qad0/harness_vs_scaffolding_claude_code/) | 2.9K\|1K | 0\|0 |
+
+**Most Viewed**
+
+| S# | Post | Subreddit | 👁️ | 🗣️ |
+|--:|:--|:--|--:|--:|
+| 23 | Claude uses agentic search | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1qsqoq0/claude_uses_agentic_search/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qss8w4/claude_uses_agentic_search/) | 🚀 196K\|1.7K | 89\|1 |
+| 02 | Claude Rules (./claude/rules/) are here | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) | 🚀 168K | 81 |
+| 11 | How come Claude Code is ranked 19th on the Terminal-Bench leaderboard? | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1q4fk8b/how_come_claude_code_is_ranked_19th_on_the/) | 🚀 156K\|1.4K | 50\|2 |
 
 <p align="center"><a href="reports/reddit.md"><b>See Complete List &rarr;</b></a></p>
 
