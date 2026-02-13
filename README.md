@@ -38,9 +38,9 @@
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 41 | 12 claude code tips from creator of claude code in feb 2026 | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r2m8ma/12_claude_code_tips_from_creator_of_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r2mgl2/12_claude_code_tips_from_creator_of_claude_code/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1r2mhbn/12_claude_code_tips_from_creator_of_claude_code/) [/claude](https://www.reddit.com/r/claude/comments/1r2mjgl/12_claude_code_tips_from_creator_of_claude_code/) | 1.5K\|316\|102\|58 | 1\|0\|1\|0 |
-| 40 | Excalidraw mcp is kinda cool | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r20yha/excalidraw_mcp_is_kinda_cool/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1r2310b/excalidraw_mcp_is_kinda_cool/) [/mcp](https://www.reddit.com/r/mcp/comments/1r2mqcn/excalidraw_mcp_is_kinda_cool/) | 6.8K\|283\|80 | 1\|0\|0 |
-| 39 | Harness vs Scaffolding - Claude Code | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r1q379/harness_vs_scaffolding_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r1qad0/harness_vs_scaffolding_claude_code/) | 2.9K\|1K | 0\|0 |
+| 41 | 12 claude code tips from creator of claude code in feb 2026 | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r2m8ma/12_claude_code_tips_from_creator_of_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r2mgl2/12_claude_code_tips_from_creator_of_claude_code/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1r2mhbn/12_claude_code_tips_from_creator_of_claude_code/) [/claude](https://www.reddit.com/r/claude/comments/1r2mjgl/12_claude_code_tips_from_creator_of_claude_code/) | 🚀 128K\|2.1K\|1.6K\|713 | 25\|0\|1\|0 |
+| 40 | Excalidraw mcp is kinda cool | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r20yha/excalidraw_mcp_is_kinda_cool/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1r2310b/excalidraw_mcp_is_kinda_cool/) [/mcp](https://www.reddit.com/r/mcp/comments/1r2mqcn/excalidraw_mcp_is_kinda_cool/) | 8.6K\|310\|1.1K | 1\|0\|1 |
+| 39 | Harness vs Scaffolding - Claude Code | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r1q379/harness_vs_scaffolding_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r1qad0/harness_vs_scaffolding_claude_code/) | 3.2K\|1.1K | 0\|0 |
 
 **Most Viewed**
 
