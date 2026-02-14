@@ -32,15 +32,15 @@
 
 ## <img src="!/icon/activity.svg" height="24"/> Recent Activity
 
-### <img src="!/icon/reddit.png" height="20"/> REDDIT (43)
+### <img src="!/icon/reddit.png" height="20"/> REDDIT (46)
 
 **Latest**
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 46 | Claude Code (Opus 4.6 High) for Planning & Implementation, Codex CLI (5.3) for Review & QA — still took 8 phases for a 5-phase plan | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r3v7gl/claude_code_opus_46_high_for_planning/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3vbug/claude_code_opus_46_high_for_planning/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1r3xfla/claude_code_opus_46_high_for_planning/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1r3wu6m/claude_code_opus_46_high_for_planning/) [/aipromptprogramming](https://www.reddit.com/r/aipromptprogramming/comments/1r3x171/claude_code_opus_46_high_for_planning/) [/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1r3x1c6/claude_code_opus_46_high_for_planning/) [/ChatGPTNSFW](https://www.reddit.com/r/ChatGPTNSFW/comments/1r3x5qy/claude_code_opus_46_high_for_planning/) [/cursor](https://www.reddit.com/r/cursor/comments/1r3zdqo/claude_code_opus_46_high_for_planning/) [/AIAssisted](https://www.reddit.com/r/AIAssisted/comments/1r3vfa9/claude_code_opus_46_high_for_planning/) [/AITrailblazers](https://www.reddit.com/r/AITrailblazers/comments/1r4dp4o/claude_code_opus_46_high_for_planning/) | - | - |
-| 45 | if you have Connector setup at Claude ai website, you will get duplicate error in Claude Code CLI mcp json | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3ml2e/if_you_have_connector_setup_at_claude_ai_website/) | - | - |
-| 44 | Claude.ai Connectors == Claude Code CLI (.msp.json) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r3m3gi/claudeai_connectors_claude_code_cli_mspjson/) | - | - |
+| 46 | Claude Code (Opus 4.6 High) for Planning & Implementation, Codex CLI (5.3) for Review & QA — still took 8 phases for a 5-phase plan | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r3v7gl/claude_code_opus_46_high_for_planning/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3vbug/claude_code_opus_46_high_for_planning/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1r3xfla/claude_code_opus_46_high_for_planning/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1r3wu6m/claude_code_opus_46_high_for_planning/) [/aipromptprogramming](https://www.reddit.com/r/aipromptprogramming/comments/1r3x171/claude_code_opus_46_high_for_planning/) [/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1r3x1c6/claude_code_opus_46_high_for_planning/) [/ChatGPTNSFW](https://www.reddit.com/r/ChatGPTNSFW/comments/1r3x5qy/claude_code_opus_46_high_for_planning/) [/cursor](https://www.reddit.com/r/cursor/comments/1r3zdqo/claude_code_opus_46_high_for_planning/) [/AIAssisted](https://www.reddit.com/r/AIAssisted/comments/1r3vfa9/claude_code_opus_46_high_for_planning/) [/AITrailblazers](https://www.reddit.com/r/AITrailblazers/comments/1r4dp4o/claude_code_opus_46_high_for_planning/) | 14K ■ 726 ■ 871 ■ 300 ■ 264 ■ 1.9K ■ 2.5K ■ 1.3K ■ 361 ■ 0 | 7 ■ 0 ■ 0 ■ 0 ■ 0 ■ 1 ■ 2 ■ 4 ■ 0 ■ 0 |
+| 45 | if you have Connector setup at Claude ai website, you will get duplicate error in Claude Code CLI mcp json | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3ml2e/if_you_have_connector_setup_at_claude_ai_website/) | 1.2K | 1 |
+| 43 | Spotify says its best developers haven't written a line of code since December, thanks to AI (Claude) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r3jh3q/spotify_says_its_best_developers_havent_written_a/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3m0r0/spotify_says_its_best_developers_havent_written_a/) | 🚀 159K ■ 19K | 105 ■ 55 |
 
 **Most Viewed**
 
@@ -48,7 +48,9 @@
 |--:|:--|:--|--:|--:|
 | 23 | Claude uses agentic search | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1qsqoq0/claude_uses_agentic_search/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qss8w4/claude_uses_agentic_search/) | 🚀 196K ■ 1.7K | 89 ■ 1 |
 | 02 | Claude Rules (./claude/rules/) are here | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) | 🚀 168K | 81 |
+| 43 | Spotify says its best developers haven't written a line of code since December, thanks to AI (Claude) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r3jh3q/spotify_says_its_best_developers_havent_written_a/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3m0r0/spotify_says_its_best_developers_havent_written_a/) | 🚀 159K ■ 19K | 105 ■ 55 |
 | 11 | How come Claude Code is ranked 19th on the Terminal-Bench leaderboard? | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1q4fk8b/how_come_claude_code_is_ranked_19th_on_the/) | 🚀 156K ■ 1.4K | 50 ■ 2 |
+| 18 | CLAUDE.md says 'MUST use agent' - Claude ignores it 80% of the time. | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qn9pb9/claudemd_says_must_use_agent_claude_ignores_it_80/) | 🚀 155K | 102 |
 
 <p align="center"><a href="reports/reddit.md"><b>See Complete List &rarr;</b></a></p>
 
