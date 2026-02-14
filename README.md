@@ -4,7 +4,7 @@
 
 <img src="!/terminal.svg" alt="i use claude code in light mode"/>
 
-<img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Claude Code - Agentic AI Developer | MCP | Python | GCP | React Native | Kotlin" />
+<img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Agentic Engineering | Claude Code | MCP | Python | GCP | React Native | Kotlin" />
 
 <a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="82" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /></a>
 
@@ -32,29 +32,29 @@
 
 ## <img src="!/icon/activity.svg" height="24"/> Recent Activity
 
-### <img src="!/icon/reddit.png" height="20"/> REDDIT (38)
+### <img src="!/icon/reddit.png" height="20"/> REDDIT (43)
 
 **Latest**
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 41 | 12 claude code tips from creator of claude code in feb 2026 | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r2m8ma/12_claude_code_tips_from_creator_of_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r2mgl2/12_claude_code_tips_from_creator_of_claude_code/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1r2mhbn/12_claude_code_tips_from_creator_of_claude_code/) [/claude](https://www.reddit.com/r/claude/comments/1r2mjgl/12_claude_code_tips_from_creator_of_claude_code/) | 🚀 128K\|2.1K\|1.6K\|713 | 25\|0\|1\|0 |
-| 40 | Excalidraw mcp is kinda cool | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r20yha/excalidraw_mcp_is_kinda_cool/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1r2310b/excalidraw_mcp_is_kinda_cool/) [/mcp](https://www.reddit.com/r/mcp/comments/1r2mqcn/excalidraw_mcp_is_kinda_cool/) | 8.6K\|310\|1.1K | 1\|0\|1 |
-| 39 | Harness vs Scaffolding - Claude Code | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r1q379/harness_vs_scaffolding_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r1qad0/harness_vs_scaffolding_claude_code/) | 3.2K\|1.1K | 0\|0 |
+| 46 | Claude Code (Opus 4.6 High) for Planning & Implementation, Codex CLI (5.3) for Review & QA — still took 8 phases for a 5-phase plan | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r3v7gl/claude_code_opus_46_high_for_planning/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3vbug/claude_code_opus_46_high_for_planning/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1r3xfla/claude_code_opus_46_high_for_planning/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1r3wu6m/claude_code_opus_46_high_for_planning/) [/aipromptprogramming](https://www.reddit.com/r/aipromptprogramming/comments/1r3x171/claude_code_opus_46_high_for_planning/) [/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1r3x1c6/claude_code_opus_46_high_for_planning/) [/ChatGPTNSFW](https://www.reddit.com/r/ChatGPTNSFW/comments/1r3x5qy/claude_code_opus_46_high_for_planning/) [/cursor](https://www.reddit.com/r/cursor/comments/1r3zdqo/claude_code_opus_46_high_for_planning/) [/AIAssisted](https://www.reddit.com/r/AIAssisted/comments/1r3vfa9/claude_code_opus_46_high_for_planning/) [/AITrailblazers](https://www.reddit.com/r/AITrailblazers/comments/1r4dp4o/claude_code_opus_46_high_for_planning/) | - | - |
+| 45 | if you have Connector setup at Claude ai website, you will get duplicate error in Claude Code CLI mcp json | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3ml2e/if_you_have_connector_setup_at_claude_ai_website/) | - | - |
+| 44 | Claude.ai Connectors == Claude Code CLI (.msp.json) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r3m3gi/claudeai_connectors_claude_code_cli_mspjson/) | - | - |
 
 **Most Viewed**
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 23 | Claude uses agentic search | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1qsqoq0/claude_uses_agentic_search/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qss8w4/claude_uses_agentic_search/) | 🚀 196K\|1.7K | 89\|1 |
+| 23 | Claude uses agentic search | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1qsqoq0/claude_uses_agentic_search/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qss8w4/claude_uses_agentic_search/) | 🚀 196K ■ 1.7K | 89 ■ 1 |
 | 02 | Claude Rules (./claude/rules/) are here | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) | 🚀 168K | 81 |
-| 11 | How come Claude Code is ranked 19th on the Terminal-Bench leaderboard? | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1q4fk8b/how_come_claude_code_is_ranked_19th_on_the/) | 🚀 156K\|1.4K | 50\|2 |
+| 11 | How come Claude Code is ranked 19th on the Terminal-Bench leaderboard? | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q4dnhr/how_come_claude_code_is_ranked_19th_on_the/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1q4fk8b/how_come_claude_code_is_ranked_19th_on_the/) | 🚀 156K ■ 1.4K | 50 ■ 2 |
 
 <p align="center"><a href="reports/reddit.md"><b>See Complete List &rarr;</b></a></p>
 
-### <img src="!/icon/github.svg" height="20"/> Github (30)
+### <img src="!/icon/github.svg" height="20"/> Github (24)
 
-| S# | Repository | ⭐ |
+| S# | Repository | ★ |
 |--:|:--|:--|
 | 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=white) |
 | 2 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-voice-hooks?style=flat&label=%E2%98%85&labelColor=white&color=white) |
@@ -65,7 +65,7 @@
 | 7 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%98%85&labelColor=white&color=white) |
 | 8 | [Notes](https://github.com/shanraisshan/notes) | ![Stars](https://img.shields.io/github/stars/shanraisshan/notes?style=flat&label=%E2%98%85&labelColor=white&color=white) |
 
-### <img src="!/icon/youtube.png" height="20"/> Videos (4)
+### <a href="https://www.youtube.com/@Shanraisshan"><img src="!/icon/youtube.png" height="20"/></a> Videos (4)
 
 <p>
 <a href="https://youtu.be/6_y3AtkgjqA"><img src="!/youtube-thumbs/youtube-video-1.png" width="24%"/></a>
