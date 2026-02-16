@@ -4,7 +4,7 @@
 
 <img src="!/terminal.svg" alt="i use claude code in light mode"/>
 
-<img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Agentic Engineering | Claude Code | MCP | Python | GCP | React Native | Kotlin" />
+<img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Agentic Engineering | Product Engineer | Claude Code | Codex | MCP | Python/FastAPI | GCP | Mobile (Kotlin, React Native) | Java" />
 
 <a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="82" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /></a>
 
