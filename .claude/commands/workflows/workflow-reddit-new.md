@@ -61,7 +61,7 @@ Compare the agent's returned posts against the existing posts in `reports/reddit
 
 For each existing post that has new cross-post subreddits:
 1. Append the new subreddit link(s) to the existing Subreddit column (space-separated)
-2. Append ` ■ 0` to the views column and ` ■ 0` to the comments column for each new subreddit added
+2. Append ` • 0` to the views column and ` • 0` to the comments column for each new subreddit added
 3. Update the same post in `README.md` if it appears in the Latest or Most Viewed tables
 
 If no new posts AND no new cross-posts are found, inform the user and stop.
@@ -146,7 +146,7 @@ Skill tool parameters:
 
 This skill requires Reddit to be open in a Chrome tab within the Claude in Chrome tab group. If the user does not have Reddit open, ask them to open any Reddit page before proceeding.
 
-Wait for the skill to complete. It will update the 👁️ and 🗣️ columns for the last 30 posts in both `reports/reddit.md` and `README.md`.
+Wait for the skill to complete. It will update the 👁️ and 🗣️ columns for the last 80 posts in both `reports/reddit.md` and `README.md`.
 
 ---
 
@@ -169,4 +169,4 @@ This will stage `reports/reddit.md`, `README.md`, and any modified workflow/skil
 2. **Preserve exact table formatting** — match the existing column alignment and separators
 3. **Cross-post grouping** — if a post appears in multiple subreddits, it's ONE row with multiple subreddit links
 4. **Sequential S# numbering** — never skip or reuse numbers
-5. **The ` ■ ` separator** — used in views and comments columns for multi-subreddit posts (e.g., `0 ■ 0 ■ 0`)
+5. **The ` • ` separator** — used in views and comments columns for multi-subreddit posts (e.g., `0 • 0 • 0`)
