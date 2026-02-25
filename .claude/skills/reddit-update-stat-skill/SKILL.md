@@ -1,5 +1,5 @@
 ---
-name: workflow-reddit-update
+name: reddit-update-stat-skills
 description: Update Reddit post views and comments count for the last 30 posts in README.md and reports/reddit.md. Requires Reddit to be open in a Claude in Chrome tab group.
 user-invocable: true
 allowed-tools: mcp__claude-in-chrome__tabs_context_mcp, mcp__claude-in-chrome__javascript_tool, Read, Edit, Grep

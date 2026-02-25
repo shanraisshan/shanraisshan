@@ -10,18 +10,29 @@ This is an end-to-end workflow that fetches the latest Reddit posts, identifies 
 
 ---
 
-## Step 1: Read Existing Posts
+## Step 1: Check Claude in Chrome Connection
+
+Before proceeding, verify that the Claude in Chrome extension is connected and responsive.
+
+1. Call `mcp__claude-in-chrome__tabs_context_mcp` (with `createIfEmpty: true`)
+2. If the call succeeds and returns tab information → **proceed to Step 2**
+3. If the call fails or returns an error → **stop the workflow** and tell the user:
+   > "Claude in Chrome is not connected. Please make sure the Claude in Chrome extension is installed and active in your browser, then try again."
+
+---
+
+## Step 2: Read Existing Posts
 
 Read `reports/reddit.md` to understand:
 - The current highest S# (post number)
 - All existing post titles (to detect duplicates)
 - The exact table format used
 
-Store this data for comparison in Step 3.
+Store this data for comparison in Step 4.
 
 ---
 
-## Step 2: Call the Reddit Fetch Agent
+## Step 3: Call the Reddit Fetch Agent
 
 Use the **Task tool** to launch the `workflow-reddit-new-agent`:
 
@@ -39,16 +50,25 @@ Wait for the agent to return the full list of grouped posts.
 
 ---
 
-## Step 3: Identify New Posts
+## Step 4: Identify New Posts and New Cross-Posts
 
 Compare the agent's returned posts against the existing posts in `reports/reddit.md`:
 - Match by **title** (case-insensitive, fuzzy match for minor differences)
 - Any post from the agent's list that does NOT exist in the current report = **new post**
-- If no new posts are found, inform the user and stop
+- For existing posts, compare subreddit links — if the agent found new subreddit cross-posts not in the report, flag them as **new cross-posts**
+
+### 4a: Update Existing Posts with New Cross-Posts
+
+For each existing post that has new cross-post subreddits:
+1. Append the new subreddit link(s) to the existing Subreddit column (space-separated)
+2. Append ` ■ 0` to the views column and ` ■ 0` to the comments column for each new subreddit added
+3. Update the same post in `README.md` if it appears in the Latest or Most Viewed tables
+
+If no new posts AND no new cross-posts are found, inform the user and stop.
 
 ---
 
-## Step 4: Add New Posts to `reports/reddit.md`
+## Step 5: Add New Posts to `reports/reddit.md`
 
 For each new post (in chronological order, oldest first):
 
@@ -68,7 +88,7 @@ For each new post (in chronological order, oldest first):
 
 ---
 
-## Step 5: Update `README.md`
+## Step 6: Update `README.md`
 
 Update the Reddit section in `README.md`:
 
@@ -85,7 +105,7 @@ Update the Reddit section in `README.md`:
 
 ---
 
-## Step 6: Update "Last Updated" Badge
+## Step 7: Update "Last Updated" Badge
 
 Update the **Last Updated** badge in `README.md` (located right after the `## Recent Activity` heading) with the current date/time in Pakistan Standard Time (PKT).
 
@@ -107,7 +127,7 @@ https://img.shields.io/badge/Last_Updated-Feb_25%2C_2026_10%3A44_AM_PKT-white?st
 
 ---
 
-## Step 7: Summary
+## Step 8: Summary
 
 Print a summary:
 - Number of new posts added
@@ -115,13 +135,13 @@ Print a summary:
 
 ---
 
-## Step 8: Update View and Comment Counts
+## Step 9: Update View and Comment Counts
 
 After new posts have been added, invoke the `workflow-reddit-update` skill using the **Skill tool** to fetch and update view counts and comment counts for all recent posts (including the newly added ones).
 
 ```
 Skill tool parameters:
-  skill: "workflows:workflow-reddit-update"
+  skill: "reddit-update-stat-skill"
 ```
 
 This skill requires Reddit to be open in a Chrome tab within the Claude in Chrome tab group. If the user does not have Reddit open, ask them to open any Reddit page before proceeding.
@@ -130,9 +150,22 @@ Wait for the skill to complete. It will update the 👁️ and 🗣️ columns f
 
 ---
 
+## Step 10: Commit Changes
+
+After all updates are complete, invoke the `git:commit` command using the **Skill tool** to stage and commit all changes.
+
+```
+Skill tool parameters:
+  skill: "git:commit"
+```
+
+This will stage `reports/reddit.md`, `README.md`, and any modified workflow/skill files, then create a commit with a descriptive message.
+
+---
+
 ## Important Rules
 
-1. **Do NOT modify existing posts** — only add new ones (view/comment updates are handled by Step 8)
+1. **Do NOT modify existing post titles or S#** — only add new posts or append new cross-post subreddit links to existing posts (view/comment updates are handled by Step 9)
 2. **Preserve exact table formatting** — match the existing column alignment and separators
 3. **Cross-post grouping** — if a post appears in multiple subreddits, it's ONE row with multiple subreddit links
 4. **Sequential S# numbering** — never skip or reuse numbers
