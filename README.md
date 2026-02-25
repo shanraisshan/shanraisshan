@@ -32,16 +32,18 @@
 
 ## <img src="!/icon/activity.svg" height="24"/> Recent Activity
 
-### <img src="!/icon/reddit.png" height="20"/> REDDIT (52)
+![Last Updated](https://img.shields.io/badge/Last_Updated-Feb_25%2C_2026_10%3A44_AM_PKT-white?style=flat&labelColor=555)
+
+### <img src="!/icon/reddit.png" height="20"/> REDDIT (68)
 
 **Latest**
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 52 | Increase web search accuracy and efficiency with dynamic filtering | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r7v4td/increase_web_search_accuracy_and_efficiency_with/) | 0 | 0 |
-| 51 | Can you legally use your Claude Max subscription ($200/mo) to power custom agents via the Agent SDK for personal use? | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r7ccth/can_you_legally_use_your_claude_max_subscription/) | 5.4K | 7 |
-| 50 | Why Claude in tmux wearning a black cap and a beard? | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r71nfh/why_claude_in_tmux_wearning_a_black_cap_and_a/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r778wg/why_claude_in_tmux_wearning_a_black_cap_and_a/) | 27K ■ 1.3K | 12 ■ 3 |
-| 49 | Claude keeps on adding hooks | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r5i5k8/claude_keeps_on_adding_hooks/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r5ialc/claude_keeps_on_adding_hooks/) | 5.7K ■ 1.4K | 2 ■ 0 |
+| 68 | BOSS Level of Spec Driven Development (SDD) by creator of claude code (Boris) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1re41t7/boss_level_of_spec_driven_development_sdd_by/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1re4il6/boss_level_of_spec_driven_development_sdd_by/) | 0 ■ 0 | 0 ■ 0 |
+| 67 | No AGENTS.md → baseline. Bad AGENTS.md → worse. Good AGENTS.md → better. The file isn't the problem, your writing is. | [/OpenAI](https://www.reddit.com/r/OpenAI/comments/1rd94in/no_agentsmd_baseline_bad_agentsmd_worse_good/) [/cursor](https://www.reddit.com/r/cursor/comments/1rd94wr/no_agentsmd_baseline_bad_agentsmd_worse_good/) | 0 ■ 0 | 0 ■ 0 |
+| 66 | No CLAUDE.md → baseline. Bad CLAUDE.md → worse. Good CLAUDE.md → better. The file isn't the problem, your writing is. | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1rd93ho/no_claudemd_baseline_bad_claudemd_worse_good/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rd957e/no_claudemd_baseline_bad_claudemd_worse_good/) | 0 ■ 0 | 0 ■ 0 |
+| 65 | ELI5 - Anthropic vs DeepSeek, Moonshot AI, and MiniMax | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1rd7nw2/eli5_anthropic_vs_deepseek_moonshot_ai_and_minimax/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1rd7r9a/eli5_anthropic_vs_deepseek_moonshot_ai_and_minimax/) | 0 ■ 0 | 0 ■ 0 |
 
 **Most Viewed**
 

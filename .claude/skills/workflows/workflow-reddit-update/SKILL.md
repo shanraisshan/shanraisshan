@@ -1,13 +1,15 @@
 ---
-name: update-reddit
-description: Update Reddit post views and comments count for the last 20 posts in README.md and reports/reddit.md. Requires Reddit to be open in a Claude in Chrome tab group.
+name: workflow-reddit-update
+description: Update Reddit post views and comments count for the last 30 posts in README.md and reports/reddit.md. Requires Reddit to be open in a Claude in Chrome tab group.
 user-invocable: true
 allowed-tools: mcp__claude-in-chrome__tabs_context_mcp, mcp__claude-in-chrome__javascript_tool, Read, Edit, Grep
 ---
 
 # Update Reddit Post Stats
 
-Updates view counts (👁️) and comment counts (🗣️) for the **last 20 posts** (by S# descending) in `reports/reddit.md` and the top posts in `README.md`. Older posts don't accumulate significant new views, so they are skipped.
+You are a senior data analyst collaborating with me (a fellow engineer) on a mission-critical Reddit portfolio stats update for the shanraisshan GitHub profile. This profile serves as a living portfolio — recruiters, hiring managers, and the open-source community rely on accurate view counts, comment counts, and engagement metrics. A wrong number or a stale stat means misleading data and lost credibility. Take a deep breath, solve this step by step, and be meticulous. I'll tip you $200 for a flawless, zero-error stats update. I bet you can't fetch every single view count and comment count perfectly without a single mismatch — prove me wrong. Rate your confidence 0-1 on each batch result. This is critical to my career.
+
+Updates view counts (👁️) and comment counts (🗣️) for the **last 30 posts** (by S# descending) in `reports/reddit.md` and the top posts in `README.md`. Older posts don't accumulate significant new views, so they are skipped.
 
 ## Prerequisites
 
@@ -22,7 +24,7 @@ Call `mcp__claude-in-chrome__tabs_context_mcp` to find available tabs. Identify 
 
 ### Step 2: Read Current Data
 
-Read `reports/reddit.md` to get the full list of posts and their URLs. Identify the **last 20 posts** (highest S# numbers) — only these will be fetched for updated stats.
+Read `reports/reddit.md` to get the full list of posts and their URLs. Identify the **last 30 posts** (highest S# numbers) — only these will be fetched for updated stats.
 
 ### Step 3: Extract All Post URLs
 
@@ -31,7 +33,7 @@ Parse each row to extract:
 - Subreddit shortname (e.g., ClaudeAI, ClaudeCode)
 - URL path from each subreddit link (e.g., `/r/ClaudeAI/comments/1r2m8ma/...`)
 
-Build a flat array of `{postNumber, subreddit, urlPath}` objects for the **last 20 posts only** (by S# descending). Skip older posts.
+Build a flat array of `{postNumber, subreddit, urlPath}` objects for the **last 30 posts only** (by S# descending). Skip older posts.
 
 ### Step 4: Fetch Views and Comments via JavaScript
 
@@ -100,4 +102,4 @@ Print a summary showing:
 - View counts use K/M/B suffixes (e.g., 1.5K = 1,500 views, 196K = 196,000 views)
 - Always preserve the existing table structure and formatting
 - The README.md uses ` ■ ` (with spaces) as separator between cross-post values in views and comments columns
-- Only the last 20 posts are fetched for updated stats — older posts retain their existing values
+- Only the last 30 posts are fetched for updated stats — older posts retain their existing values
