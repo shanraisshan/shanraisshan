@@ -32,27 +32,27 @@
 
 ## <img src="!/icon/activity.svg" height="24"/> Recent Activity
 
-![Last Updated](https://img.shields.io/badge/Last_Updated-Feb_26%2C_2026_10%3A35_AM_PKT-white?style=flat&labelColor=555)
+![Last Updated](https://img.shields.io/badge/Last_Updated-Feb_27%2C_2026_12%3A24_PM_PKT-white?style=flat&labelColor=555)
 
-### <img src="!/icon/reddit.png" height="20"/> REDDIT (68)
+### <img src="!/icon/reddit.png" height="20"/> REDDIT (75)
 
 **Latest**
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 68 | BOSS Level of Spec Driven Development (SDD) by creator of claude code (Boris) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1re41t7/boss_level_of_spec_driven_development_sdd_by/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1re4il6/boss_level_of_spec_driven_development_sdd_by/) | 1.6K • 788 | 1 • 0 |
-| 67 | No AGENTS.md → baseline. Bad AGENTS.md → worse. Good AGENTS.md → better. The file isn't the problem, your writing is. | [/OpenAI](https://www.reddit.com/r/OpenAI/comments/1rd94in/no_agentsmd_baseline_bad_agentsmd_worse_good/) [/cursor](https://www.reddit.com/r/cursor/comments/1rd94wr/no_agentsmd_baseline_bad_agentsmd_worse_good/) | 16K • 8K | 8 • 9 |
-| 66 | No CLAUDE.md → baseline. Bad CLAUDE.md → worse. Good CLAUDE.md → better. The file isn't the problem, your writing is. | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1rd93ho/no_claudemd_baseline_bad_claudemd_worse_good/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rd957e/no_claudemd_baseline_bad_claudemd_worse_good/) | 🚀 110K • 1.8K | 58 • 2 |
-| 65 | ELI5 - Anthropic vs DeepSeek, Moonshot AI, and MiniMax | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1rd7nw2/eli5_anthropic_vs_deepseek_moonshot_ai_and_minimax/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1rd7r9a/eli5_anthropic_vs_deepseek_moonshot_ai_and_minimax/) | 5.5K • 1.9K | 2 • 0 |
+| 75 | Do "Senior/Junior Engineer" roles in Agent's system prompts actually improve results, or just change tone? | [/OpenAI](https://www.reddit.com/r/OpenAI/comments/1rfz41h/do_seniorjunior_engineer_roles_in_agents_system/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1rfz4sv/do_seniorjunior_engineer_roles_in_agents_system/) | 463 • 59 | 0 • 0 |
+| 74 | Claude Code Best Practice hits 5000★ today | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rfxsfv/claude_code_best_practice_hits_5000_today/) [/AIAssisted](https://www.reddit.com/r/AIAssisted/comments/1rfxszb/claude_code_best_practice_hits_5000_today/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1rfxtjs/claude_code_best_practice_hits_5000_today/) [/AI_Tips_Tricks](https://www.reddit.com/r/AI_Tips_Tricks/comments/1rfxtz1/claude_code_best_practice_hits_5000_today/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1rfxudj/claude_code_best_practice_hits_5000_today/) [/claude](https://www.reddit.com/r/claude/comments/1rfxuya/claude_code_best_practice_hits_5000_today/) | 1.6K • 50 • 193 • 61 • 404 • 172 | 1 • 0 • 0 • 0 • 0 • 0 |
+| 73 | Claude Code Memory is here | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rft896/claude_code_memory_is_here/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1rftany/claude_code_memory_is_here/) | 23K • 176 | 27 • 0 |
+| 72 | What are your SECRET SAUCE for agents, MCPs, commands & skills? Please share! | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rfjz1p/what_are_your_secret_sauce_for_agents_mcps/) | 2.1K | 6 |
 
 **Most Viewed**
 
 | S# | Post | Subreddit | 👁️ | 🗣️ |
 |--:|:--|:--|--:|--:|
-| 63 | 5 claude code worktree tips from creator of claude code in feb 2026 | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1rae05r/5_claude_code_worktree_tips_from_creator_of/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rae7sa/5_claude_code_worktree_tips_from_creator_of/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1raeoop/5_claude_code_worktree_tips_from_creator_of/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1raeszd/5_claude_code_worktree_tips_from_creator_of/) | 🚀 86K • 🚀 216K • 768 • 6.5K | 30 • 111 • 0 • 0 |
-| 43 | Spotify says its best developers haven't written a line of code since December, thanks to AI (Claude) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r3jh3q/spotify_says_its_best_developers_havent_written_a/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3m0r0/spotify_says_its_best_developers_havent_written_a/) | 🚀 210K • 21K | 119 • 59 |
-| 41 | 12 claude code tips from creator of claude code in feb 2026 | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r2m8ma/12_claude_code_tips_from_creator_of_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r2mgl2/12_claude_code_tips_from_creator_of_claude_code/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1r2mhbn/12_claude_code_tips_from_creator_of_claude_code/) [/claude](https://www.reddit.com/r/claude/comments/1r2mjgl/12_claude_code_tips_from_creator_of_claude_code/) | 🚀 194K • 2.5K • 3K • 3.6K | 32 • 0 • 1 • 0 |
-| 23 | Claude uses agentic search | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1qsqoq0/claude_uses_agentic_search/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qss8w4/claude_uses_agentic_search/) | 🚀 199K • 1.7K | 89 • 1 |
+| 63 | 5 claude code worktree tips from creator of claude code in feb 2026 | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1rae05r/5_claude_code_worktree_tips_from_creator_of/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1rae7sa/5_claude_code_worktree_tips_from_creator_of/) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1raeoop/5_claude_code_worktree_tips_from_creator_of/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1raeszd/5_claude_code_worktree_tips_from_creator_of/) | 🚀 88K • 🚀 220K • 769 • 6.5K | 30 • 112 • 0 • 0 |
+| 43 | Spotify says its best developers haven't written a line of code since December, thanks to AI (Claude) | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r3jh3q/spotify_says_its_best_developers_havent_written_a/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r3m0r0/spotify_says_its_best_developers_havent_written_a/) | 🚀 211K • 21K | 125 • 59 |
+| 41 | 12 claude code tips from creator of claude code in feb 2026 | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r2m8ma/12_claude_code_tips_from_creator_of_claude_code/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1r2mgl2/12_claude_code_tips_from_creator_of_claude_code/) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1r2mhbn/12_claude_code_tips_from_creator_of_claude_code/) [/claude](https://www.reddit.com/r/claude/comments/1r2mjgl/12_claude_code_tips_from_creator_of_claude_code/) | 🚀 196K • 2.5K • 3K • 3.6K | 32 • 0 • 1 • 0 |
+| 23 | Claude uses agentic search | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1qsqoq0/claude_uses_agentic_search/) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1qss8w4/claude_uses_agentic_search/) | 🚀 200K • 1.7K | 89 • 1 |
 | 02 | Claude Rules (./claude/rules/) are here | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56/) | 🚀 174K | 81 |
 
 <p align="center"><a href="reports/reddit.md"><b>See Complete List &rarr;</b></a></p>
