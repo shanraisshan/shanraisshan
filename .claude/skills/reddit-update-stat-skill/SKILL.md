@@ -75,15 +75,30 @@ JSON.parse(localStorage.getItem('batch_result')).slice(0, 15)
 
 ### Step 5: Update reports/reddit.md
 
-For each post row, update the views (👁️) and comments (🗣️) columns:
-- **Multi-subreddit posts**: Use ` • ` separator ordered by subreddit appearance (e.g., `1.5K • 316 • 102 • 58`)
-- **Single-subreddit posts**: Just the value (e.g., `2.9K`)
+The table has 3 columns: `| S# | Post | Subreddit |`. The Subreddit column contains merged subreddit links with inline views and comments in the format:
+
+```
+[/SubredditName](url) (VIEWS • COMMENTS) [/SubredditName2](url2) (VIEWS2 • COMMENTS2)
+```
+
+For each post row, update the views and comments values inline after each subreddit link:
+- **Format**: `[/Sub](url) (views • comments)` — each subreddit link is followed by parenthesized views and comments separated by ` • `
+- **Sorting**: Within each row, subreddits MUST be sorted by views (highest first)
 - **Posts with 0 views across all subreddits**: These are removed/deleted posts. Flag them to the user and ask if they should be removed.
-- **Posts with any subreddit having >50K views**: Prefix that specific value with 🚀 emoji (e.g., `🚀 196K • 1.7K` or `13K • 🚀 59K`)
+- **View badges (>=50K views)**: Use a shields.io badge with eyes emoji (👀), color-coded by view count:
+  - **>=50K** (up to 100K): green `3FB950` → `![90K](https://img.shields.io/badge/%F0%9F%91%80-90K-3FB950?style=flat&labelColor=white)`
+  - **>100K** (up to 200K): orange-yellow `F09000` → `![159K](https://img.shields.io/badge/%F0%9F%91%80-159K-F09000?style=flat&labelColor=white)`
+  - **>200K**: red `FF5252` → `![211K](https://img.shields.io/badge/%F0%9F%91%80-211K-FF5252?style=flat&labelColor=white)`
+- **Comment badges (>50 comments)**: Use a shields.io badge with speaking head emoji (🗣️), color-coded by comment count:
+  - **>50** (up to 100): green `3FB950` → `![89](https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F-89-3FB950?style=flat&labelColor=white)`
+  - **>100** (up to 500): orange-yellow `F09000` → `![125](https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F-125-F09000?style=flat&labelColor=white)`
+  - **>500**: red `FF5252` → `![501](https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F-501-FF5252?style=flat&labelColor=white)`
+
+**Example row**: `| 43 | Spotify says... | [/ClaudeAI](url) (![211K](badge) • ![125](badge)) [/ClaudeCode](url) (21K • ![59](badge)) |`
 
 ### Step 6: Update README.md
 
-The README shows only the **top N most recent posts** in a preview table (currently posts 41-38). Update the same columns (👁️ and 🗣️) for those posts in the README with the same format.
+The README shows only the **top N most recent posts** in a preview table. Update the Subreddit column for those posts in the README with the same merged format (sorted by views).
 
 Also update the total count `REDDIT (N)` in both files if posts were added or removed.
 
@@ -101,5 +116,5 @@ Print a summary showing:
 - Some posts may show `0` views if they've been removed by mods — confirm with user before removing
 - View counts use K/M/B suffixes (e.g., 1.5K = 1,500 views, 196K = 196,000 views)
 - Always preserve the existing table structure and formatting
-- The README.md uses ` • ` (with spaces) as separator between cross-post values in views and comments columns
+- The ` • ` separator (with spaces) is used inline within parentheses to separate views and comments — e.g., `(21K • 3)`
 - Only the last 80 posts are fetched for updated stats — older posts retain their existing values

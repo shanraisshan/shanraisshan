@@ -60,8 +60,8 @@ Compare the agent's returned posts against the existing posts in `reports/reddit
 ### 4a: Update Existing Posts with New Cross-Posts
 
 For each existing post that has new cross-post subreddits:
-1. Append the new subreddit link(s) to the existing Subreddit column (space-separated)
-2. Append ` • 0` to the views column and ` • 0` to the comments column for each new subreddit added
+1. Append the new subreddit link(s) to the Subreddit column with `(0 • 0)` inline — e.g., `[/NewSub](url) (0 • 0)`
+2. The new subreddit entry goes at the END of the existing entries (it has 0 views, so it will be last after sorting)
 3. Update the same post in `README.md` if it appears in the Latest or Most Viewed tables
 
 If no new posts AND no new cross-posts are found, inform the user and stop.
@@ -73,15 +73,15 @@ If no new posts AND no new cross-posts are found, inform the user and stop.
 For each new post (in chronological order, oldest first):
 
 1. **Assign S#**: Increment from the current highest S# (e.g., if highest is 52, new posts start at 53)
-2. **Format the row** using the exact table format:
+2. **Format the row** using the 3-column table format:
 
 ```
-| [S#] | [Post Title] | [Subreddit Links] | 0 | 0 |
+| [S#] | [Post Title] | [/Sub1](url1) (0 • 0) [/Sub2](url2) (0 • 0) |
 ```
 
-- **Subreddit Links**: Format as `[/SubredditName](URL)` — multiple subreddits separated by a space
-- **Views (👁️)**: Set to `0` for all new posts (will be updated by the `workflow-reddit-update` skill later)
-- **Comments (🗣️)**: Set to `0` for all new posts (will be updated by the `workflow-reddit-update` skill later)
+- **Subreddit column**: Each subreddit link is followed by `(views • comments)` inline — e.g., `[/ClaudeAI](url) (0 • 0)`
+- Multiple subreddits are space-separated within the same column
+- Views and comments are set to `0` for new posts (will be updated by the `reddit-update-stat-skill` later)
 
 3. **Insert new rows** at the TOP of the table (after the header row), since they are the most recent posts
 4. **Update the total count** in the heading: `## <img ...> REDDIT ([new count])`
@@ -146,7 +146,7 @@ Skill tool parameters:
 
 This skill requires Reddit to be open in a Chrome tab within the Claude in Chrome tab group. If the user does not have Reddit open, ask them to open any Reddit page before proceeding.
 
-Wait for the skill to complete. It will update the 👁️ and 🗣️ columns for the last 80 posts in both `reports/reddit.md` and `README.md`.
+Wait for the skill to complete. It will update the inline view and comment counts for the last 80 posts in both `reports/reddit.md` and `README.md`.
 
 ---
 
@@ -169,4 +169,5 @@ This will stage `reports/reddit.md`, `README.md`, and any modified workflow/skil
 2. **Preserve exact table formatting** — match the existing column alignment and separators
 3. **Cross-post grouping** — if a post appears in multiple subreddits, it's ONE row with multiple subreddit links
 4. **Sequential S# numbering** — never skip or reuse numbers
-5. **The ` • ` separator** — used in views and comments columns for multi-subreddit posts (e.g., `0 • 0 • 0`)
+5. **The ` • ` separator** — used inline within parentheses to separate views and comments (e.g., `(0 • 0)`)
+6. **GitHub stars badge colors** — when adding new repos to the GitHub section, use color-coded star badges: `color=black` (< 100 stars), `color=3FB950` (>= 100), `color=F09000` (>= 500), `color=FF5252` (>= 1000). Use `labelColor=white` for all.
