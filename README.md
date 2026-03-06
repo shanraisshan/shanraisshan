@@ -6,7 +6,7 @@
 
 <img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Agentic Engineering | Product Engineer | Claude Code | Codex | MCP | Python/FastAPI | GCP | Mobile (Kotlin, React Native) | Java" />
 
-<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="82" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /></a>
+<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="82" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/badge/%E2%98%85-11.4k-24292f?style=flat-square&labelColor=24292f" alt="Stars" height="20" /></a>
 
 | | | |
 |:--|:--|:--|
@@ -61,11 +61,11 @@
 
 | S# | Repository | ★ |
 |--:|:--|:--|
-| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=FF5252) |
+| 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![11.4k](https://img.shields.io/badge/%E2%98%85-11.4k-FF5252?style=flat&labelColor=white) |
 | 2 | [EmojiCodeSheet](https://github.com/shanraisshan/EmojiCodeSheet) | ![Stars](https://img.shields.io/github/stars/shanraisshan/EmojiCodeSheet?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
-| 3 | [Refactoring-Android-App-Series-Overview](https://github.com/shanraisshan/Refactoring-Android-App-Series-Overview) | ![Stars](https://img.shields.io/github/stars/shanraisshan/Refactoring-Android-App-Series-Overview?style=flat&label=%E2%98%85&labelColor=white&color=black) |
-| 4 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-voice-hooks?style=flat&label=%E2%98%85&labelColor=white&color=black) |
-| 5 | [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 3 | [Refactoring-Android-App-Series-Overview](https://github.com/shanraisshan/Refactoring-Android-App-Series-Overview) | ![Stars](https://img.shields.io/github/stars/shanraisshan/Refactoring-Android-App-Series-Overview?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
+| 4 | [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 5 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-voice-hooks?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 6 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-status-line?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 7 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) | ![Stars](https://img.shields.io/github/stars/shanraisshan/novel-llm-26?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 8 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-codex-cursor-gemini?style=flat&label=%E2%98%85&labelColor=white&color=black) |

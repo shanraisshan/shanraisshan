@@ -1,9 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 56" width="350" height="56">
+  <defs>
+    <linearGradient id="shimmer" x1="-100%" y1="0" x2="100%" y2="0">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)" />
+      <stop offset="50%" stop-color="rgba(255,255,255,0.4)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0)" />
+      <animateTransform attributeName="gradientTransform" type="translate" from="-2 0" to="2 0" dur="1.2s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+
   <!-- Dark section (GitHub icon) - sharp corners -->
   <rect x="0" y="0" width="60" height="56" fill="#24292f"/>
 
   <!-- Silver section (repo name) - sharp corners -->
   <rect x="60" y="0" width="290" height="56" fill="#f6f8fa"/>
+
+  <!-- Shimmer overlay -->
+  <rect x="0" y="0" width="350" height="56" fill="url(#shimmer)" />
 
   <!-- GitHub icon (scaled 2.4x, centered in 60x56) -->
   <g transform="translate(11, 9)">
