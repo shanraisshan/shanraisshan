@@ -57,23 +57,25 @@
 
 <p align="center"><a href="reports/reddit.md"><b>See Complete List &rarr;</b></a></p>
 
-### <img src="!/icon/github.svg" height="20"/> Github (29)
+### <img src="!/icon/github.svg" height="20"/> Github (27)
 
 | S# | Repository | ★ |
 |--:|:--|:--|
 | 1 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=FF5252) |
 | 2 | [EmojiCodeSheet](https://github.com/shanraisshan/EmojiCodeSheet) | ![Stars](https://img.shields.io/github/stars/shanraisshan/EmojiCodeSheet?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
-| 3 | [Refactoring-Android-App-Series-Overview](https://github.com/shanraisshan/Refactoring-Android-App-Series-Overview) | ![Stars](https://img.shields.io/github/stars/shanraisshan/Refactoring-Android-App-Series-Overview?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
-| 4 | [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=black) |
-| 5 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-voice-hooks?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 3 | [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
+| 4 | [Refactoring-Android-App-Series-Overview](https://github.com/shanraisshan/Refactoring-Android-App-Series-Overview) | ![Stars](https://img.shields.io/github/stars/shanraisshan/Refactoring-Android-App-Series-Overview?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
+| 5 | [claude-code-voice-hooks](https://github.com/shanraisshan/claude-code-voice-hooks) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-voice-hooks?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 6 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-status-line?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 7 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) | ![Stars](https://img.shields.io/github/stars/shanraisshan/novel-llm-26?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 8 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-codex-cursor-gemini?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 9 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-multi-agent-orchestrartion?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 10 | [Notes](https://github.com/shanraisshan/notes) | ![Stars](https://img.shields.io/github/stars/shanraisshan/notes?style=flat&label=%E2%98%85&labelColor=white&color=black) |
-| 11 | [mcp-weather](https://github.com/shanraisshan/mcp-weather/) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 11 | [mcp-weather](https://github.com/shanraisshan/mcp-weather) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 12 | [codex-cli-voice-hooks](https://github.com/shanraisshan/codex-cli-voice-hooks) | ![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-voice-hooks?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 13 | [claude-agent-sdk-vs-claude-code-cli](https://github.com/shanraisshan/claude-agent-sdk-vs-claude-code-cli) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-agent-sdk-vs-claude-code-cli?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 14 | [claude-code-rules](https://github.com/shanraisshan/claude-code-rules) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-rules?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 15 | [frontend-template](https://github.com/shanraisshan/frontend-template) | ![Stars](https://img.shields.io/github/stars/shanraisshan/frontend-template?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 
 ### <a href="https://www.youtube.com/@Shanraisshan"><img src="!/icon/youtube.png" height="20"/></a> Videos (4)
 
