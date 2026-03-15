@@ -1,8 +1,8 @@
 ---
 name: reddit-update-stat-skills
-description: Update Reddit post views and comments count for the last 80 posts in README.md and reports/reddit.md. Requires Reddit to be open in a Claude in Chrome tab group.
+description: Update Reddit post views and comments count for the last 80 posts in README.md and reports/reddit.md. Uses the reddit-stats MCP server (AppleScript + Chrome).
 user-invocable: true
-allowed-tools: mcp__claude-in-chrome__tabs_context_mcp, mcp__claude-in-chrome__javascript_tool, Read, Edit, Grep
+allowed-tools: mcp__reddit-stats__fetch_reddit_stats, Read, Edit, Grep
 ---
 
 # Update Reddit Post Stats
@@ -13,67 +13,56 @@ Updates view counts (👁️) and comment counts (🗣️) for the **last 80 pos
 
 ## Prerequisites
 
-- User MUST have Reddit open in a Chrome tab within the Claude in Chrome tab group (any Reddit page works, the user must be logged in)
-- Claude in Chrome extension must be connected
+- User MUST have Chrome open and be logged into Reddit
+- The `reddit-stats` MCP server must be configured in `.mcp.json`
+- Chrome must have "Allow JavaScript from Apple Events" enabled (View > Developer > Allow JavaScript from Apple Events)
 
 ## Workflow
 
-### Step 1: Get Tab Context
-
-Call `mcp__claude-in-chrome__tabs_context_mcp` to find available tabs. Identify a tab that has Reddit loaded (URL contains `reddit.com`). If no Reddit tab exists, ask the user to open any Reddit page in the Claude tab group.
-
-### Step 2: Read Current Data
+### Step 1: Read Current Data
 
 Read `reports/reddit.md` to get the full list of posts and their URLs. Identify the **last 80 posts** (highest S# numbers) — only these will be fetched for updated stats.
 
-### Step 3: Extract All Post URLs
+### Step 2: Extract All Post URLs
 
 Parse each row to extract:
 - Post number (S#)
 - Subreddit shortname (e.g., ClaudeAI, ClaudeCode)
-- URL path from each subreddit link (e.g., `/r/ClaudeAI/comments/1r2m8ma/...`)
+- Full URL for each subreddit link (e.g., `https://www.reddit.com/r/ClaudeAI/comments/1r2m8ma/...`)
 
-Build a flat array of `{postNumber, subreddit, urlPath}` objects for the **last 80 posts only** (by S# descending). Skip older posts.
+Build a flat array of `{postNumber, subreddit, url}` objects for the **last 80 posts only** (by S# descending). Skip older posts.
 
-### Step 4: Fetch Views and Comments via JavaScript
+### Step 3: Fetch Views and Comments via MCP Tool
 
-Use `mcp__claude-in-chrome__javascript_tool` on the Reddit tab to execute `fetch()` requests. Reddit's authenticated session allows fetching other Reddit pages.
+Use `mcp__reddit-stats__fetch_reddit_stats` to fetch views and comments. This tool opens each URL in Chrome via AppleScript, extracts stats from the rendered page, and returns results.
 
-**Batch the URLs** (15-25 per batch) to avoid timeouts. Use this pattern:
+**Batch the URLs** (up to 25 per call) to stay within the tool's limit. Call the tool multiple times for all URLs.
 
-```javascript
-(async () => {
-  const urls = [
-    {p:41, s:'ClaudeAI', u:'/r/ClaudeAI/comments/1r2m8ma/...'},
-    // ... more URLs
-  ];
-  const results = [];
-  for (const item of urls) {
-    try {
-      const resp = await fetch('https://www.reddit.com' + item.u);
-      const html = await resp.text();
-      const vM = html.match(/>\s*([\d,.]+[KMB]?)\s*views?\s*</i);
-      const cM = html.match(/comment-count="(\d+)"/);
-      results.push({p:item.p, s:item.s, v:vM?vM[1]:'0', c:cM?cM[1]:'0'});
-    } catch(e) {
-      results.push({p:item.p, s:item.s, v:'err', c:'err'});
-    }
-  }
-  localStorage.setItem('batch_result', JSON.stringify(results));
-  return JSON.stringify(results);
-})()
+```
+mcp__reddit-stats__fetch_reddit_stats({
+  urls: [
+    "https://www.reddit.com/r/ClaudeAI/comments/1r2m8ma/...",
+    "https://www.reddit.com/r/ClaudeCode/comments/1r2m8mb/...",
+    // ... more URLs (max 25 per call)
+  ]
+})
 ```
 
-**Key regex patterns:**
-- Views: `/>\s*([\d,.]+[KMB]?)\s*views?\s*</i` — captures the view count text (e.g., "1.5K", "196K", "57")
-- Comments: `/comment-count="(\d+)"/` — captures comment count from `shreddit-post` element
-
-If the result is truncated, read from localStorage in parts:
-```javascript
-JSON.parse(localStorage.getItem('batch_result')).slice(0, 15)
+The tool returns a JSON array:
+```json
+[
+  {"url": "https://...", "views": "10K", "comments": "13"},
+  {"url": "https://...", "views": "1.5K", "comments": "5"}
+]
 ```
 
-### Step 5: Update reports/reddit.md
+- `views`: The view count as displayed by Reddit (e.g., "1.5K", "196K", "57", "0")
+- `comments`: The comment count as a number string
+- If a URL fails, `views` and `comments` will be "error"
+
+Map results back to the post/subreddit using the URL.
+
+### Step 4: Update reports/reddit.md
 
 The table has 3 columns: `| S# | Post | Subreddit |`. The Subreddit column contains merged subreddit links with inline views and comments in the format:
 
@@ -96,13 +85,13 @@ For each post row, update the views and comments values inline after each subred
 
 **Example row**: `| 43 | Spotify says... | [/ClaudeAI](url) (![211K](badge) • ![125](badge)) [/ClaudeCode](url) (21K • ![59](badge)) |`
 
-### Step 6: Update README.md
+### Step 5: Update README.md
 
 The README shows only the **top N most recent posts** in a preview table. Update the Subreddit column for those posts in the README with the same merged format (sorted by views).
 
 Also update the total count `REDDIT (N)` in both files if posts were added or removed.
 
-### Step 7: Summary
+### Step 6: Summary
 
 Print a summary showing:
 - Total posts updated
@@ -111,8 +100,8 @@ Print a summary showing:
 
 ## Important Notes
 
-- The `fetch()` approach works because it uses the user's authenticated Reddit session cookies
-- Reddit returns HTML that contains view counts in `<span>` elements and comment counts in `shreddit-post` custom element attributes
+- The `reddit-stats` MCP server uses AppleScript to control Chrome — Chrome must be open and user must be logged into Reddit
+- Each URL takes ~7 seconds (page load delay), so a full 80-post update with ~150+ URLs takes ~20 minutes
 - Some posts may show `0` views if they've been removed by mods — confirm with user before removing
 - View counts use K/M/B suffixes (e.g., 1.5K = 1,500 views, 196K = 196,000 views)
 - Always preserve the existing table structure and formatting

@@ -3,6 +3,18 @@ name: workflow-reddit-new-agent
 description: Fetches all Reddit posts by user shanraisshan using the Reddit MCP server, groups cross-posts, and returns a structured list of posts
 model: sonnet
 color: orange
+allowedTools:
+  - "Bash(*)"
+  - "Read"
+  - "Write"
+  - "Edit"
+  - "Glob"
+  - "Grep"
+  - "WebFetch(*)"
+  - "WebSearch(*)"
+  - "Agent"
+  - "NotebookEdit"
+  - "mcp__*"
 ---
 
 # Reddit Post Fetcher Agent
