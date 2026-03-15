@@ -1,50 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="85" viewBox="0 0 320 85">
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="32" role="img" aria-label="Top 1% Poster on r/ClaudeAI and r/ClaudeCode">
+  <title>Top 1% Poster on r/ClaudeAI and r/ClaudeCode</title>
   <defs>
-    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    <linearGradient id="shine6" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity=".12"/>
+      <stop offset="0.6" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="gold-ring" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="teal-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#5eead4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2dd4bf;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="legendary" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#ef4444;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f97316;stop-opacity:1" />
-    </linearGradient>
+    <clipPath id="r6">
+      <rect width="340" height="32" rx="6" fill="#fff"/>
+    </clipPath>
   </defs>
-
-  <!-- Card background -->
-  <rect x="0" y="0" width="320" height="85" rx="12" fill="url(#card-bg)"/>
-  <rect x="1" y="1" width="318" height="83" rx="11" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-
-  <!-- Badge circle -->
-  <circle cx="50" cy="42" r="28" fill="url(#gold-ring)"/>
-  <circle cx="50" cy="42" r="23" fill="url(#teal-bg)"/>
-
-  <!-- Crown -->
-  <path d="M42 30l3 5h-1.5l.5 4h11l.5-4H54l3-5-4 3-3-4-3 4-4-3z" fill="#f59e0b"/>
-
-  <!-- Trophy/Crystal shape -->
-  <path d="M44 40l6-4 6 4-2 10h-8z" fill="#7dd3fc" opacity="0.9"/>
-  <path d="M50 36l4 2.5-1.5 8h-5l-1.5-8z" fill="#bae6fd"/>
-
-  <!-- Sunglasses -->
-  <rect x="42" y="41" width="7" height="4" rx="1" fill="#1e293b"/>
-  <rect x="51" y="41" width="7" height="4" rx="1" fill="#1e293b"/>
-  <rect x="49" y="42" width="2" height="2" fill="#1e293b"/>
-
-  <!-- Text content -->
-  <text x="90" y="28" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="700" fill="white">Top 1% Poster</text>
-
-  <text x="90" y="46" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="rgba(255,255,255,0.7)">r/ClaudeAI • r/ClaudeCode</text>
-
-  <!-- Legendary bar -->
-  <rect x="90" y="58" width="50" height="4" rx="2" fill="url(#legendary)"/>
-  <text x="148" y="63" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#f59e0b">Legendary</text>
+  <style>
+    @keyframes shimmer6 {
+      0% { transform: translateX(-340px); }
+      100% { transform: translateX(340px); }
+    }
+    .sweep6 { animation: shimmer6 1.8s ease-in-out infinite; }
+  </style>
+  <g clip-path="url(#r6)">
+    <rect width="340" height="32" fill="#FF5252"/>
+    <rect width="340" height="1" fill="#fff" fill-opacity=".08"/>
+    <rect y="31" width="340" height="1" fill="#fff" fill-opacity=".05"/>
+    <rect class="sweep6" width="340" height="32" fill="url(#shine6)"/>
+  </g>
+  <!-- Reddit icon -->
+  <g transform="translate(5,3) scale(1.083)">
+    <path fill="#fff" d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.249-.561 1.249-1.249 0-.688-.562-1.249-1.25-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/>
+  </g>
+  <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" text-anchor="start">
+    <text x="38" y="20" font-size="10" font-weight="normal" fill="#fff" fill-opacity=".95"><tspan font-weight="bold">Top 1% Poster</tspan> on <tspan font-weight="bold">r/ClaudeAI</tspan> and <tspan font-weight="bold">r/ClaudeCode</tspan></text>
+  </g>
 </svg>
