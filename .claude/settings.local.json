@@ -21,7 +21,8 @@
       "mcp__reddit-mcp-server__user_analysis",
       "WebFetch(domain:www.techzine.eu)",
       "mcp__reddit-mcp-server__search_reddit",
-      "Skill(reddit-update-stat-skill)"
+      "Skill(reddit-update-stat-skill)",
+      "mcp__reddit-stats__fetch_reddit_stats"
     ]
   }
 }
