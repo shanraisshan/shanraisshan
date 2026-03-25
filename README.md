@@ -25,7 +25,7 @@
 <br>
 
 <a href="https://github.com/trending?since=monthly"><img src="!/badge-github-trending.svg" alt="claude-code-best-practice on GitHub Monthly Trending in March 2026"/></a><br>
-<a href="https://www.reddit.com/user/shanraisshan/"><img src="!/badge-top-poster.svg" alt="Top 1% Poster on r/ClaudeAI and r/ClaudeCode"/></a>
+<a href="https://www.reddit.com/user/shanraisshan/"><img src="!/badge-top-poster.svg" alt="Top 1% Poster on r/ClaudeAI, r/ClaudeCode and r/cursor"/></a>
 
 <a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="82" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /></a>
 

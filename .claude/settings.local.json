@@ -22,7 +22,9 @@
       "WebFetch(domain:www.techzine.eu)",
       "mcp__reddit-mcp-server__search_reddit",
       "Skill(reddit-update-stat-skill)",
-      "mcp__reddit-stats__fetch_reddit_stats"
+      "mcp__reddit-stats__fetch_reddit_stats",
+      "mcp__reddit-mcp-server__get_post_details",
+      "WebFetch(domain:github.com)"
     ]
   }
 }

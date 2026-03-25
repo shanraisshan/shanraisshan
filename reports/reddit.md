@@ -1,5 +1,9 @@
 ## <img src="../!/icon/reddit.png" height="20"/> REDDIT (98)
 
+<a href="https://www.reddit.com/user/shanraisshan/"><img src="../!/badge-top-poster.svg" alt="Top 1% Poster on r/ClaudeAI, r/ClaudeCode and r/cursor"/></a>
+
+<a href="https://www.reddit.com/user/shanraisshan/achievements/monthly-top-1-poster"><img src="../!/reddit/reddit-top-1.jpg" alt="Reddit Top 1% Poster" width="30%"/></a>
+
 [![r/ClaudeAI](https://img.shields.io/badge/r%2FClaudeAI-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ClaudeAI/)
 [![r/ClaudeCode](https://img.shields.io/badge/r%2FClaudeCode-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ClaudeCode/)
 [![r/vibecoding](https://img.shields.io/badge/r%2Fvibecoding-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/vibecoding/)
