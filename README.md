@@ -1,7 +1,7 @@
 <img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>
-
-<img src="!/icon/briefcase.svg" height="18"/> **Associate Software Architect** @ [disrupt.com](https://disrupt.com)
-
+<br><br>
+<img src="!/role.svg" height="30"/>
+<br><br>
 <img src="!/terminal.svg" alt="i use claude code in light mode"/>
 
 <img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Agentic Engineering | Product Engineer | Claude Code | Codex | MCP | Python/FastAPI | GCP | Mobile (Kotlin, React Native) | Java" />
