@@ -69,19 +69,20 @@
 | 5 | [Refactoring-Android-App-Series-Overview](https://github.com/shanraisshan/Refactoring-Android-App-Series-Overview) | ![Stars](https://img.shields.io/github/stars/shanraisshan/Refactoring-Android-App-Series-Overview?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
 | 6 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-status-line?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 7 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) | ![Stars](https://img.shields.io/github/stars/shanraisshan/novel-llm-26?style=flat&label=%E2%98%85&labelColor=white&color=black) |
-| 8 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-codex-cursor-gemini?style=flat&label=%E2%98%85&labelColor=white&color=black) |
-| 9 | [codex-cli-hooks](https://github.com/shanraisshan/codex-cli-hooks) | ![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-hooks?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 8 | [codex-cli-hooks](https://github.com/shanraisshan/codex-cli-hooks) | ![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-hooks?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 9 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-codex-cursor-gemini?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 10 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-multi-agent-orchestrartion?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 11 | [Notes](https://github.com/shanraisshan/notes) | ![Stars](https://img.shields.io/github/stars/shanraisshan/notes?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 12 | [mcp-weather](https://github.com/shanraisshan/mcp-weather) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 13 | [claude-agent-sdk-vs-claude-code-cli](https://github.com/shanraisshan/claude-agent-sdk-vs-claude-code-cli) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-agent-sdk-vs-claude-code-cli?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 
-### <a href="https://www.youtube.com/@Shanraisshan"><img src="!/icon/youtube.png" height="20"/></a> Videos (4)
+### <a href="https://www.youtube.com/@Shanraisshan"><img src="!/icon/youtube.png" height="20"/></a> Videos (5)
 
 <p>
-<a href="https://youtu.be/6_y3AtkgjqA"><img src="!/youtube-thumbs/youtube-video-1.png" width="24%"/></a>
-<a href="https://www.youtube.com/watch?v=OF3yn4bpre8"><img src="!/youtube-thumbs/youtube-video-2.png" width="24%"/></a>
-<a href="https://www.youtube.com/watch?v=JFPJtMNV8Qw"><img src="!/youtube-thumbs/youtube-video-3.png" width="24%"/></a>
-<a href="https://www.youtube.com/watch?v=vgfdSUbz_b0"><img src="!/youtube-thumbs/youtube-video-4.png" width="24%"/></a>
+<a href="https://youtu.be/O8PVI6JsfFc"><img src="!/youtube-thumbs/youtube-video-5.png" width="19%"/></a>
+<a href="https://www.youtube.com/watch?v=vgfdSUbz_b0"><img src="!/youtube-thumbs/youtube-video-4.png" width="19%"/></a>
+<a href="https://www.youtube.com/watch?v=JFPJtMNV8Qw"><img src="!/youtube-thumbs/youtube-video-3.png" width="19%"/></a>
+<a href="https://www.youtube.com/watch?v=OF3yn4bpre8"><img src="!/youtube-thumbs/youtube-video-2.png" width="19%"/></a>
+<a href="https://youtu.be/6_y3AtkgjqA"><img src="!/youtube-thumbs/youtube-video-1.png" width="19%"/></a>
 </p>
 
