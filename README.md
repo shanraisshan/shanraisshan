@@ -31,11 +31,11 @@
 
 ---
 
-## <img src="!/icon/activity.svg" height="24"/> Recent Activity
+<h2><img src="!/icon/activity.svg" height="26" align="center"/> Recent Activity</h2>
 
 ![Last Updated](https://img.shields.io/badge/Last_Updated-Mar_30%2C_2026_07%3A48_PM_PKT-white?style=flat&labelColor=555)
 
-### <img src="!/icon/reddit.png" height="20"/> REDDIT (109)
+<h3><img src="!/icon/reddit.png" height="24" align="center"/> Reddit (109)</h3>
 
 **Latest**
 
@@ -58,7 +58,9 @@
 
 <p align="center"><a href="reports/reddit.md"><b>See Complete List &rarr;</b></a></p>
 
-### <img src="!/icon/github.svg" height="20"/> Github (27)
+<p align="center"><img src="!/claude-mascot.svg" height="30"/></p>
+
+<h3><img src="!/icon/github.svg" height="24" align="center"/> Github (27)</h3>
 
 | S# | Repository | ★ |
 |--:|:--|:--|
@@ -76,7 +78,16 @@
 | 12 | [claude-agent-sdk-vs-claude-code-cli](https://github.com/shanraisshan/claude-agent-sdk-vs-claude-code-cli) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-agent-sdk-vs-claude-code-cli?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 13 | [mcp-weather](https://github.com/shanraisshan/mcp-weather) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 
-### <a href="https://www.youtube.com/@Shanraisshan"><img src="!/icon/youtube.png" height="20"/></a> Videos (6)
+<p align="center"><img src="!/claude-mascot.svg" height="30"/></p>
+
+<h3><a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="24" align="center"/></a> LinkedIn (1)</h3>
+
+
+1- How do I get ★ on my repo? Answer: Consistency + Reddit - [Link](https://www.linkedin.com/posts/shanraisshan_how-do-i-get-on-my-repo-answer-%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BB-activity-7445123568352505856-I1-t/)
+
+<p align="center"><img src="!/claude-mascot.svg" height="30"/></p>
+
+<h3><a href="https://www.youtube.com/@Shanraisshan"><img src="!/icon/youtube.png" height="24" align="center"/></a> Videos (6)</h3>
 
 <p>
 <a href="https://youtu.be/MnpOsTEDzeY"><img src="!/youtube-thumbs/youtube-video-6.png" width="24%"/></a>
@@ -88,9 +99,4 @@
 <a href="https://www.youtube.com/watch?v=JFPJtMNV8Qw"><img src="!/youtube-thumbs/youtube-video-2.png" width="24%"/></a>
 <a href="https://www.youtube.com/watch?v=vgfdSUbz_b0"><img src="!/youtube-thumbs/youtube-video-1.png" width="24%"/></a>
 </p>
-
-### <a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="20"/></a> LinkedIn Articles (1)
-
-
-1- How do I get ★ on my repo? Answer: Consistency + Reddit - [Link](https://www.linkedin.com/posts/shanraisshan_how-do-i-get-on-my-repo-answer-%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BB-activity-7445123568352505856-I1-t/)
 
