@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="140" height="140">
+  <defs>
+    <!-- 3D body gradient (dark olive, top-left light) -->
+    <linearGradient id="crBodyGrad" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#4A493A"/>
+      <stop offset="30%" stop-color="#363528"/>
+      <stop offset="70%" stop-color="#26251e"/>
+      <stop offset="100%" stop-color="#141410"/>
+    </linearGradient>
+
+    <!-- Arm left gradient -->
+    <linearGradient id="crArmL" x1="0" y1="0" x2="1" y2="0.5">
+      <stop offset="0%" stop-color="#1E1D18"/>
+      <stop offset="50%" stop-color="#333228"/>
+      <stop offset="100%" stop-color="#1A1A14"/>
+    </linearGradient>
+
+    <!-- Arm right gradient -->
+    <linearGradient id="crArmR" x1="0" y1="0" x2="1" y2="0.5">
+      <stop offset="0%" stop-color="#333228"/>
+      <stop offset="50%" stop-color="#26251e"/>
+      <stop offset="100%" stop-color="#141410"/>
+    </linearGradient>
+
+    <!-- Leg gradient -->
+    <linearGradient id="crLegGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#333228"/>
+      <stop offset="50%" stop-color="#26251e"/>
+      <stop offset="100%" stop-color="#111110"/>
+    </linearGradient>
+
+    <!-- Eye white gradient (glossy) -->
+    <radialGradient id="crEyeGrad" cx="35%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#F0F0F0"/>
+      <stop offset="100%" stop-color="#D8D8D8"/>
+    </radialGradient>
+
+    <!-- Ground shadow radial -->
+    <radialGradient id="crShadowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#000" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Drop shadow filter -->
+    <filter id="crDropShadow" x="-15%" y="-15%" width="130%" height="140%">
+      <feDropShadow dx="1.5" dy="2.5" stdDeviation="1.8" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+
+    <!-- Inner depth for body -->
+    <filter id="crInnerDepth" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2" result="blur"/>
+      <feOffset dx="0" dy="2" result="off"/>
+      <feFlood flood-color="#000" flood-opacity="0.25" result="color"/>
+      <feComposite in="color" in2="off" operator="in" result="shadow"/>
+      <feMerge>
+        <feMergeNode in="shadow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .cursor-body {
+      animation: frightened-bounce 0.3s ease-in-out infinite, tremble 0.08s linear infinite, tilt-sway 0.6s ease-in-out infinite;
+      transform-origin: 42px 70px;
+    }
+    .left-leg {
+      animation: panic-run-left 0.25s ease-in-out infinite;
+      transform-origin: 30px 72px;
+    }
+    .right-leg {
+      animation: panic-run-right 0.25s ease-in-out infinite;
+      transform-origin: 54px 72px;
+    }
+    .left-arm {
+      animation: flail-left 0.2s ease-in-out infinite;
+      transform-origin: 18px 45px;
+    }
+    .right-arm {
+      animation: flail-right 0.2s ease-in-out infinite;
+      transform-origin: 66px 45px;
+    }
+    @keyframes frightened-bounce {
+      0%, 100% { transform: translateY(0) translateX(0); }
+      25% { transform: translateY(-6px) translateX(2px); }
+      50% { transform: translateY(-3px) translateX(-1px); }
+      75% { transform: translateY(-8px) translateX(1px); }
+    }
+    @keyframes tremble {
+      0%, 100% { transform: translateX(0); }
+      25% { transform: translateX(-1px); }
+      75% { transform: translateX(1px); }
+    }
+    @keyframes tilt-sway {
+      0%, 100% { transform: rotate(8deg); }
+      30% { transform: rotate(12deg); }
+      60% { transform: rotate(5deg); }
+    }
+    @keyframes panic-run-left {
+      0%, 100% { transform: rotate(-35deg); }
+      50% { transform: rotate(35deg); }
+    }
+    @keyframes panic-run-right {
+      0%, 100% { transform: rotate(35deg); }
+      50% { transform: rotate(-35deg); }
+    }
+    @keyframes flail-left {
+      0%, 100% { transform: rotate(30deg) translateY(-2px); }
+      50% { transform: rotate(-25deg) translateY(2px); }
+    }
+    @keyframes flail-right {
+      0%, 100% { transform: rotate(-30deg) translateY(2px); }
+      50% { transform: rotate(25deg) translateY(-2px); }
+    }
+    .eye {
+      animation: nervous-blink 0.5s ease-in-out infinite;
+    }
+    @keyframes nervous-blink {
+      0%, 30%, 40%, 70%, 80%, 100% { transform: scaleY(1); }
+      35%, 75% { transform: scaleY(0.1); }
+    }
+    .shadow {
+      animation: shadow-pulse 0.3s ease-in-out infinite;
+    }
+    @keyframes shadow-pulse {
+      0%, 100% { transform: scale(1, 1); opacity: 0.25; }
+      50% { transform: scale(0.9, 0.8); opacity: 0.15; }
+    }
+  </style>
+
+  <!-- Shadow -->
+  <ellipse class="shadow" cx="42" cy="92" rx="18" ry="4" fill="url(#crShadowGrad)"/>
+
+  <!-- Cursor Character Group -->
+  <g class="cursor-body" filter="url(#crDropShadow)">
+    <!-- Original Cursor logo scaled down -->
+    <g transform="translate(10, 8) scale(0.13)" filter="url(#crInnerDepth)">
+      <path fill="url(#crBodyGrad)" d="M457.43,125.94L244.42,2.96c-6.84-3.95-15.28-3.95-22.12,0L9.3,125.94c-5.75,3.32-9.3,9.46-9.3,16.11v247.99c0,6.65,3.55,12.79,9.3,16.11l213.01,122.98c6.84,3.95,15.28,3.95,22.12,0l213.01-122.98c5.75-3.32,9.3-9.46,9.3-16.11v-247.99c0-6.65-3.55-12.79-9.3-16.11h-.01ZM444.05,151.99l-205.63,356.16c-1.39,2.4-5.06,1.42-5.06-1.36v-233.21c0-4.66-2.49-8.97-6.53-11.31L24.87,145.67c-2.4-1.39-1.42-5.06,1.36-5.06h411.26c5.84,0,9.49,6.33,6.57,11.39h-.01Z"/>
+      <!-- Eyes looking back (towards Claude) - scared -->
+      <rect class="eye" x="60" y="220" width="30" height="45" rx="5" fill="url(#crEyeGrad)" style="transform-origin: 75px 242px;"/>
+      <!-- Left eye highlights (scaled for logo space) -->
+      <rect x="63" y="224" width="10" height="10" fill="#fff" opacity="0.7" rx="2"/>
+      <rect x="80" y="250" width="5" height="5" fill="#fff" opacity="0.3" rx="1"/>
+
+      <rect class="eye" x="130" y="270" width="30" height="45" rx="5" fill="url(#crEyeGrad)" style="transform-origin: 145px 292px;"/>
+      <!-- Right eye highlights -->
+      <rect x="133" y="274" width="10" height="10" fill="#fff" opacity="0.7" rx="2"/>
+      <rect x="150" y="300" width="5" height="5" fill="#fff" opacity="0.3" rx="1"/>
+    </g>
+    <!-- Specular highlight on logo body -->
+    <rect x="14" y="14" width="16" height="8" fill="#5A5948" opacity="0.25" rx="2"/>
+    <rect x="16" y="16" width="8" height="4" fill="#6A6958" opacity="0.15" rx="1"/>
+  </g>
+
+  <!-- Left arm -->
+  <rect class="left-arm" x="6" y="42" width="12" height="6" rx="2" fill="url(#crArmL)"/>
+  <rect class="left-arm" x="7" y="43" width="4" height="2" fill="#4A493A" opacity="0.3" rx="0.5"/>
+
+  <!-- Right arm -->
+  <rect class="right-arm" x="66" y="42" width="12" height="6" rx="2" fill="url(#crArmR)"/>
+  <rect class="right-arm" x="67" y="43" width="4" height="2" fill="#4A493A" opacity="0.3" rx="0.5"/>
+
+  <!-- Left leg -->
+  <rect class="left-leg" x="26" y="72" width="8" height="14" rx="2" fill="url(#crLegGrad)"/>
+  <rect class="left-leg" x="27" y="73" width="3" height="7" fill="#3A3928" opacity="0.3" rx="0.5"/>
+
+  <!-- Right leg -->
+  <rect class="right-leg" x="50" y="72" width="8" height="14" rx="2" fill="url(#crLegGrad)"/>
+  <rect class="right-leg" x="51" y="73" width="3" height="7" fill="#3A3928" opacity="0.3" rx="0.5"/>
+</svg>

@@ -58,7 +58,7 @@
 
 <p align="center"><a href="reports/reddit.md"><b>See Complete List &rarr;</b></a></p>
 
-<p align="center"><img src="!/claude-mascot.svg" height="30"/></p>
+<p align="center"><a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/codex-cli-best-practice"><img src="!/codex-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/cursor-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/gemini-mascot.svg" height="30"/></a></p>
 
 <h3><img src="!/icon/github.svg" height="24" align="center"/> Github (27)</h3>
 
@@ -78,14 +78,14 @@
 | 12 | [claude-agent-sdk-vs-claude-code-cli](https://github.com/shanraisshan/claude-agent-sdk-vs-claude-code-cli) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-agent-sdk-vs-claude-code-cli?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 13 | [mcp-weather](https://github.com/shanraisshan/mcp-weather) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 
-<p align="center"><img src="!/claude-mascot.svg" height="30"/></p>
+<p align="center"><a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/codex-cli-best-practice"><img src="!/codex-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/cursor-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/gemini-mascot.svg" height="30"/></a></p>
 
 <h3><a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="24" align="center"/></a> LinkedIn (1)</h3>
 
 
 1- How do I get ★ on my repo? Answer: Consistency + Reddit - [Link](https://www.linkedin.com/posts/shanraisshan_how-do-i-get-on-my-repo-answer-%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BB-activity-7445123568352505856-I1-t/)
 
-<p align="center"><img src="!/claude-mascot.svg" height="30"/></p>
+<p align="center"><a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/codex-cli-best-practice"><img src="!/codex-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/cursor-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/gemini-mascot.svg" height="30"/></a></p>
 
 <h3><a href="https://www.youtube.com/@Shanraisshan"><img src="!/icon/youtube.png" height="24" align="center"/></a> Videos (6)</h3>
 
