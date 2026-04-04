@@ -39,6 +39,30 @@
 [![r/pakistan](https://img.shields.io/badge/r%2Fpakistan-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/pakistan/)
 [![r/karachi](https://img.shields.io/badge/r%2Fkarachi-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/karachi/)
 [![r/PakistaniTech](https://img.shields.io/badge/r%2FPakistaniTech-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/PakistaniTech/)
+[![r/singularity](https://img.shields.io/badge/r%2Fsingularity-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/singularity/)
+[![r/ArtificialInteligence](https://img.shields.io/badge/r%2FArtificialInteligence-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ArtificialInteligence/)
+[![r/PakStartups](https://img.shields.io/badge/r%2FPakStartups-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/PakStartups/)
+[![r/technology](https://img.shields.io/badge/r%2Ftechnology-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/technology/)
+[![r/Futurology](https://img.shields.io/badge/r%2FFuturology-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/Futurology/)
+[![r/GeminiAI](https://img.shields.io/badge/r%2FGeminiAI-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/GeminiAI/)
+[![r/programming](https://img.shields.io/badge/r%2Fprogramming-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/programming/)
+[![r/PromptEngineering](https://img.shields.io/badge/r%2FPromptEngineering-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/PromptEngineering/)
+[![r/ChatGPTPromptGenius](https://img.shields.io/badge/r%2FChatGPTPromptGenius-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ChatGPTPromptGenius/)
+[![r/webdev](https://img.shields.io/badge/r%2Fwebdev-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/webdev/)
+[![r/cscareerquestions](https://img.shields.io/badge/r%2Fcscareerquestions-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/cscareerquestions/)
+[![r/learnprogramming](https://img.shields.io/badge/r%2Flearnprogramming-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/learnprogramming/)
+[![r/software](https://img.shields.io/badge/r%2Fsoftware-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/software/)
+[![r/productivity](https://img.shields.io/badge/r%2Fproductivity-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/productivity/)
+[![r/Entrepreneur](https://img.shields.io/badge/r%2FEntrepreneur-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/Entrepreneur/)
+[![r/SideProject](https://img.shields.io/badge/r%2FSideProject-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/SideProject/)
+[![r/SaaS](https://img.shields.io/badge/r%2FSaaS-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/SaaS/)
+[![r/ExperiencedDevs](https://img.shields.io/badge/r%2FExperiencedDevs-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ExperiencedDevs/)
+[![r/selfhosted](https://img.shields.io/badge/r%2Fselfhosted-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/selfhosted/)
+[![r/linux](https://img.shields.io/badge/r%2Flinux-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/linux/)
+[![r/StableDiffusion](https://img.shields.io/badge/r%2FStableDiffusion-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/StableDiffusion/)
+[![r/apple](https://img.shields.io/badge/r%2Fapple-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/apple/)
+[![r/Windows11](https://img.shields.io/badge/r%2FWindows11-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/Windows11/)
+[![r/techsupport](https://img.shields.io/badge/r%2Ftechsupport-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/techsupport/)
 
 | S# | Post | Subreddit |
 |--:|:--|:--|
@@ -185,3 +209,66 @@
 | 3 | You can now switch models mid-prompt! | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1pjsk1w/comment/ntlecys) (12K • 9) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1pjveeo/you_can_now_switch_models_midprompt) (3K • 2) |
 | 2 | Claude Rules (./claude/rules/) are here | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1piuih6/comment/nti3x56) (![197K](https://img.shields.io/badge/%F0%9F%91%80-197K-F09000?style=flat&labelColor=white) • ![82](https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F-82-3FB950?style=flat&labelColor=white)) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1pius01/claude_rules_clauderules_are_here) (![67K](https://img.shields.io/badge/%F0%9F%91%80-67K-3FB950?style=flat&labelColor=white) • ![61](https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F-61-3FB950?style=flat&labelColor=white)) |
 | 1 | Background agents… wasn't it already doing that? | [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1pi1gg1/comment/nt8ln70) (![54K](https://img.shields.io/badge/%F0%9F%91%80-54K-3FB950?style=flat&labelColor=white) • 28) |
+
+---
+
+### Subreddit Stats (Weekly) (56)
+
+| Subreddit | Posts | Weekly Visitors | Weekly Contributions | Crosspost |
+|:--|:--:|--:|--:|:--:|
+| [![r/technology](https://img.shields.io/badge/r%2Ftechnology-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/technology/) | ❌ | 4.5M | 62K | ✅ |
+| [![r/ClaudeAI](https://img.shields.io/badge/r%2FClaudeAI-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ClaudeAI/) | 93 | 2.1M | 37K | ✅ |
+| [![r/techsupport](https://img.shields.io/badge/r%2Ftechsupport-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/techsupport/) | ❌ | 1.8M | 12K | ❌ |
+| [![r/ChatGPT](https://img.shields.io/badge/r%2FChatGPT-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ChatGPT/) | 12 | 1.8M | 27K | ✅ |
+| [![r/apple](https://img.shields.io/badge/r%2Fapple-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/apple/) | ❌ | 1.2M | 11K | ✅ |
+| [![r/LocalLLaMA](https://img.shields.io/badge/r%2FLocalLLaMA-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/LocalLLaMA/) | 2 | 1M | 21K | ✅ |
+| [![r/singularity](https://img.shields.io/badge/r%2Fsingularity-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/singularity/) | ❌ | 808K | 16K | ✅ |
+| [![r/Futurology](https://img.shields.io/badge/r%2FFuturology-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/Futurology/) | ❌ | 783K | 9K | ✅ |
+| [![r/ClaudeCode](https://img.shields.io/badge/r%2FClaudeCode-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ClaudeCode/) | 102 | 766K | 25K | ✅ |
+| [![r/OpenAI](https://img.shields.io/badge/r%2FOpenAI-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/OpenAI/) | 8 | 750K | 10K | ✅ |
+| [![r/selfhosted](https://img.shields.io/badge/r%2Fselfhosted-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/selfhosted/) | ❌ | 747K | 12K | ✅ |
+| [![r/StableDiffusion](https://img.shields.io/badge/r%2FStableDiffusion-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/StableDiffusion/) | ❌ | 734K | 8K | ✅ |
+| [![r/Windows11](https://img.shields.io/badge/r%2FWindows11-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/Windows11/) | ❌ | 673K | 2K | ✅ |
+| [![r/ArtificialInteligence](https://img.shields.io/badge/r%2FArtificialInteligence-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ArtificialInteligence/) | ❌ | 670K | 12K | ✅ |
+| [![r/webdev](https://img.shields.io/badge/r%2Fwebdev-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/webdev/) | ❌ | 665K | 13K | ✅ |
+| [![r/cscareerquestions](https://img.shields.io/badge/r%2Fcscareerquestions-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/cscareerquestions/) | ❌ | 663K | 13K | ❌ |
+| [![r/learnprogramming](https://img.shields.io/badge/r%2Flearnprogramming-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/learnprogramming/) | ❌ | 620K | 5K | ❌ |
+| [![r/GeminiAI](https://img.shields.io/badge/r%2FGeminiAI-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/GeminiAI/) | ❌ | 497K | 6K | ✅ |
+| [![r/linux](https://img.shields.io/badge/r%2Flinux-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/linux/) | ❌ | 486K | 11K | ✅ |
+| [![r/software](https://img.shields.io/badge/r%2Fsoftware-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/software/) | ❌ | 472K | 2K | ✅ |
+| [![r/productivity](https://img.shields.io/badge/r%2Fproductivity-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/productivity/) | ❌ | 464K | 4K | ❌ |
+| [![r/vibecoding](https://img.shields.io/badge/r%2Fvibecoding-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/vibecoding/) | 32 | 456K | 15K | ✅ |
+| [![r/Entrepreneur](https://img.shields.io/badge/r%2FEntrepreneur-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/Entrepreneur/) | ❌ | 447K | 8K | ❌ |
+| [![r/programming](https://img.shields.io/badge/r%2Fprogramming-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/programming/) | ❌ | 379K | 4K | ✅ |
+| [![r/SideProject](https://img.shields.io/badge/r%2FSideProject-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/SideProject/) | ❌ | 377K | 19K | ✅ |
+| [![r/developersIndia](https://img.shields.io/badge/r%2FdevelopersIndia-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/developersIndia/) | 3 | 360K | 11K | ✅ |
+| [![r/SaaS](https://img.shields.io/badge/r%2FSaaS-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/SaaS/) | ❌ | 341K | 25K | ❌ |
+| [![r/claude](https://img.shields.io/badge/r%2Fclaude-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/claude/) | 9 | 336K | 9K | ✅ |
+| [![r/Anthropic](https://img.shields.io/badge/r%2FAnthropic-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/Anthropic/) | 27 | 307K | 5K | ✅ |
+| [![r/pakistan](https://img.shields.io/badge/r%2Fpakistan-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/pakistan/) | 2 | 300K | 17K | ✅ |
+| [![r/ExperiencedDevs](https://img.shields.io/badge/r%2FExperiencedDevs-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ExperiencedDevs/) | ❌ | 290K | 8K | ❌ |
+| [![r/PromptEngineering](https://img.shields.io/badge/r%2FPromptEngineering-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/PromptEngineering/) | ❌ | 253K | 2K | ❌ |
+| [![r/codex](https://img.shields.io/badge/r%2Fcodex-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/codex/) | 21 | 252K | 5K | ✅ |
+| [![r/ChatGPTPromptGenius](https://img.shields.io/badge/r%2FChatGPTPromptGenius-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ChatGPTPromptGenius/) | ❌ | 250K | 779 | ❌ |
+| [![r/ChatGPTPro](https://img.shields.io/badge/r%2FChatGPTPro-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ChatGPTPro/) | 3 | 174K | 742 | ✅ |
+| [![r/brdev](https://img.shields.io/badge/r%2Fbrdev-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/brdev/) | 1 | 171K | 9K | ✅ |
+| [![r/accelerate](https://img.shields.io/badge/r%2Faccelerate-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/accelerate/) | 2 | 165K | 5K | ✅ |
+| [![r/cursor](https://img.shields.io/badge/r%2Fcursor-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/cursor/) | 10 | 163K | 2K | ✅ |
+| [![r/learnmachinelearning](https://img.shields.io/badge/r%2Flearnmachinelearning-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/learnmachinelearning/) | 1 | 162K | 2K | ✅ |
+| [![r/MachineLearning](https://img.shields.io/badge/r%2FMachineLearning-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/MachineLearning/) | 2 | 149K | 2K | ✅ |
+| [![r/ChatGPTCoding](https://img.shields.io/badge/r%2FChatGPTCoding-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ChatGPTCoding/) | 5 | 126K | 659 | ✅ |
+| [![r/aipromptprogramming](https://img.shields.io/badge/r%2Faipromptprogramming-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/aipromptprogramming/) | 3 | 115K | 257 | ✅ |
+| [![r/ChatGPTcomplaints](https://img.shields.io/badge/r%2FChatGPTcomplaints-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ChatGPTcomplaints/) | 1 | 102K | 6K | ✅ |
+| [![r/mcp](https://img.shields.io/badge/r%2Fmcp-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/mcp/) | 4 | 91K | 1K | ✅ |
+| [![r/AIAssisted](https://img.shields.io/badge/r%2FAIAssisted-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/AIAssisted/) | ❌ | 80K | 1K | ✅ |
+| [![r/claudexplorers](https://img.shields.io/badge/r%2Fclaudexplorers-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/claudexplorers/) | 3 | 76K | 3K | ✅ |
+| [![r/buildinpublic](https://img.shields.io/badge/r%2Fbuildinpublic-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/buildinpublic/) | 1 | 72K | 6K | ✅ |
+| [![r/karachi](https://img.shields.io/badge/r%2Fkarachi-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/karachi/) | 1 | 60K | 4K | ✅ |
+| [![r/PakistaniTech](https://img.shields.io/badge/r%2FPakistaniTech-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/PakistaniTech/) | 2 | 53K | 3K | ✅ |
+| [![r/VisualStudio](https://img.shields.io/badge/r%2FVisualStudio-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/VisualStudio/) | 1 | 32K | 122 | ✅ |
+| [![r/ChatGPTNSFW](https://img.shields.io/badge/r%2FChatGPTNSFW-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ChatGPTNSFW/) | 1 | 28K | 384 | ✅ |
+| [![r/ZaiGLM](https://img.shields.io/badge/r%2FZaiGLM-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/ZaiGLM/) | 1 | 19K | 813 | ✅ |
+| [![r/GPT3](https://img.shields.io/badge/r%2FGPT3-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/GPT3/) | 1 | 17K | 71 | ✅ |
+| [![r/developersPak](https://img.shields.io/badge/r%2FdevelopersPak-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/developersPak/) | 5 | 17K | 2K | ✅ |
+| [![r/OpenSourceeAI](https://img.shields.io/badge/r%2FOpenSourceeAI-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/OpenSourceeAI/) | 1 | 13K | 282 | ✅ |
+| [![r/PakStartups](https://img.shields.io/badge/r%2FPakStartups-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/r/PakStartups/) | ❌ | 6K | 584 | ✅ |
