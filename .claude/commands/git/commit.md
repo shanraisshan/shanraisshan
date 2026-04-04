@@ -13,7 +13,7 @@ Commit all current changes related to Reddit post updates.
 1. Run `git status` to see all modified files
 2. Stage the relevant files:
    ```
-   git add reports/reddit.md README.md .claude/commands/workflows/workflow-reddit-new.md .claude/commands/git/commit.md .claude/skills/reddit-update-stat-skill/SKILL.md
+   git add reports/reddit.md README.md .claude/commands/workflows/workflow-reddit.md .claude/commands/git/commit.md
    ```
    Also stage any other modified files under `.claude/` that are relevant to the workflow.
 3. Create a commit with a descriptive message summarizing what changed:
