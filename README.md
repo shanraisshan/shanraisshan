@@ -20,7 +20,7 @@
 
 ---
 
-<h2>Social Stats & Let's Connect</h2>
+<h2>🤝 Social Stats & Let's Connect</h2>
 
 <p align="center">
 <a href="https://medium.com/@shanraisshan"><img src="!/icon/medium.png" height="28"/></a>&nbsp;&nbsp;
