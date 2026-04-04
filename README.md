@@ -13,21 +13,31 @@
 
 <br>
 
-<p>
-<a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/shanraisshan"><img src="!/icon/reddit.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://x.com/shanraisshan"><img src="!/icon/x.svg" height="28"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/shanraisshan"><img src="!/icon/youtube.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="!/icon/stack-overflow.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://medium.com/@shanraisshan"><img src="!/icon/medium.png" height="28"/></a>
-</p>
-
-<br>
-
 <a href="https://github.com/trending?since=monthly"><img src="!/badge-github-trending.svg" alt="claude-code-best-practice on GitHub Monthly Trending in March 2026"/></a><br>
 <a href="https://www.reddit.com/user/shanraisshan/"><img src="!/badge-top-poster.svg" alt="Top 1% Poster on r/ClaudeAI, r/ClaudeCode and r/cursor"/></a>
 
 <a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="82" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /></a>
+
+---
+
+<h2>Social Stats & Let's Connect</h2>
+
+<p align="center">
+<a href="https://medium.com/@shanraisshan"><img src="!/icon/medium.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="!/icon/stack-overflow.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/shanraisshan"><img src="!/icon/reddit.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/shanraisshan"><img src="!/icon/youtube.png" height="28"/></a>&nbsp;&nbsp;
+<a href="https://x.com/shanraisshan"><img src="!/icon/x.svg" height="28"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="28"/></a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/shanraisshan?style=flat&logo=github&label=GitHub%20Followers&color=blue" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/shanraisshan?style=flat&logo=github&label=Stars&affiliations=OWNER&color=blue" alt="GitHub Stars"/>
+<img src="https://komarev.com/ghpvc/?username=shanraisshan&style=flat&label=Views&color=green" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/LinkedIn-1K%20Followers-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+<a href="https://committers.top/pakistan"><img src="https://img.shields.io/badge/committers.top%20rank-Pakistan%20%2329%20(public%20commits)-blue?style=flat&logo=github" alt="committers.top Pakistan #29"/></a>
+</p>
 
 ---
 
