@@ -219,12 +219,27 @@ For each URL in reddit.md that has a match in the profile page data:
 
 ---
 
-## Step 6: Detect Removed Posts
+## Step 6: Detect Deleted & Removed Posts
 
-Identify posts that may have been removed by moderators:
-- New views = "0" AND new comments = "0" from profile page, BUT previously had non-zero views
+There are two types of posts that should be cleaned up:
 
-For each suspected post, verify by opening the URL in Chrome via AppleScript:
+### 6a: Posts missing from profile page (user-deleted)
+
+When a user deletes a Reddit post, it **completely disappears** from the profile page. The workflow won't find any match for these URLs in the scraped data.
+
+1. Build a set of ALL URLs from the profile page data (Step 2 output)
+2. For each URL in `reports/reddit.md`, check if it exists in the profile page data
+3. Collect all subreddit entries that have **no match** in the profile page data — these are candidates for deletion
+4. **Skip subreddit entries that have views >= 1K** — these are likely just old posts that fell off the profile page pagination, not deleted posts. Only flag entries with low/zero stats (views < 1K) as deletion candidates.
+
+### 6b: Posts on profile page with 0/0 stats (mod-removed)
+
+Identify posts that appear on the profile page but may have been removed by moderators:
+- New views = "0" AND new comments = "0" from profile page, BUT previously had non-zero views in reddit.md
+
+### 6c: Verify candidates by visiting URLs
+
+For each candidate URL from 6a and 6b, verify by opening it in Chrome via AppleScript:
 
 ```bash
 osascript -e '
@@ -240,9 +255,21 @@ end tell
 '
 ```
 
-Check for: `"Sorry, this post has been removed by the moderators of r/"`. If confirmed:
-- Remove that subreddit entry from the post row
-- If ALL entries for a post are removed, remove the entire row and decrement `REDDIT (N)`
+A post is confirmed deleted/removed if the page text contains ANY of:
+- `"Sorry, this post has been removed by the moderators of r/"`
+- `"this post was removed"` or `"this post was deleted"`
+- `"page not found"` or the page shows a Reddit 404
+- The post content area shows `[deleted]` or `[removed]`
+
+**Batch verification**: To avoid opening too many tabs, batch up to 5 URLs at a time. Open each, check, close, then move to the next batch.
+
+### 6d: Remove confirmed deletions
+
+For each confirmed deleted/removed URL:
+- Remove that subreddit entry from the post row in reddit.md
+- If ALL subreddit entries for a post are removed, remove the entire row and decrement `REDDIT (N)` in the heading
+- Also remove from `reports/reddit-promotion.md` if the URL appears there
+- Log each removal in the Step 9 summary
 
 ---
 
@@ -272,7 +299,7 @@ Print a summary showing:
 - New cross-posts added
 - Posts updated with new stats
 - Zero-view safeguards applied
-- Removed posts detected
+- Deleted posts removed (with S#, title, subreddit, and reason: user-deleted vs mod-removed)
 - Any errors
 
 ---
@@ -305,7 +332,7 @@ Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 
 ## Important Rules
 
-1. **Do NOT modify existing post titles or S#** — only add new posts, append cross-posts, and update stats
+1. **Do NOT modify existing post titles or S#** — only add new posts, append cross-posts, update stats, and remove confirmed deleted posts. When removing posts, do NOT renumber remaining S# values — gaps in numbering are expected and acceptable.
 2. **Preserve exact table formatting** — match existing column alignment and separators
 3. **Cross-post grouping** — same title across subreddits = ONE row with multiple subreddit links
 4. **Sequential S# numbering** — never skip or reuse numbers
