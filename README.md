@@ -32,11 +32,10 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/shanraisshan?style=flat&logo=github&label=GitHub%20Followers&color=blue" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/shanraisshan?style=flat&logo=github&label=Stars&affiliations=OWNER&color=blue" alt="GitHub Stars"/>
-<img src="https://komarev.com/ghpvc/?username=shanraisshan&style=flat&label=Views&color=green" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/LinkedIn-1K%20Followers-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-<a href="https://committers.top/pakistan"><img src="https://img.shields.io/badge/committers.top%20rank-Pakistan%20%2329%20(public%20commits)-blue?style=flat&logo=github" alt="committers.top Pakistan #29"/></a>
+<a href="https://github.com/shanraisshan"><img src="https://img.shields.io/github/followers/shanraisshan?style=flat&logo=github&label=GitHub%20Followers&color=blue" alt="GitHub Followers"/></a>
+<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="https://img.shields.io/github/stars/shanraisshan?style=flat&logo=github&label=Stars&affiliations=OWNER&color=blue" alt="GitHub Stars"/></a>
+<a href="https://github.com/shanraisshan"><img src="https://komarev.com/ghpvc/?username=shanraisshan&style=flat&label=Views&color=green" alt="Profile Views"/></a>
+<a href="https://committers.top/pakistan"><img src="https://user-badge.committers.top/pakistan/shanraisshan.svg" alt="committers.top badge"/></a>
 </p>
 
 ---
