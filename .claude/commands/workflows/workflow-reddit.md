@@ -273,6 +273,18 @@ For each confirmed deleted/removed URL:
 
 ---
 
+## Step 6e: Update Subreddit Stats Table Post Counts
+
+Update the **Posts** column in the "Subreddit Stats (Weekly)" table at the bottom of `reports/reddit.md`.
+
+1. Count how many times each subreddit appears in the posts table by counting occurrences of `[/SubredditName](https://www.reddit.com/r/` for each subreddit
+2. For each row in the stats table, update the Posts column:
+   - If count > 0: show the number (e.g., `93`, `102`)
+   - If count = 0: show `❌`
+3. Do NOT modify any other columns (Weekly Visitors, Weekly Contributions, Crosspost)
+
+---
+
 ## Step 7: Update README.md
 
 1. **Latest Posts Table**: Replace with the 4 newest posts by S# (descending)
