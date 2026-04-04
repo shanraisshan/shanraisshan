@@ -2,10 +2,16 @@
 """
 Codex CLI Hook Handler
 =============================================
-This script handles the notify event from Codex CLI and plays a notification sound.
-Codex CLI supports 1 hook: notify (event: agent-turn-complete)
+This script handles hooks from Codex CLI and plays sounds.
+Codex CLI supports 5 hooks:
+  1. SessionStart - via hooks.json (v0.114.0+)
+  2. PreToolUse - via hooks.json (v0.117.0+)
+  3. PostToolUse - via hooks.json (v0.117.0+)
+  4. Stop - via hooks.json (v0.114.0+)
+  5. UserPromptSubmit - via hooks.json (v0.116.0+)
 
-Input: JSON payload passed as CLI argument (sys.argv[1])
+Input:
+  - All hooks use --hook <hook-name> flag via hooks.json
 """
 
 import sys
@@ -13,6 +19,7 @@ import json
 import subprocess
 import platform
 from pathlib import Path
+from datetime import datetime
 
 # Windows-only module for playing WAV files
 try:
@@ -21,9 +28,24 @@ except ImportError:
     winsound = None
 
 # ===== HOOK EVENT TO SOUND MAPPING =====
+# Sound name -> resolves to sounds/<name>/<name>.{mp3|wav}
 HOOK_SOUND_MAP = {
-    "agent-turn-complete": "codex-notification"
+    "SessionStart": "SessionStart",
+    "PreToolUse": "PreToolUse",
+    "PostToolUse": "PostToolUse",
+    "Stop": "Stop",
+    "UserPromptSubmit": "UserPromptSubmit",
 }
+
+# ===== HOOK EVENT TO CONFIG KEY MAPPING =====
+HOOK_CONFIG_MAP = {
+    "SessionStart": "disableSessionStartHook",
+    "PreToolUse": "disablePreToolUseHook",
+    "PostToolUse": "disablePostToolUseHook",
+    "Stop": "disableStopHook",
+    "UserPromptSubmit": "disableUserPromptSubmitHook",
+}
+
 
 
 def get_audio_player():
@@ -72,8 +94,8 @@ def play_sound(sound_name):
     Play a sound file for the given sound name.
 
     Args:
-        sound_name: Name of the sound file (e.g., "codex-notification")
-                   The file should be at .codex/hooks/sounds/{folder}/{sound_name}.{mp3|wav}
+        sound_name: Name of the sound file (e.g., "SessionStart")
+                   The file should be at .codex/hooks/sounds/{name}/{name}.{mp3|wav}
 
     Returns:
         True if sound played successfully, False otherwise
@@ -91,13 +113,8 @@ def play_sound(sound_name):
     script_dir = Path(__file__).parent  # .codex/hooks/scripts/
     hooks_dir = script_dir.parent       # .codex/hooks/
 
-    # Determine the folder based on the sound name prefix
-    folder_name = sound_name.split('-')[0]
-    # For "codex-notification", folder is "notification" (skip the "codex" prefix)
-    if folder_name == "codex":
-        parts = sound_name.split('-')
-        folder_name = parts[1] if len(parts) > 1 else folder_name
-    sounds_dir = hooks_dir / "sounds" / folder_name
+    # Sound folder matches sound name: sounds/<name>/<name>.{mp3|wav}
+    sounds_dir = hooks_dir / "sounds" / sound_name
 
     is_windows = audio_player[0] == "WINDOWS"
     extensions = ['.wav'] if is_windows else ['.wav', '.mp3']
@@ -132,16 +149,13 @@ def play_sound(sound_name):
     return False
 
 
-def is_hook_disabled(event_name):
+def load_config():
     """
-    Check if the notify hook is disabled in the config files.
+    Load the hook configuration from config files.
     Uses fallback logic: hooks-config.local.json -> hooks-config.json
 
-    Args:
-        event_name: The event name (e.g., "agent-turn-complete")
-
     Returns:
-        True if the hook is disabled, False otherwise
+        Tuple of (local_config, default_config) - either may be None
     """
     try:
         script_dir = Path(__file__).parent
@@ -150,8 +164,6 @@ def is_hook_disabled(event_name):
 
         local_config_path = config_dir / "hooks-config.local.json"
         default_config_path = config_dir / "hooks-config.json"
-
-        config_key = "disableNotifyHook"
 
         local_config = None
         if local_config_path.exists():
@@ -169,15 +181,45 @@ def is_hook_disabled(event_name):
             except Exception:
                 pass
 
-        if local_config is not None and config_key in local_config:
-            return local_config[config_key]
-        elif default_config is not None and config_key in default_config:
-            return default_config[config_key]
-        else:
-            return False
-
+        return local_config, default_config
     except Exception:
-        return False
+        return None, None
+
+
+def get_config_value(key, default=False):
+    """
+    Get a config value with fallback logic: local -> default -> provided default.
+
+    Args:
+        key: The config key to look up
+        default: Default value if key not found in any config
+
+    Returns:
+        The config value
+    """
+    local_config, default_config = load_config()
+
+    if local_config is not None and key in local_config:
+        return local_config[key]
+    elif default_config is not None and key in default_config:
+        return default_config[key]
+    else:
+        return default
+
+
+def is_hook_disabled(event_name):
+    """
+    Check if a hook is disabled in the config files.
+    Uses fallback logic: hooks-config.local.json -> hooks-config.json
+
+    Args:
+        event_name: The event name (e.g., "SessionStart", "Stop", "UserPromptSubmit")
+
+    Returns:
+        True if the hook is disabled, False otherwise
+    """
+    config_key = HOOK_CONFIG_MAP.get(event_name)
+    return get_config_value(config_key, default=False)
 
 
 def is_logging_disabled():
@@ -188,50 +230,26 @@ def is_logging_disabled():
     Returns:
         True if logging is disabled, False otherwise
     """
-    try:
-        script_dir = Path(__file__).parent
-        hooks_dir = script_dir.parent
-        config_dir = hooks_dir / "config"
-
-        local_config_path = config_dir / "hooks-config.local.json"
-        default_config_path = config_dir / "hooks-config.json"
-
-        local_config = None
-        if local_config_path.exists():
-            try:
-                with open(local_config_path, "r", encoding="utf-8") as f:
-                    local_config = json.load(f)
-            except Exception:
-                pass
-
-        default_config = None
-        if default_config_path.exists():
-            try:
-                with open(default_config_path, "r", encoding="utf-8") as f:
-                    default_config = json.load(f)
-            except Exception:
-                pass
-
-        if local_config is not None and "disableLogging" in local_config:
-            return local_config["disableLogging"]
-        elif default_config is not None and "disableLogging" in default_config:
-            return default_config["disableLogging"]
-        else:
-            return False
-
-    except Exception:
-        return False
+    return get_config_value("disableLogging", default=False)
 
 
 def log_hook_data(hook_data):
     """
     Log the hook_data to hooks-log.jsonl for debugging/auditing.
     Log file is stored at .codex/hooks/logs/hooks-log.jsonl
+
+    Logs 3 keys: hook, timestamp, last_assistant_message
     """
     if is_logging_disabled():
         return
 
     try:
+        log_entry = {
+            "hook": hook_data.get("type", ""),
+            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "last_assistant_message": hook_data.get("last_assistant_message", ""),
+        }
+
         script_dir = Path(__file__).parent
         hooks_dir = script_dir.parent
         logs_dir = hooks_dir / "logs"
@@ -240,36 +258,85 @@ def log_hook_data(hook_data):
 
         log_path = logs_dir / "hooks-log.jsonl"
         with open(log_path, "a", encoding="utf-8") as log_file:
-            log_file.write(json.dumps(hook_data, ensure_ascii=False, indent=2) + "\n")
+            log_file.write(json.dumps(log_entry, ensure_ascii=False, indent=2) + "\n")
     except Exception as e:
         print(f"Failed to log hook_data: {e}", file=sys.stderr)
 
 
+def get_session_context():
+    """
+    Gather context information for SessionStart hook.
+    This output goes to stdout and feeds into the model's context.
+
+    Returns:
+        String of context information
+    """
+    return "hooks context: run"
+
+
+def parse_args(argv):
+    """
+    Parse command line arguments.
+    All hooks use: hooks.py --hook <hook-name>
+
+    Args:
+        argv: sys.argv[1:] list
+
+    Returns:
+        Tuple of (event_type, input_data) where input_data is the parsed JSON dict or None
+    """
+    if not argv:
+        return None, None
+
+    # hooks.json calling convention: --hook <event-type>
+    # The hooks engine passes JSON via stdin
+    if argv[0] == "--hook" and len(argv) >= 2:
+        event_type = argv[1]
+        input_data = {"type": event_type}
+        # Read stdin payload from hooks engine (non-blocking)
+        try:
+            if not sys.stdin.isatty():
+                stdin_data = sys.stdin.read()
+                if stdin_data.strip():
+                    input_data = json.loads(stdin_data)
+                    input_data["type"] = event_type
+        except Exception:
+            pass
+        return event_type, input_data
+
+    return None, None
+
+
 def main():
     """
-    Main program - runs when Codex CLI triggers the notify hook.
+    Main program - runs when Codex CLI triggers a hook.
 
-    How it works:
-    1. Codex CLI sends event data as JSON via CLI argument (sys.argv[1])
-    2. We check if the notify hook is disabled in hooks-config.json
-    3. We parse the JSON to get the event type
-    4. We play the corresponding notification sound
-    5. We exit successfully
+    Supports 5 hooks:
+    1. SessionStart (hooks.json): Outputs context to stdout + plays sound
+    2. PreToolUse (hooks.json): Plays sound before a tool executes
+    3. PostToolUse (hooks.json): Plays sound after a tool completes
+    4. Stop (hooks.json): Plays sound on session end
+    5. UserPromptSubmit (hooks.json): Plays sound when user submits a prompt
     """
     try:
-        # Read event data from CLI argument (Codex passes JSON as argv[1])
-        if len(sys.argv) < 2:
-            sys.exit(0)
+        event_type, input_data = parse_args(sys.argv[1:])
 
-        input_data = json.loads(sys.argv[1])
+        if not event_type:
+            sys.exit(0)
 
         # Log hook data
-        log_hook_data(input_data)
+        if input_data:
+            log_hook_data(input_data)
 
-        # Check if the notify hook is disabled
-        event_type = input_data.get("type", "")
+        # Check if the hook is disabled
         if is_hook_disabled(event_type):
             sys.exit(0)
+
+        # SessionStart: Output context to stdout (feeds into model context)
+        if event_type == "SessionStart":
+            context = get_session_context()
+            if context:
+                print(context)
 
         # Determine which sound to play
         sound_name = HOOK_SOUND_MAP.get(event_type)
@@ -280,9 +347,6 @@ def main():
 
         sys.exit(0)
 
-    except json.JSONDecodeError as e:
-        print(f"Error parsing JSON input: {e}", file=sys.stderr)
-        sys.exit(0)
     except Exception as e:
         print(f"Unexpected error: {e}", file=sys.stderr)
         sys.exit(0)
