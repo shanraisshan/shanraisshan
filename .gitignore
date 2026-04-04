@@ -1,3 +1,4 @@
 .env
 reddit-mcp/.venv/
 __pycache__/
+.claude/settings.local.json
