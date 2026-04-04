@@ -42,7 +42,7 @@
 
 <h2><img src="!/icon/activity.svg" height="26" align="center"/> Recent Activity</h2>
 
-![Last Updated](https://img.shields.io/badge/Last_Updated-Apr_04%2C_2026_03%3A41_PM_PKT-white?style=flat&labelColor=555)
+![Last Updated](https://img.shields.io/badge/Last_Updated-Apr_04%2C_2026_05%3A59_PM_PKT-white?style=flat&labelColor=555)
 
 <h3><img src="!/icon/reddit.png" height="24" align="center"/> Reddit (147)</h3>
 
@@ -50,10 +50,10 @@
 
 | S# | Post | Subreddit |
 |--:|:--|:--|
-| 162 | Boris Cherny (creator of CC) complete thread - anthropic bans subscription on 3rd party usage | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1sc5fj9/boris_cherny_creator_of_cc_complete_thread) (407 • 1) |
-| 161 | Peter Steinberger (OpenClaw Creator) credits Boris Cherny (Claude Code Creator) amid anthropic subscription ban for using openclaw - Complete Thread | [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1sc4gx7/peter_steinberger_openclaw_creator_credits_boris) (10K • 15) [/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1sc4f45/peter_steinberger_openclaw_creator_credits_boris) (2.1K • 2) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1sc4pzw/peter_steinberger_openclaw_creator_credits_boris) (397 • 0) |
-| 159 | Claude all 27 Hooks lifecycle explained | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1sc20m8/claude_all_27_hooks_lifecycle_explained) (1.7K • 0) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1sc21u6/claude_all_27_hooks_lifecycle_explained) (445 • 1) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1sc21hv/claude_all_27_hooks_lifecycle_explained) (432 • 1) |
-| 158 | if you have just started using Codex CLI, codex-cli-best-practice is your ultimate guide | [/codex](https://www.reddit.com/r/codex/comments/1sc1q9w/if_you_have_just_started_using_codex_cli) (1.5K • 0) [/OpenAI](https://www.reddit.com/r/OpenAI/comments/1sc1xd4/if_you_have_just_started_using_codex_cli) (1.2K • 1) [/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1sc1xmn/if_you_have_just_started_using_codex_cli) (573 • 1) [/developersPak](https://www.reddit.com/r/developersPak/comments/1sc5n96/if_you_have_just_started_using_codex_cli) (57 • 0) |
+| 162 | Boris Cherny (creator of CC) complete thread - anthropic bans subscription on 3rd party usage | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1sc5fj9/boris_cherny_creator_of_cc_complete_thread) (![61K](https://img.shields.io/badge/%F0%9F%91%80-61K-3FB950?style=flat&labelColor=white) • 35) |
+| 161 | Peter Steinberger (OpenClaw Creator) credits Boris Cherny (Claude Code Creator) amid anthropic subscription ban for using openclaw - Complete Thread | [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1sc4gx7/peter_steinberger_openclaw_creator_credits_boris) (38K • 29) [/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/comments/1sc720i/peter_steinberger_openclaw_creator_credits_boris) (10K • 3) [/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1sc4f45/peter_steinberger_openclaw_creator_credits_boris) (4.2K • 3) [/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1sc7oui/peter_steinberger_openclaw_creator_credits_boris) (1.3K • 2) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1sc4pzw/peter_steinberger_openclaw_creator_credits_boris) (725 • 0) [/vibecoding](https://www.reddit.com/r/vibecoding/comments/1sc7fsk/peter_steinberger_openclaw_creator_credits_boris) (147 • 0) [/SaaS](https://www.reddit.com/r/SaaS/comments/1sc7yk8/peter_steinberger_openclaw_creator_credits_boris) (75 • 1) |
+| 159 | Claude all 27 Hooks lifecycle explained | [/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1sc20m8/claude_all_27_hooks_lifecycle_explained) (2.1K • 0) [/Anthropic](https://www.reddit.com/r/Anthropic/comments/1sc21u6/claude_all_27_hooks_lifecycle_explained) (522 • 1) [/ClaudeCode](https://www.reddit.com/r/ClaudeCode/comments/1sc21hv/claude_all_27_hooks_lifecycle_explained) (496 • 1) |
+| 158 | if you have just started using Codex CLI, codex-cli-best-practice is your ultimate guide | [/codex](https://www.reddit.com/r/codex/comments/1sc1q9w/if_you_have_just_started_using_codex_cli) (2.7K • 0) [/OpenAI](https://www.reddit.com/r/OpenAI/comments/1sc1xd4/if_you_have_just_started_using_codex_cli) (2.1K • 1) [/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1sc1xmn/if_you_have_just_started_using_codex_cli) (644 • 1) [/developersPak](https://www.reddit.com/r/developersPak/comments/1sc5n96/if_you_have_just_started_using_codex_cli) (170 • 0) |
 
 **Most Viewed**
 
