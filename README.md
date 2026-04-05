@@ -1,4 +1,4 @@
-<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>
+<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /></a>
 <br><br>
 <img src="!/role.svg" height="30"/>
 <br><br>
@@ -6,30 +6,28 @@
 
 <img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Agentic Engineering | Product Engineer | Claude Code | Codex | MCP | Python/FastAPI | GCP | Mobile (Kotlin, React Native) | Java" />
 
-| | | |
-|:--|:--|:--|
-| <img src="!/icon/graduation.svg" height="16"/> | **MS** Computer Science | NUCES FAST University |
-| <img src="!/icon/graduation.svg" height="16"/> | **BE** Computer Information Systems | NED University |
+<h3>🎓 Education</h3>
 
-<br>
+| Degree | University | Year |
+|:--|:--|:--|
+| **MS** Computer Science | NUCES FAST University | [2019](https://nu.edu.pk/verification?id=15k-3045) |
+| **BE** Computer Information Systems | NED University | [2014](https://verification.pec.org.pk/v/eV/sED/i.aspx?eid=31392F3131363838) |
+
+<h3>🏆 Achievements</h3>
 
 <a href="https://github.com/trending?since=monthly"><img src="!/badge-github-trending.svg" alt="claude-code-best-practice on GitHub Monthly Trending in March 2026"/></a><br>
 <a href="https://www.reddit.com/user/shanraisshan/"><img src="!/badge-top-poster.svg" alt="Top 1% Poster on r/ClaudeAI, r/ClaudeCode and r/cursor"/></a>
 
-<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="82" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /></a>
+<h3>🤝 Connect</h3>
 
----
-
-<h2>🤝 Social Stats & Let's Connect</h2>
-
-<p align="center">
-<a href="https://medium.com/@shanraisshan"><img src="!/icon/medium.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="!/icon/stack-overflow.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/shanraisshan"><img src="!/icon/reddit.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/shanraisshan"><img src="!/icon/youtube.png" height="28"/></a>&nbsp;&nbsp;
-<a href="https://x.com/shanraisshan"><img src="!/icon/x.svg" height="28"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="28"/></a>
-</p>
+<table align="center" cellspacing="0" cellpadding="0"><tr>
+<td align="center" style="padding:0"><a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="28"/></a><br><img src="https://img.shields.io/badge/Feb%2F12-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://x.com/shanraisshan"><img src="!/icon/x.svg" height="28"/></a><br><img src="https://img.shields.io/badge/May%2F10-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://www.reddit.com/user/shanraisshan"><img src="!/icon/reddit.png" height="28"/></a><br><img src="https://img.shields.io/badge/Jan%2F17-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://www.youtube.com/c/shanraisshan"><img src="!/icon/youtube.png" height="28"/></a><br><img src="https://img.shields.io/badge/Aug%2F16-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="!/icon/stack-overflow.png" height="28"/></a><br><img src="https://img.shields.io/badge/Apr%2F15-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://medium.com/@shanraisshan"><img src="!/icon/medium.png" height="28"/></a><br><img src="https://img.shields.io/badge/Dec%2F17-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+</tr></table>
 
 <p align="center">
 <a href="https://github.com/shanraisshan"><img src="https://img.shields.io/github/followers/shanraisshan?style=flat&logo=github&label=GitHub%20Followers&color=blue" alt="GitHub Followers"/></a>
@@ -96,15 +94,16 @@
 
 <p align="center"><a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/codex-cli-best-practice"><img src="!/codex-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/cursor-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/gemini-mascot.svg" height="30"/></a></p>
 
-<h3><a href="https://www.youtube.com/@Shanraisshan"><img src="!/icon/youtube.png" height="24" align="center"/></a> Videos (6)</h3>
+<h3><a href="https://www.youtube.com/@Shanraisshan"><img src="!/icon/youtube.png" height="24" align="center"/></a> Videos (7)</h3>
 
 <p>
+<a href="https://youtu.be/AkAhkalkRY4"><img src="!/youtube-thumbs/youtube-video-7.png" width="24%"/></a>
 <a href="https://youtu.be/MnpOsTEDzeY"><img src="!/youtube-thumbs/youtube-video-6.png" width="24%"/></a>
 <a href="https://youtu.be/O8PVI6JsfFc"><img src="!/youtube-thumbs/youtube-video-5.png" width="24%"/></a>
 <a href="https://youtu.be/6_y3AtkgjqA"><img src="!/youtube-thumbs/youtube-video-4.png" width="24%"/></a>
-<a href="https://www.youtube.com/watch?v=OF3yn4bpre8"><img src="!/youtube-thumbs/youtube-video-3.png" width="24%"/></a>
 </p>
 <p>
+<a href="https://www.youtube.com/watch?v=OF3yn4bpre8"><img src="!/youtube-thumbs/youtube-video-3.png" width="24%"/></a>
 <a href="https://www.youtube.com/watch?v=JFPJtMNV8Qw"><img src="!/youtube-thumbs/youtube-video-2.png" width="24%"/></a>
 <a href="https://www.youtube.com/watch?v=vgfdSUbz_b0"><img src="!/youtube-thumbs/youtube-video-1.png" width="24%"/></a>
 </p>
