@@ -8,7 +8,7 @@ This is **shanraisshan's GitHub profile repo** — a living portfolio that displ
 
 ## Key Files
 
-- `README.md` — The GitHub profile page. Contains "Latest" and "Most Viewed" Reddit tables (4 latest, 5 most viewed), GitHub repos list, social links, and YouTube videos.
+- `README.md` — The GitHub profile page. Contains "Latest" (4 newest by posting date) and "Most Viewed" (5 posts with highest single-subreddit view count) Reddit tables, GitHub repos list, social links, and YouTube videos.
 - `reports/reddit.md` — Complete Reddit post log (157+ posts). Each row has S#, title, and subreddit cross-posts with `(views • comments)` stats. Posts are numbered sequentially, newest first.
 - `reports/reddit-promotion.md` — Tracks which Reddit posts link back to specific repos (claude-code-best-practice, claude-code-hooks, codex-cli-best-practice, codex-cli-hooks). Categorized by promotion type.
 - `reports/sponsored-repos.md` — Curated list of company-sponsored GitHub repos and open-source AI coding tools.

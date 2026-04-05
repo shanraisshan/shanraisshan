@@ -287,8 +287,8 @@ Update the **Posts** column in the "Subreddit Stats (Weekly)" table at the botto
 
 ## Step 7: Update README.md
 
-1. **Latest Posts Table**: Replace with the 4 newest posts by S# (descending)
-2. **Most Viewed Table**: Update the 5 most-viewed posts with fresh stats
+1. **Latest Posts Table**: Replace with the 4 newest posts **by actual posting date** (use table order in reddit.md, which is date-descending — NOT by S# number, since old posts discovered in new subreddits may have high S# but are not recent)
+2. **Most Viewed Table**: Update the 5 most-viewed posts sorted by **highest single-subreddit view count** (i.e., the peak views of any one subreddit entry in the row, NOT total views summed across all cross-posts)
 3. **Count**: Update `REDDIT ([count])` to match reddit.md
 
 ---
