@@ -1,5 +1,2 @@
 .env
-reddit-mcp/.venv/
-__pycache__/
 .claude/settings.local.json
-.claude/agents/shayan-second-brain.md
