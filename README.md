@@ -10,8 +10,8 @@
 
 | Degree | University | Year |
 |:--|:--|:--|
-| **MS** Computer Science | NUCES FAST University | [2019](https://nu.edu.pk/verification?id=15k-3045) |
-| **BE** Computer Information Systems | NED University | [2014](https://verification.pec.org.pk/v/eV/sED/i.aspx?eid=31392F3131363838) |
+| **MS** Computer Science | NUCES FAST University | 2019 |
+| **BE** Computer Information Systems | NED University | 2014 |
 
 <h3>🏆 Achievements</h3>
 
@@ -21,12 +21,12 @@
 <h3>🤝 Connect</h3>
 
 <table align="center" cellspacing="0" cellpadding="0"><tr>
-<td align="center" style="padding:0"><a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="28"/></a><br><img src="https://img.shields.io/badge/Feb%2F12-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
-<td align="center" style="padding:0"><a href="https://x.com/shanraisshan"><img src="!/icon/x.svg" height="28"/></a><br><img src="https://img.shields.io/badge/May%2F10-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
-<td align="center" style="padding:0"><a href="https://www.reddit.com/user/shanraisshan"><img src="!/icon/reddit.png" height="28"/></a><br><img src="https://img.shields.io/badge/Jan%2F17-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
-<td align="center" style="padding:0"><a href="https://www.youtube.com/c/shanraisshan"><img src="!/icon/youtube.png" height="28"/></a><br><img src="https://img.shields.io/badge/Aug%2F16-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
-<td align="center" style="padding:0"><a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="!/icon/stack-overflow.png" height="28"/></a><br><img src="https://img.shields.io/badge/Apr%2F15-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
-<td align="center" style="padding:0"><a href="https://medium.com/@shanraisshan"><img src="!/icon/medium.png" height="28"/></a><br><img src="https://img.shields.io/badge/Dec%2F17-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://www.linkedin.com/in/shanraisshan"><img src="!/icon/linkedin.png" height="28"/></a><br><img src="https://img.shields.io/badge/14_yrs-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://x.com/shanraisshan"><img src="!/icon/x.svg" height="28"/></a><br><img src="https://img.shields.io/badge/16_yrs-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://www.reddit.com/user/shanraisshan"><img src="!/icon/reddit.png" height="28"/></a><br><img src="https://img.shields.io/badge/9_yrs-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://www.youtube.com/c/shanraisshan"><img src="!/icon/youtube.png" height="28"/></a><br><img src="https://img.shields.io/badge/9_yrs-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://stackoverflow.com/users/4754141/shanraisshan"><img src="!/icon/stack-overflow.png" height="28"/></a><br><img src="https://img.shields.io/badge/11_yrs-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
+<td align="center" style="padding:0"><a href="https://medium.com/@shanraisshan"><img src="!/icon/medium.png" height="28"/></a><br><img src="https://img.shields.io/badge/8_yrs-grey?style=flat-square&labelColor=white&color=white" height="12"/></td>
 </tr></table>
 
 <p align="center">
@@ -106,4 +106,13 @@
 <a href="https://www.youtube.com/watch?v=JFPJtMNV8Qw"><img src="!/youtube-thumbs/youtube-video-2.png" width="24%"/></a>
 <a href="https://www.youtube.com/watch?v=vgfdSUbz_b0"><img src="!/youtube-thumbs/youtube-video-1.png" width="24%"/></a>
 </p>
+
+<h3>🇵🇰 Most Starred Repos from Pakistan</h3>
+
+| # | Repository | ★ |
+|--:|:--|:--|
+| 1 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | ![Stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=flat&label=%E2%98%85&labelColor=white&color=FF5252) |
+| 2 | [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) | ![Stars](https://img.shields.io/github/stars/kamranahmedse/design-patterns-for-humans?style=flat&label=%E2%98%85&labelColor=white&color=F09000) |
+| 3 | [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) | ![Stars](https://img.shields.io/github/stars/ziishaned/learn-regex?style=flat&label=%E2%98%85&labelColor=white&color=F09000) |
+| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
 
