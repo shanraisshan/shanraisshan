@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 180" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Hadith from Sunan Ibn Majah 243">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 150" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Hadith from Sunan Ibn Majah 243">
   <title>The best charity is that a Muslim man learns some knowledge and then teaches it to his Muslim brother — Sunan Ibn Majah 243</title>
   <defs>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
@@ -34,63 +34,49 @@
       </g>
       <circle cx="76" cy="76" r="3" fill="#a07a3f"/>
     </symbol>
-
-    <symbol id="ayahMark" viewBox="0 0 60 60">
-      <circle cx="30" cy="30" r="26" fill="none" stroke="#a07a3f" stroke-width="1.4"/>
-      <circle cx="30" cy="30" r="20" fill="none" stroke="#a07a3f" stroke-width="1"/>
-      <polygon points="30,10 34,26 50,30 34,34 30,50 26,34 10,30 26,26" fill="#c9a449"/>
-      <polygon points="30,18 32,28 42,30 32,32 30,42 28,32 18,30 28,28" fill="#fdf7e6"/>
-    </symbol>
   </defs>
 
   <!-- Layered background -->
-  <rect width="1100" height="180" fill="url(#bgGrad)"/>
-  <rect width="1100" height="180" fill="url(#islamicTiles)"/>
-  <ellipse cx="550" cy="80" rx="500" ry="90" fill="url(#halo)"/>
-  <rect width="1100" height="180" fill="url(#vignette)"/>
+  <rect width="1100" height="150" fill="url(#bgGrad)"/>
+  <rect width="1100" height="150" fill="url(#islamicTiles)"/>
+  <ellipse cx="550" cy="65" rx="500" ry="80" fill="url(#halo)"/>
+  <rect width="1100" height="150" fill="url(#vignette)"/>
 
   <!-- Mihrab arch silhouette behind Arabic text -->
   <g opacity="0.10">
-    <path d="M 380,108 L 380,52 Q 380,10 550,10 Q 720,10 720,52 L 720,108 Z" fill="#5b3a16"/>
-    <path d="M 392,108 L 392,57 Q 392,22 550,22 Q 708,22 708,57 L 708,108 Z"
+    <path d="M 380,90 L 380,44 Q 380,8 550,8 Q 720,8 720,44 L 720,90 Z" fill="#5b3a16"/>
+    <path d="M 392,90 L 392,49 Q 392,20 550,20 Q 708,20 708,49 L 708,90 Z"
           fill="none" stroke="#3d2510" stroke-width="1" opacity="0.6"/>
   </g>
 
   <!-- Triple decorative border -->
-  <rect x="10" y="10" width="1080" height="160" fill="none" stroke="#a07a3f" stroke-width="1.4"/>
-  <rect x="16" y="16" width="1068" height="148" fill="none" stroke="#c9a449" stroke-width="0.7" opacity="0.85"/>
-  <rect x="22" y="22" width="1056" height="136" fill="none" stroke="#a07a3f" stroke-width="0.4" opacity="0.55"/>
+  <rect x="10" y="10" width="1080" height="130" fill="none" stroke="#a07a3f" stroke-width="1.4"/>
+  <rect x="16" y="16" width="1068" height="118" fill="none" stroke="#c9a449" stroke-width="0.7" opacity="0.85"/>
+  <rect x="22" y="22" width="1056" height="106" fill="none" stroke="#a07a3f" stroke-width="0.4" opacity="0.55"/>
 
   <!-- Corner ornaments -->
-  <g transform="translate(24,24)"><use href="#cornerOrnament" width="42" height="42"/></g>
-  <g transform="translate(1076,24) scale(-1,1)"><use href="#cornerOrnament" width="42" height="42"/></g>
-  <g transform="translate(24,156) scale(1,-1)"><use href="#cornerOrnament" width="42" height="42"/></g>
-  <g transform="translate(1076,156) scale(-1,-1)"><use href="#cornerOrnament" width="42" height="42"/></g>
+  <g transform="translate(24,24)"><use href="#cornerOrnament" width="38" height="38"/></g>
+  <g transform="translate(1076,24) scale(-1,1)"><use href="#cornerOrnament" width="38" height="38"/></g>
+  <g transform="translate(24,126) scale(1,-1)"><use href="#cornerOrnament" width="38" height="38"/></g>
+  <g transform="translate(1076,126) scale(-1,-1)"><use href="#cornerOrnament" width="38" height="38"/></g>
 
   <!-- Arabic Calligraphy (main hadith) -->
-  <text x="550" y="64" text-anchor="middle" direction="rtl"
+  <text x="550" y="60" text-anchor="middle" direction="rtl"
         font-family="'Amiri Quran','Amiri','Scheherazade New','Scheherazade','Lateef','Noto Naskh Arabic','Traditional Arabic','Geeza Pro',serif"
         font-size="24" fill="#1f3d22" font-weight="500"
         style="font-feature-settings: 'liga','calt','kern';">
     <tspan>«</tspan><tspan fill="#2d4a2b">أَفْضَلُ الصَّدَقَةِ أَنْ يَتَعَلَّمَ الْمَرْءُ الْمُسْلِمُ عِلْمًا ثُمَّ يُعَلِّمَهُ أَخَاهُ الْمُسْلِمَ</tspan><tspan>»</tspan>
   </text>
 
-  <!-- Ayah-style mark divider -->
-  <g transform="translate(535,82)">
-    <line x1="-180" y1="15" x2="-8" y2="15" stroke="#a07a3f" stroke-width="0.6"/>
-    <use href="#ayahMark" x="0" y="0" width="30" height="30"/>
-    <line x1="38" y1="15" x2="210" y2="15" stroke="#a07a3f" stroke-width="0.6"/>
-  </g>
-
   <!-- English translation - single line -->
-  <text x="550" y="138" text-anchor="middle"
+  <text x="550" y="105" text-anchor="middle"
         font-family="'Cormorant Garamond','Garamond','Palatino Linotype','Georgia',serif"
         font-size="18" fill="#3d2817" font-style="italic">
     “The best charity is that a Muslim man learns some knowledge and then teaches it to his Muslim brother.”
   </text>
 
   <!-- Reference -->
-  <text x="550" y="162" text-anchor="middle"
+  <text x="550" y="130" text-anchor="middle"
         font-family="'Cormorant Garamond','Georgia',serif"
         font-size="10" fill="#8b6f47" letter-spacing="3">
     — SUNAN IBN MAJAH 243 —
