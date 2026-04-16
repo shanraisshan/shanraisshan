@@ -1,3 +1,9 @@
+<p align="center">
+<img src="!/hadith-wallpaper.svg" width="700" alt="«The best charity is that a Muslim man learns some knowledge and then teaches it to his Muslim brother.» — Sunan Ibn Majah 243"/>
+</p>
+
+<br>
+
 <img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0_4th_most_%E2%98%85-3FB950?style=flat-square" alt="4th most starred repo from Pakistan" height="20" /></a>
 <br><br>
 <img src="!/role.svg" height="30"/>
