@@ -1,10 +1,10 @@
-<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /></a>
+<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0_4th_most_%E2%98%85-3FB950?style=flat-square" alt="4th most starred repo from Pakistan" height="20" /></a>
 <br><br>
 <img src="!/role.svg" height="30"/>
 <br><br>
 <img src="!/terminal.svg" alt="i use claude code in light mode"/>
 
-<img src="!/banner-pills.svg" alt="AI-First Spec-Driven Development | Agentic Engineering | Product Engineer | Claude Code | Codex | MCP | Python/FastAPI | GCP | Mobile (Kotlin, React Native) | Java" />
+<img src="!/banner-pills.svg" alt="Agentic Workflows - Claude Code / Codex CLI | AI-First Spec-Driven Development | Product Engineer | GCP (Firebase, Cloud Run, Cloud Functions, Pub/Sub) | Mobile (React Native, Kotlin)" />
 
 <h3>🎓 Education</h3>
 
@@ -12,6 +12,10 @@
 |:--|:--|:--|
 | **MS** Computer Science | NUCES FAST University | 2019 |
 | **BE** Computer Information Systems | NED University | 2014 |
+
+<h3>📚 Courses</h3>
+
+<a href="https://learn.deeplearning.ai/accomplishments/37863187-7759-492d-9b59-47ae8e82ff91"><img src="!/badge-deeplearning-ai.svg" alt="Spec-Driven Development with Coding Agents · JetBrains · Apr 2026"/></a>
 
 <h3>🏆 Achievements</h3>
 
