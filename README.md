@@ -1,5 +1,5 @@
 <p align="center">
-<img src="!/hadith-wallpaper.svg" width="700" alt="«The best charity is that a Muslim man learns some knowledge and then teaches it to his Muslim brother.» — Sunan Ibn Majah 243"/>
+<a href="https://sunnah.com/ibnmajah:243"><img src="!/hadith-wallpaper.svg" width="700" alt="«The best charity is that a Muslim man learns some knowledge and then teaches it to his Muslim brother.» — Sunan Ibn Majah 243"/></a>
 </p>
 
 <br>
