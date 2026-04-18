@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0_4th_most_%E2%98%85-3FB950?style=flat-square" alt="4th most starred repo from Pakistan" height="20" /></a>
+<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0_3rd_most_%E2%98%85-3FB950?style=flat-square" alt="3rd most starred repo from Pakistan" height="20" /></a>
 <br><br>
 <img src="!/role.svg" height="30"/>
 <br><br>
@@ -50,7 +50,7 @@
 
 <h2><img src="!/icon/activity.svg" height="26" align="center"/> Recent Activity</h2>
 
-![Last Updated](https://img.shields.io/badge/Last_Updated-Apr_18%2C_2026_07%3A57_PM_PKT-white?style=flat&labelColor=555)
+![Last Updated](https://img.shields.io/badge/Last_Updated-Apr_18%2C_2026_08%3A07_PM_PKT-white?style=flat&labelColor=555)
 
 <h3><img src="!/icon/reddit.png" height="24" align="center"/> Reddit (157)</h3>
 
@@ -123,6 +123,5 @@
 |--:|:--|:--|
 | 1 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | ![Stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=flat&label=%E2%98%85&labelColor=white&color=FF5252) |
 | 2 | [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) | ![Stars](https://img.shields.io/github/stars/kamranahmedse/design-patterns-for-humans?style=flat&label=%E2%98%85&labelColor=white&color=F09000) |
-| 3 | [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) | ![Stars](https://img.shields.io/github/stars/ziishaned/learn-regex?style=flat&label=%E2%98%85&labelColor=white&color=F09000) |
-| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
+| 3 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
 
