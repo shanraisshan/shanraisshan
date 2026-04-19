@@ -4,9 +4,11 @@
 
 <br>
 
-<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0_3rd_most_%E2%98%85-3FB950?style=flat-square" alt="3rd most starred repo from Pakistan" height="20" /></a>
+<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>
 <br><br>
 <img src="!/role.svg" height="30"/>
+<br><br>
+<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0_3rd_most_%E2%98%85-3FB950?style=flat-square" alt="3rd most starred repo from Pakistan" height="20" /></a>
 <br><br>
 <img src="!/terminal.svg" alt="i use claude code in light mode"/>
 
@@ -25,7 +27,7 @@
 
 <h3>🏆 Achievements</h3>
 
-<a href="https://github.com/trending?since=monthly"><img src="!/badge-github-trending.svg" alt="claude-code-best-practice on GitHub Monthly Trending in March 2026"/></a><br>
+<a href="https://github.com/trending"><img src="!/badge-github-trending.svg" alt="claude-code-best-practice Hit #1 on GitHub Trending multiple times"/></a><br>
 <a href="https://www.reddit.com/user/shanraisshan/"><img src="!/badge-top-poster.svg" alt="Top 1% Poster on r/ClaudeAI, r/ClaudeCode and r/cursor"/></a>
 
 <h3>🤝 Connect</h3>
@@ -117,17 +119,7 @@
 <a href="https://www.youtube.com/watch?v=vgfdSUbz_b0"><img src="!/youtube-thumbs/youtube-video-1.png" width="24%"/></a>
 </p>
 
-<h3>🇵🇰 Most Starred Repos from Pakistan</h3>
-
-| # | Repository | ★ |
-|--:|:--|:--|
-| 1 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | ![Stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=flat&label=%E2%98%85&labelColor=white&color=FF5252) |
-| 2 | [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) | ![Stars](https://img.shields.io/github/stars/kamranahmedse/design-patterns-for-humans?style=flat&label=%E2%98%85&labelColor=white&color=F09000) |
-| 3 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
-
-<p align="center">
-  <img src="!/claude-jumping.svg" alt="section divider" width="60" height="50">
-</p>
+<p align="center"><a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/codex-cli-best-practice"><img src="!/codex-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/cursor-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/gemini-mascot.svg" height="30"/></a></p>
 
 ## <img src="!/tags/sponsor-heart.svg" width="22" height="22" align="center"> Sponsor My Work
 
