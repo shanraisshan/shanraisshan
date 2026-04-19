@@ -125,3 +125,13 @@
 | 2 | [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) | ![Stars](https://img.shields.io/github/stars/kamranahmedse/design-patterns-for-humans?style=flat&label=%E2%98%85&labelColor=white&color=F09000) |
 | 3 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
 
+<p align="center">
+  <img src="!/claude-jumping.svg" alt="section divider" width="60" height="50">
+</p>
+
+## <img src="!/tags/sponsor-heart.svg" width="22" height="22" align="center"> Sponsor My Work
+
+If you like my work, buy me a doodh patti 🍵 on
+
+<a href="https://buy.polar.sh/polar_cl_Lt3WgnjgGkPNa6grW3p8fHvL4xisgGt4ZE8Ed1katfH"><img src="!/tags/polar.svg" alt="Polar" width="40" height="40" align="center"></a> <a href="https://buy.polar.sh/polar_cl_Lt3WgnjgGkPNa6grW3p8fHvL4xisgGt4ZE8Ed1katfH"><strong>Polar</strong></a>
+
