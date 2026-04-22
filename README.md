@@ -4,9 +4,9 @@
 
 <br>
 
-<img src="!/profile.png" width="38" height="38"/> <img src="!/name.svg" height="32"/>
+<img src="%21/profile/shayan.png" width="38" height="38"/> <img src="%21/profile/name.svg" height="32"/>
 <br><br>
-<img src="!/role.svg" height="30"/>
+<img src="%21/profile/role.svg" height="30"/>
 <br><br>
 <a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0_3rd_most_%E2%98%85-3FB950?style=flat-square" alt="3rd most starred repo from Pakistan" height="20" /></a>
 <br><br>
@@ -78,7 +78,7 @@
 
 <p align="center"><a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/codex-cli-best-practice"><img src="!/codex-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/cursor-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/gemini-mascot.svg" height="30"/></a></p>
 
-<h3><img src="!/icon/github.svg" height="24" align="center"/> Github (27)</h3>
+<h3><img src="!/icon/github.svg" height="24" align="center"/> Github (29)</h3>
 
 | S# | Repository | ★ |
 |--:|:--|:--|
@@ -95,6 +95,8 @@
 | 11 | [Notes](https://github.com/shanraisshan/notes) | ![Stars](https://img.shields.io/github/stars/shanraisshan/notes?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 12 | [claude-agent-sdk-vs-claude-code-cli](https://github.com/shanraisshan/claude-agent-sdk-vs-claude-code-cli) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-agent-sdk-vs-claude-code-cli?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 13 | [mcp-weather](https://github.com/shanraisshan/mcp-weather) | ![Stars](https://img.shields.io/github/stars/shanraisshan/mcp-weather?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 14 | [gemini-cli-best-practice](https://github.com/shanraisshan/gemini-cli-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/gemini-cli-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 15 | [gemini-cli-hooks](https://github.com/shanraisshan/gemini-cli-hooks) | ![Stars](https://img.shields.io/github/stars/shanraisshan/gemini-cli-hooks?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 
 <p align="center"><a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/codex-cli-best-practice"><img src="!/codex-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/cursor-mascot.svg" height="30"/></a>&nbsp;&nbsp;<a href="https://github.com/shanraisshan/claude-code-codex-cursor-gemini"><img src="!/gemini-mascot.svg" height="30"/></a></p>
 
