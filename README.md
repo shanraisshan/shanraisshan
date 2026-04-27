@@ -6,7 +6,7 @@
 
 <img src="%21/profile/shayan.png" width="38" height="38"/> <img src="%21/profile/name.svg" height="32"/>
 <br><br>
-<img src="%21/profile/role.svg" height="30"/>
+<strong>SOFTWARE ARCHITECT</strong> <a href="https://disrupt.com"><img src="%21/profile/disrupt.svg" height="30" align="bottom"/></a>
 <br><br>
 <a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-mascot.svg" alt="Claude Code Best Practice" height="38" /><img src="!/repo.svg" alt="Repo" height="44" /><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="Stars" height="20" /><img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0_2nd_most_%E2%98%85-3FB950?style=flat-square" alt="3rd most starred repo from Pakistan" height="20" /></a>
 <br><br>
@@ -89,8 +89,8 @@
 | 5 | [Refactoring-Android-App-Series-Overview](https://github.com/shanraisshan/Refactoring-Android-App-Series-Overview) | ![Stars](https://img.shields.io/github/stars/shanraisshan/Refactoring-Android-App-Series-Overview?style=flat&label=%E2%98%85&labelColor=white&color=3FB950) |
 | 6 | [claude-code-status-line](https://github.com/shanraisshan/claude-code-status-line) <img src="!/mascots/claude-logo.png" height="16" align="center"/> | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-status-line?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 7 | [codex-cli-hooks](https://github.com/shanraisshan/codex-cli-hooks) <img src="!/mascots/codex-logo.png" height="16" align="center"/> | ![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-hooks?style=flat&label=%E2%98%85&labelColor=white&color=black) |
-| 8 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) | ![Stars](https://img.shields.io/github/stars/shanraisshan/novel-llm-26?style=flat&label=%E2%98%85&labelColor=white&color=black) |
-| 9 | [gemini-cli-best-practice](https://github.com/shanraisshan/gemini-cli-best-practice) <img src="!/mascots/gemini-logo.png" height="16" align="center"/> | ![Stars](https://img.shields.io/github/stars/shanraisshan/gemini-cli-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 8 | [gemini-cli-best-practice](https://github.com/shanraisshan/gemini-cli-best-practice) <img src="!/mascots/gemini-logo.png" height="16" align="center"/> | ![Stars](https://img.shields.io/github/stars/shanraisshan/gemini-cli-best-practice?style=flat&label=%E2%98%85&labelColor=white&color=black) |
+| 9 | [novel-llm-26](https://github.com/shanraisshan/novel-llm-26) | ![Stars](https://img.shields.io/github/stars/shanraisshan/novel-llm-26?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 10 | [claude-code-codex-cursor-gemini](https://github.com/shanraisshan/claude-code-codex-cursor-gemini) <img src="!/mascots/claude-logo.png" height="16" align="center"/> <img src="!/mascots/codex-logo.png" height="16" align="center"/> <img src="!/mascots/gemini-logo.png" height="16" align="center"/> | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-codex-cursor-gemini?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 11 | [claude-code-multi-agent-orchestrartion](https://github.com/shanraisshan/claude-code-multi-agent-orchestrartion) <img src="!/mascots/claude-logo.png" height="16" align="center"/> | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-multi-agent-orchestrartion?style=flat&label=%E2%98%85&labelColor=white&color=black) |
 | 12 | [Notes](https://github.com/shanraisshan/notes) | ![Stars](https://img.shields.io/github/stars/shanraisshan/notes?style=flat&label=%E2%98%85&labelColor=white&color=black) |
